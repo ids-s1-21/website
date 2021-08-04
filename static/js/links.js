@@ -61,6 +61,32 @@ try {document.getElementById("nhsr").href = "https://nhsrcommunity.com/blog/how-
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };
 
+// Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
+// TidyTuesday
+try {document.getElementById("TidyTuesday").href = "https://github.com/rfordatascience/tidytuesday";} catch { };
+// NHS Scotland Open Data
+try {document.getElementById("NHSSOD").href = "https://www.opendata.nhs.scot";} catch { };
+// Edinburgh Open Data
+try {document.getElementById("EDOD").href = "https://edinburghopendata.info/";} catch { };
+// Open access to Scotland's official statistics
+try {document.getElementById("SOS").href = "https://statistics.gov.scot/home";} catch { };
+// Bikeshare data portal
+try {document.getElementById("BSDP").href = "https://www.bikeshare.com/data/";} catch { };
+// UK Gov Data
+try {document.getElementById("UKGov").href = "https://data.gov.uk/";} catch { };
+// Kaggle datasets
+try {document.getElementById("KaggleData").href = "https://www.kaggle.com/datasets";} catch { };
+// OpenIntro datasets
+try {document.getElementById("OpenIntroData").href = "http://openintrostat.github.io/openintro/";} catch { };
+// Awesome public datasets
+try {document.getElementById("Awesome").href = "https://github.com/awesomedata/awesome-public-datasets";} catch { };
+// Youth Risk Behavior Surveillance System (YRBSS)
+try {document.getElementById("YRBSS").href = "https://chronicdata.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/q6p7-56au";} catch { };
+// PRISM Data Archive Project
+try {document.getElementById("PRISM").href = "https://www.icpsr.umich.edu/icpsrweb/content/ICPSR/fenway.html";} catch { };
+// Harvard Dataverse
+try {document.getElementById("HarvardData").href = "https://dataverse.harvard.edu/";} catch { };
+
 // Other ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {
 	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview";
@@ -71,6 +97,9 @@ try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app
 try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	// link to learn
 try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };	// link to the IDS course on learn
 try {document.getElementById('survey1').href = "https://www.example.com";} catch { };	// link to the "Getting to know you survey"
+try {document.getElementById('assessPol').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/assessment/rules";} catch { };
+try {document.getElementById('UCMS').href = "https://edin.ac/common-marking-scheme";} catch { };
+try {document.getElementById('assessReg').href = "https://edin.ac/assessment-regulations";} catch { };
 
 // Complete -------------------------------------------------------------------------------------------------------------------------------------------------
 console.log('Links Added');

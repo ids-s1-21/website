@@ -17,7 +17,7 @@ Your overall course grade will be comprised of the following components, and the
 - Project: 30%
 - Quiz: 10%
 
-For more information on moderation and scaling, please review the official University and School policies [here](https://teaching.maths.ed.ac.uk/main/undergraduate/studies/assessment/rules).
+For more information on moderation and scaling, please review the official University and School policies <a id="assessPol">here</a>.
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%", fig.asp=0.9}
 library(tidyverse)

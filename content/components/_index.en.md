@@ -57,5 +57,7 @@ Videos are released on Mondays, office hours are on Tuesdays and Wednesdays, cod
 If you are looking for your class times for this course, these can be found via your University of Edinburgh calendar:
 </p>
 
-- [View your calendar in Office 365](https://edadfed.ed.ac.uk/adfs/ls/?RedirectToIdentityProvider=https%3a%2f%2fidp.ed.ac.uk%2fshibboleth&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=wa%3Dwsignin1.0%26whr%3Dhttps:%252f%252fedadfed.ed.ac.uk%252fadfs%252fls%26wreply%3dhttps:%252f%252foutlook.com%252fowa%252f%253frealm%253ded.ac.uk%2526path%253d%252fcalendar%252fview%252fWorkWeek)
-- [Information about Student Timetables](https://edin.ac/student-timetables)
+<ul>
+  <li><a id="timetable">View your calendar in Office 365</a></li>
+  <li><a id="timetableInfo">Information about Student Timetables</a></li>
+</ul>

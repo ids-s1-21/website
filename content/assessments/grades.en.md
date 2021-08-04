@@ -9,9 +9,11 @@ Please be aware that grades located within Learn are provisional until these hav
 
 ### Marking Scheme
 
-- [University's Common Marking Scheme](https://edin.ac/common-marking-scheme)
-- [Assessment regulations](https://edin.ac/assessment-regulations)
+<ul>
+  <li><a id="UCMS">University's Common Marking Scheme</a></li>
+  <li><a id="assessReg">Assessment Regulations</a></li>
+</ul>
 
 ### Additional Information
 
-For additional information around assessments, including extensions, regrade requests, and academic misconduct, please see the [Policies](/policies) page.
+For additional information around assessments, including extensions, regrade requests, and academic misconduct, please see the <a id="policies">Policies</a> page.

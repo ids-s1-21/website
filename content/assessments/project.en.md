@@ -35,19 +35,21 @@ Do not reuse datasets used in examples, homework assignments, or labs in the cla
 
 Below are a list of data repositories that might be of interest to browse. You're not limited to these resources, and in fact you're encouraged to venture beyond them. But you might find something interesting there:
 
-- [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
-- [NHS Scotland Open Data](https://www.opendata.nhs.scot/)
-- [Edinburgh Open Data](https://edinburghopendata.info/)
-- [Open access to Scotland's official statistics](https://statistics.gov.scot/home)
-- [Bikeshare data portal](https://www.bikeshare.com/data/)
-- [UK Gov Data](https://data.gov.uk/)
-- [Kaggle datasets](https://www.kaggle.com/datasets)
-- [OpenIntro datasets](http://openintrostat.github.io/openintro/)
-- [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Youth Risk Behavior Surveillance System (YRBSS)](https://chronicdata.cdc.gov/Youth-Risk-Behaviors/DASH-Youth-Risk-Behavior-Surveillance-System-YRBSS/q6p7-56au)
-- [PRISM Data Archive Project](https://www.icpsr.umich.edu/icpsrweb/content/ICPSR/fenway.html)
-- [Harvard Dataverse](https://dataverse.harvard.edu/)
-- If you know of others, let me know, and we'll add here...
+<ul>
+  <li><a id="TidyTuesday">TidyTuesday</a></li>
+  <li><a id="NHSSOD">NHS Scotland Open Data</a></li>
+  <li><a id="EDOD">Edinburgh Open Data</a></li>
+  <li><a id="SOS">Open access to Scotland's official statistics</a></li>
+  <li><a id="BSDP">Bikeshare data portal</a></li>
+  <li><a id="UKGov">UK Gov Data</a></li>
+  <li><a id="KaggleData">Kaggle datasets</a></li>
+  <li><a id="OpenIntroData">OpenIntro datasets</a></li>
+  <li><a id="Awesome">Awesome public datasets</a></li>
+  <li><a id="YRBSS">Youth Risk Behavior Surveillance System (YRBSS)</a></li>
+  <li><a id="PRISM">PRISM Data Archive Project</a></li>
+  <li><a id="HarvardData">Harvard Dataverse</a></li>
+  <li>If you know of others, let me know, and we'll add here...</li>
+</ul>
 
 ### Deliverables
 

@@ -15,4 +15,7 @@ try {document.getElementById('resources').href = "/resources";} catch { };	// li
 try {document.getElementById('survey1').href = "https://www.example.com";} catch { };	// link to the "Getting to know you survey"
 try {document.getElementById('tags').href = "/tags";} catch { };	// link to the tags page
 try {document.getElementById('troubleshoot').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
-try {document.getElementById('ytplaylist').href = "https://youtube.com/playlist?list=PLPpngierSrQQXWJYxcejlR-DI2YSp0gD2";} catch { };	// link to the youtube playlist
+try {document.getElementById('ytplaylist').href = "https://youtube.com/playlist?list=PLPpngierSrQQXWJYxcejlR-DI2YSp0gD2";} catch {console.log('no ytplaylist id present')};	// link to the youtube playlist
+
+try {document.getElementById("mhplaylist").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch {console.log('no mhplaylist id present')};	// link to the official drps course page
+console.log('Links Added');

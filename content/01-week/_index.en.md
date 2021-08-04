@@ -26,7 +26,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 ## Videos
 
-<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="ytplaylist">here</a> and on MediaHopper <a href="https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/">here</a>.
+<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="ytplaylist">here</a> and on MediaHopper <a id="mhplaylist">here</a>.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|

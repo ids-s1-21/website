@@ -21,32 +21,32 @@ try {document.getElementById("W1L0MH").href = "https://example.com";} catch { };
 // week 1 lecture 1
 try {document.getElementById("W1L1YT").href = "https://youtu.be/OJ1xR0ObhIw";} catch { };	// youtube
 try {document.getElementById("W1L1MH").href = "https://media.ed.ac.uk/media/Week+1+-+01+-+Welcome+to+IDS%21/1_b5uz1e1a";} catch { };	// mediahopper
-try {document.getElementById("W1L1S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W1L1S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d01-welcome/w1-d01-welcome.html";} catch { };		// slides
 // week 1 lecture 2
 try {document.getElementById("W1L2YT").href = "https://youtu.be/r-uTBEclM1E";} catch { };	// youtube
 try {document.getElementById("W1L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+01+-+02+-+First+dataviz/1_krzz4v2a";} catch { };	// mediahopper
-try {document.getElementById("W1L2S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W1L2S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d02-your-turn-unvotes-covid/w1-d02-your-turn-unvotes-covid.html";} catch { };		// slides
 // week 1 lecture 3
 try {document.getElementById("W1L3YT").href = "https://youtu.be/ICBb9yWwgbA";} catch { };	// youtube
 try {document.getElementById("W1L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+01+-+03+-+Course+information/1_5kvzfhgv";} catch { };	// mediahopper
-try {document.getElementById("W1L3S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W1L3S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d03-course-information/w1-d03-course-information.html";} catch { };		// slides
 // week 1 lecture 4
 try {document.getElementById("W1L4YT").href = "https://youtu.be/KA4zOPgZqN8";} catch { };	// youtube
 try {document.getElementById("W1L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+01+-+04+-+Meet+the+toolkitA+Course+operation/1_spbwu8g0";} catch { };	// mediahopper
-try {document.getElementById("W1L4S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W1L4S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d04-toolkit-course/w1-d04-toolkit-course.html";} catch { };		// slides
 // week 1 lecture 5
 try {document.getElementById("W1L5YT").href = "https://youtu.be/mTAZLFcpnLI";} catch { };	// youtube
 try {document.getElementById("W1L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+01+-+05+-+Meet+the+toolkitA+Programming/1_pbi0vuko";} catch { };	// mediahopper
-try {document.getElementById("W1L5S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W1L5S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d05-toolkit-r/w1-d05-toolkit-r.html";} catch { };		// slides
 // week 1 lecture 6
 try {document.getElementById("W1L6YT").href = "https://youtu.be/124DQasLyNQ";} catch { };	// youtube
 try {document.getElementById("W1L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+01+-+06+-+Meet+the+toolkitA+Version+control+and+collaboration/1_e2snrdxn";} catch { };	// mediahopper
-try {document.getElementById("W1L6S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W1L6S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d06-toolkit-git/w1-d06-toolkit-git.html";} catch { };		// slides
 
 // Assignments
 try {document.getElementById("OQ0").href = "https://example.com";} catch { };		// quiz 0
-try {document.getElementById("LAB0").href = "https://example.com";} catch { };		// lab 0
-try {document.getElementById("HW0").href = "https://example.com";} catch { };		// homework 0
+try {document.getElementById("LAB0").href = "https://ids-s1-21.github.io/labs/lab-00/lab-00-hello-ids.html";} catch { };		// lab 0
+try {document.getElementById("HW0").href = "https://ids-s1-21.github.io/homework/hw-00/hw-00-pet-names.html";} catch { };		// homework 0
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS

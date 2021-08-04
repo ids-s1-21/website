@@ -3,7 +3,7 @@ title: Final Projects
 weight: 4
 ---
 
-You will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” problem using the tools and techniques covered in this class. Each team’s work will also be shared with and evaluated by at least one other team at an earlier stage in order to provide feedback in the form of code review. You must complete the final project and be in class to present it in order to pass this course. 
+You, as part of your team, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” problem using the tools and techniques covered in this class. Each team’s work will also be shared with and evaluated by at least one other team at an earlier stage in order to provide feedback in the form of code review. You must complete the final project in order to pass this course. 
 
 {{% notice tip %}}
 Stick to optional interim deadlines.
@@ -21,7 +21,7 @@ The final project for this class will consist of analysis on a dataset of your o
 
 The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let me know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
-The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (`tidyverse`) is required. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
+The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (`tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
 
 ### Data
 
@@ -48,6 +48,7 @@ Below are a list of data repositories that might be of interest to browse. You'r
   <li><a id="YRBSS">Youth Risk Behavior Surveillance System (YRBSS)</a></li>
   <li><a id="PRISM">PRISM Data Archive Project</a></li>
   <li><a id="HarvardData">Harvard Dataverse</a></li>
+  <li><a id="OECD">Organisation for Economic Co-operation and Development (OECD)</a></li>
   <li>If you know of others, let me know, and we'll add here...</li>
 </ul>
 
@@ -115,7 +116,7 @@ Style and format does count for this assignment, so please take the time to make
 - Make sure each team member is contributing, both in terms of quality and quantity of contribution (we will be reviewing commits from different team members).
 - Set aside time to work together and apart (physically).
 - When you're done, review the documents on GitHub to make sure you're happy with the final state of your work. Then go get some rest!
-- Code: In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented. **Exception:** If you want to highlight something specific about a piece of code, you're welcomed to show that portion. 
+- Code: In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented. **Exception:** If you want to highlight something specific about a piece of code, you're welcome to show that portion. 
 - Teamwork: You are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion - anyone judged to not have sufficient contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment works.
 
 ## Marking
@@ -138,7 +139,7 @@ Classmates' evaluation         | 5 pts
 
 ### Team peer evaluation
 
-You will be asked to fill out a survey where you rate the contribution and teamwork of each team member out of 10 points. You will additionally report a contribution percentage for each team member. Filling out the survey is a prerequisite for getting credit on the team member evaluation.If you are suggesting that an individual did less than 20% of the work, pleaseprovide some explanation. If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group.
+You will be asked to fill out a survey where you rate the contribution and teamwork of each team member out of 10 points. You will additionally report a contribution percentage for each team member. Filling out the survey is a prerequisite for getting credit on the team member evaluation.If you are suggesting that an individual did less than 20% of the work, please provide some explanation. If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group.
 
 ### Late work policy
 

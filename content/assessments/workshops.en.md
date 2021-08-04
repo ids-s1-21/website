@@ -18,12 +18,12 @@ To take part in workshops you will need to first setup your GitHub and RStudio C
 
 A frequently asked question is “What happens if I can’t make it to a workshop one week because I’m sick or have another obligation at that time?” Answers below:
 
-- First, if you have another obligation every week at the time of your workshop, you should change into another group (workshops are held at three separate hours on Friday, pick a time slot that works for your schedule.) If you can’t make any of the workshops times, you should drop this class.
+- First, if you have another obligation every week at the time of your workshop, you should change into another group (workshops are held at three separate hours on Friday, pick a time slot that works for your schedule.) If you can’t make any of the times of the workshops, you should drop this class.
 - Chances are you asked this question because you’re only missing one or two workshops throughout the semester:
   - If you’re missing a workshop day due to short-term illness or some other reason, you should communicate this with your team and attend a team meeting before the deadline for the assignment to contribute to the teamwork. If you have made 0 commits towards a lab assignment, you will receive a 0 for that assignment, so you need to participate both for being a team player and also for your own individual score.
   - If you’re unable to contribute to a lab assignment because of an illness taking you away from school work for an extended period of time, you should let your team know that you won’t be able to contribute to that lab and either make this your dropped lab score or apply for special circumstances.
   
-Overall these policies are put in place to ensure communication between team members, respect for each others’ time, and also to give you a safety net in the case of illness or other reasons that keep you away from attending class once or twice.
+Overall these policies are put in place to ensure communication between team members, respect for each other's time, and also to give you a safety net in the case of illness or other reasons that keep you away from attending class once or twice.
 
 <!-- To setup the links -->  
 <script src="/js/links.js"/>

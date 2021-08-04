@@ -46,7 +46,7 @@ d_cal <- d %>%
                            )
   )
 
-d_cal %>%
+p <- d_cal %>%
   ggplot(aes(x = .x, y = .y)) +
   geom_tile(aes(fill = due_type, alpha = mark_type), colour = "gray50") +
   # labels
@@ -114,6 +114,9 @@ d_cal %>%
     hjust = 1, color = "grey50"
   ) +
   coord_cartesian(xlim = c(-0.2, 1.03), clip = "off")
+
+  ggsave("../../static/images/assessments/calender.png")
 ```
+<img src="/images/assessments/calender.png"/>
 
 The figure above is a visual summary of the assessment schedule. Deadlines for assignments will not change barring unexpected circumstances. If deadlines need to be adjusted for any reason (e.g. COVID), they will be pushed to a later date and never pulled up to an earlier date. If it becomes necessary to make such adjustments, I will try my best to avoid collision with other previously scheduled deadlines but this might be difficult to ensure.

@@ -43,7 +43,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 <p style="text-align: left"> This week's assignments will help you get familiar with the workflow for the rest of the course. You are urged to complete them so that you are prepared for next week and beyond.</p>
 
 {{% notice note %}}
-This weeks assignments will not be marked, as they are provided as practice and to help you get acquainted with the material without the pressure of grades.
+This week's assignments will not be marked, as they are provided as practice and to help you get acquainted with the material without the pressure of grades.
 {{% /notice %}}
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |

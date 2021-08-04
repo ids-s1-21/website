@@ -35,12 +35,12 @@ title: People
 
 <div class="row">
   <div class="column_small">
-    <img src="http://placekitten.com/200/300" />
+    <img src="/images/people/alex.jpg" />
     <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAlex"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="AlexWeb"><i class="fas fa-home"></i></a>
     <a id="AlexGitHub"><i class="fab fa-github" style="margin-right:1vw;"></i></a></p>
   </div>
   <div class="column_large">
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;">[INSERT BIO]</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;">My pronouns are he/him.  I am a University Teacher in Statistics in the School of Mathematics, and so I’m involved in teaching probability/statistics courses to undergrads and master’s students.  I recently completed my DPhil degree in probability theory, with my research investigating limiting properties of a particular random graph model.  I’ve also taught statistical methods and R to a variety of audiences, most recently teaching a course aimed at introducing R to complete programming novices.  I believe that everyone can learn to code, and really enjoy helping others apply statistical and programming techniques to their problems.</p>
   </div>
 </div>
 

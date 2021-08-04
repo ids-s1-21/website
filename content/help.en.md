@@ -10,10 +10,10 @@ Most of you will need help at some point and we want to make sure you can identi
 - **MathsBase:** MathsBase is our drop-in support centre which allows you to talk to a tutor about most of our year 1 and year 2 courses in Mathematics. [Normally this would operate on-campus, but this year we will be operating it online.] MathsBase will offer synchronous support for courses, the tutors which staff it will usually be available to help between 9am and 6pm Monday to Friday. You’re welcome to join at any time to discuss questions you have on the course material, both with classmates and with the tutor. To access MathsBase [you should find you are already added to the MathsBase team on Microsoft Teams - and this is where you can access the MathsBase support.]
 
   {{% notice info %}}
-[Make sure you can share screen or a photo of the problem you are working on.
-Find the ‘General’ channel of the MathsBase team and read the welcome message.
-Reply to that message with a note of which course you are wanting help with.
-Go to the course channel for that course and join or start a meeting to wait for the tutor. Whilst you are there you can talk to other students from the course who might also be waiting too. You might find that others have similar questions.]
+  [Make sure you can share screen or a photo of the problem you are working on.
+  Find the ‘General’ channel of the MathsBase team and read the welcome message.
+  Reply to that message with a note of which course you are wanting help with.
+  Go to the course channel for that course and join or start a meeting to wait for the tutor. Whilst you are there you can talk to other students from the course who might also be waiting too. You might find that others have similar questions.]
   {{% /notice %}}
 
 - **Email:** Please refrain from emailing any course content questions (those should go on Piazza or Teams), and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g. illness, concessions).

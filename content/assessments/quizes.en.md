@@ -1,5 +1,5 @@
 ---
-title: Quizes
+title: Quizzes
 weight: 3
 ---
 

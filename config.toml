@@ -1,0 +1,93 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Introduction to Data Science (2021)"
+theme = "hugo-theme-learn"
+#themesdir = "./themes"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "[Introduction to Data Science DESC]"
+  author = "David Elliott"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = false
+  disableMermaid = false
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+  titleSeparator = "::"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "Introduction to Data Science (2021)"
+weight = 1
+languageName = "English"
+landingPageURL = "/en"
+landingPageName = "<i class='fas fa-home'></i> Home"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-bullhorn'></i> Announcements"
+identifier = "announce"
+url = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview"
+weight = 2
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='far fa-question-circle'></i> Help"
+identifier = "help"
+url = "help"
+weight = 3
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-users'></i> People"
+identifier = "cont"
+url = "people"
+weight = 4
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='far fa-handshake'></i> Policies"
+identifier = "pol"
+url = "policies"
+weight = 5
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-book'></i> Resources"
+identifier = "res"
+url = "resources"
+weight = 6
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 7
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-tools'></i> Troubleshooting"
+url = "/troubleshoot"
+weight = 8
+
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+#url = "showcase"
+#weight = 11
+
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+#identifier = "hugodoc"
+#url = "https://gohugo.io/"
+#weight = 20
+
+#[[Languages.en.menu.shortcuts]]
+#name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+#url = "/credits"
+#weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

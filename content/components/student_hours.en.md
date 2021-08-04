@@ -8,3 +8,6 @@ The course organisers will each hold student hours twice a week on Tuesdays ([IN
 {{% notice note %}}
 The Zoom meeting link and Passcode can be found on the <a id="UsefulLinks">Useful Links</a> page on Learn.
 {{% /notice %}}
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

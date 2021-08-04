@@ -8,3 +8,6 @@ These pre-recorded videos are released on Mondays and are comprised of course co
 {{% notice note %}}
 To set up your account and join the RStudio Cloud space for this course,  please navigate to the <a id="UsefulLinks">Useful Links</a> page on Learn.
 {{% /notice %}}
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

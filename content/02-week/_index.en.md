@@ -14,3 +14,6 @@ hidden = true
 # Week 2 - Visualizing Data
 
 Data visualization and interpretation of graphical information.
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

@@ -8,3 +8,6 @@ You will be assigned fortnightly larger programming tasks throughout the semeste
 {{% notice tip %}}
 Do the (optional) R tutorials which will introduce you to the datasets and topics covered in the homework assignments
 {{% /notice %}}
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

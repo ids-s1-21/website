@@ -61,3 +61,6 @@ If you are looking for your class times for this course, these can be found via 
   <li><a id="timetable">View your calendar in Office 365</a></li>
   <li><a id="timetableInfo">Information about Student Timetables</a></li>
 </ul>
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

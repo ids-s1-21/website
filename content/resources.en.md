@@ -5,19 +5,28 @@ title: Resources
 
 ## Books
 
-- [R 4 Data Science](http://r4ds.had.co.nz)
-- [Open Intro: Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
+<ul>
+  <li><a id="R4DS">R 4 Data Science</a></li>
+  <li><a id="IMS">Open Intro: Introduction to Modern Statistics</a></li>
+</ul>
 
 ## Tools
 
-- [RStudio Cloud](https://rstudio.cloud/)
-- [GitHub](https://github.com/ids-s1-20/)
-- [Piazza](https://piazza.com/)
-- MS Teams
+<ul>
+  <li><a id="RStudioCloud">RStudio Cloud</a></li>
+  <li><a id="ids2021Git">GitHub</a></li>
+  <li><a id="Piazza">Piazza</a></li>
+  <li><a id="Teams">MS Teams</a></li>
+</ul>
 
 ## Cheatsheets
 
-- [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
-- [R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-- [Data visaulization with ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
-- [Data wrangling with dplyr](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+<ul>
+  <li><a id="rstudioCS">RStudio</a></li>
+  <li><a id="rmarkdownCS">R Markdown</a></li>
+  <li><a id="ggplot2CS">Data visaulization with ggplot2</a></li>
+  <li><a id="dplyrCS">Data wrangling with dplyr</a></li>
+</ul>
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

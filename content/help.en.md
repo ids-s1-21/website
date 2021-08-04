@@ -17,11 +17,17 @@ Go to the course channel for that course and join or start a meeting to wait for
   {{% /notice %}}
 
 - **Email:** Please refrain from emailing any course content questions (those should go on Piazza or Teams), and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g. illness, concessions).
+
 - For more general support and advice, please make use of the following resources:
-  - Your personal tutor (especially if you are struggling in general)
-  - Student learning advisor for the course
-  - [Institute for Academic Development](https://www.ed.ac.uk/institute-academic-development) (for more generic study skills information): Online events and support
-  - [The Advice Place](https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/): Open for phone and email advice
-  - [Student Disability Service](https://www.ed.ac.uk/student-disability-service)
+  <ul>
+    <li>Your personal tutor (especially if you are struggling in general).</li>
+    <li>Student learning advisor for the course.</li>
+    <li><a = id="IAD">Institute for Academic Development</a>: Online events and support.</li>
+    <li><a = id="Advice">The Advice Place</a>: Open for phone and email advice.</li>
+    <li><a = id="Disability">Student Disability Service</a>.</li>
+  </ul>
 
 Make good use of this support system, it is there for you! And if you're not sure where to go for help, just ask any academic or administrative member of the course team.
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

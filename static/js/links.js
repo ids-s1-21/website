@@ -49,12 +49,20 @@ try {document.getElementById("LAB0").href = "https://example.com";} catch { };		
 try {document.getElementById("HW0").href = "https://example.com";} catch { };		// homework 0
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
+try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
+try {document.getElementById("IMS").href = "https://openintro-ims.netlify.app/";} catch { };		// IMS
 try {document.getElementById("R4DS2").href = "https://r4ds.had.co.nz/explore-intro.html";} catch { };		// R4DS: Chapter 2
 try {document.getElementById("IMS1").href = "https://openintro-ims.netlify.app/getting-started-with-data.html#basic-stents-strokes";} catch { };		// IMS: Chapter 1
 try {document.getElementById("HTRR").href = "https://socviz.co/appendix.html#a-little-more-about-r";} catch { };		// How to read an R help page
 try {document.getElementById("OpenSci").href = "https://ropensci.github.io/reproducibility-guide/sections/introduction/";} catch { };
 try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };
 try {document.getElementById("nhsr").href = "https://nhsrcommunity.com/blog/how-r-changed-me-as-an-analyst/";} catch { };
+
+try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf";} catch { };
+try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf";} catch { };
+try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf";} catch { };
+try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf";} catch { };
+
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -87,6 +95,20 @@ try {document.getElementById("PRISM").href = "https://www.icpsr.umich.edu/icpsrw
 // Harvard Dataverse
 try {document.getElementById("HarvardData").href = "https://dataverse.harvard.edu/";} catch { };
 
+// Contacts ---------------------------------------------------------------------------------------------------------------------------------------------------
+try {document.getElementById("MailDavid").href = "mailto:david.elliott@ed.ac.uk";} catch { };
+try {document.getElementById("DavidWeb").href = "https://eldave93.github.io";} catch { };
+try {document.getElementById("DavidGitHub").href = "https://github.com/Eldave93";} catch { };
+try {document.getElementById("MailAlex").href = "mailto:alexander.homer@ed.ac.uk";} catch { };
+try {document.getElementById("AlexWeb").href = "https://www.alexjhomer.co.uk/";} catch { };
+try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer";} catch { };
+try {document.getElementById("MineWeb").href = "http://www2.stat.duke.edu/~mc301/";} catch { };
+try {document.getElementById("MineGitHub").href = "https://github.com/mine-cetinkaya-rundel";} catch { };
+try {document.getElementById("CourseSec").href = "https://example.com";} catch { };
+try {document.getElementById("SLA").href = "https://example.com";} catch { };
+try {document.getElementById("StudentSupportMail").href = "https://example.com";} catch { };
+try {document.getElementById("TutorMail").href = "https://example.com";} catch { };
+
 // Other ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {
 	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview";
@@ -104,7 +126,16 @@ try {document.getElementById('timetable').href = "https://edadfed.ed.ac.uk/adfs/
 try {document.getElementById('timetableInfo').href = "https://edin.ac/student-timetables";} catch { };
 try {document.getElementById('UsefulLinks').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };
 try {document.getElementById('RStudioCloud').href = "https://rstudio.cloud/";} catch { };
-
+try {document.getElementById('IAD').href = "https://www.ed.ac.uk/institute-academic-development";} catch { }; //Institute for Academic Development
+try {document.getElementById('Advice').href = "https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/";} catch { }; //Institute for Academic Development
+try {document.getElementById('Disability').href = "https://www.ed.ac.uk/student-disability-service";} catch { }; //Institute for Academic Development
+try {document.getElementById('misconduct').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct";} catch { }; //Institute for Academic Development
+try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
+try {document.getElementById('extensionsExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
+try {document.getElementById('specialCircumstancesExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
+try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; //Institute for Academic Development
+try {document.getElementById('Piazza').href = "https://piazza.com/";} catch { }; //Institute for Academic Development
+try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
 
 // Complete -------------------------------------------------------------------------------------------------------------------------------------------------
 console.log('Links Added');

@@ -23,7 +23,7 @@ I am well aware that a huge volume of code is available on the web to solve any 
 
 ### Academic integrity
 
-The University takes academic misconduct very seriously and is committed to ensuring that so far as possible it is detected and dealt with appropriately. Find out more about the University's official policies around academic misconduct [here](https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct).
+The University takes academic misconduct very seriously and is committed to ensuring that so far as possible it is detected and dealt with appropriately. Find out more about the University's official policies around academic misconduct <a id="misconduct">here</a>.
 
 Cheating or plagiarising on assignments, lying about an illness or absence and other forms of academic dishonesty are a breach of trust with classmates and faculty, violate the University policies, and will not be tolerated. Such incidences will result in a 0 grade for all parties involved. Additionally, there may be penalties to your final class grade along with being reported to the School Academic Misconduct Office.
 
@@ -39,17 +39,17 @@ All work is due on the stated due date. Due dates are there to help guide your p
   - Project re-proposal: No late work accepted (this is an optional assignment)
   - Project: No late work accepted for the presentation, late work accepted for the write-up up to 7 days after the deadline, with 5% penalty for each dat
 
-Please review the official University and School policies  [here](https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions). If you intend to submit work late for the project, you must **notify the course organizer** before the original deadline as well as as soon as the completed work is submitted on GitHub.
+Please review the official University and School policies <a id="extensions">here</a>. If you intend to submit work late for the project, you must **notify the course organizer** before the original deadline as well as as soon as the completed work is submitted on GitHub.
 
-- **Extensions:** The University has an extension policy whereby you can request an extension for any assignments where late work is accepted. If your extension request is approved, you can turn in the assignment late and not incur the late penalty. As outlined above you can request an extension for homework assignments, the project proposal, and the project write up. Extensions are not granted for quizzes, labs, project re-proposal, and project presentation under any circumstances. To request an extension you must visit the [Extensions and Special Circumstances website](https://www.ed.ac.uk/student-administration/extensions-special-circumstances/continuing-students/extensions-explained) and *Apply for an extension* there. A decision will be made within 2 days and the team will notify the student of their decision. Note that decisions are made by an external committee, not the course teaching staff, so requests for extensions must go through this form and not through course organisers and tutors. 
+- **Extensions:** The University has an extension policy whereby you can request an extension for any assignments where late work is accepted. If your extension request is approved, you can turn in the assignment late and not incur the late penalty. As outlined above you can request an extension for homework assignments, the project proposal, and the project write up. Extensions are not granted for quizzes, labs, project re-proposal, and project presentation under any circumstances. To request an extension you must visit the <a id="extensionsExplained">Extensions and Special Circumstances website</a> and *Apply for an extension* there. A decision will be made within 2 days and the team will notify the student of their decision. Note that decisions are made by an external committee, not the course teaching staff, so requests for extensions must go through this form and not through course organisers and tutors. 
 
-- **Special circumstances:** You can think of special circumstances as one level above an extension request, where there is a documented reason why you're unable to complete any assignment in the course. Special circumstances decisions are made at the end of the semester by an external committee. To request a special circumstances waiver you must visit the [Extensions and Special Circumstances website](https://www.ed.ac.uk/student-administration/extensions-special-circumstances/continuing-students/special-circumstances-explained) and *Apply for special circumstances* there. 
+- **Special circumstances:** You can think of special circumstances as one level above an extension request, where there is a documented reason why you're unable to complete any assignment in the course. Special circumstances decisions are made at the end of the semester by an external committee. To request a special circumstances waiver you must visit the <a id="specialCircumstancesExplained">Extensions and Special Circumstances website</a> and *Apply for special circumstances* there. 
 
-If you're not sure whether your personal circumstance should be filed under an extension or special circumstances, we recommend you reach out to your Personal Tutor and/or Student Support Officers ([studentsupport@maths.ed.ac.uk](mailto:studentsupport@maths.ed.ac.uk)).
+If you're not sure whether your personal circumstance should be filed under an extension or special circumstances, we recommend you reach out to your Personal Tutor and/or Student Support Officers (<a id="StudentSupportMail">studentsupport@maths.ed.ac.uk</a>).
 
 ### Regrade requests 
 
-Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted in person to me via email to David Elliott ([david.elliott@ec.ac.uk](david.elliott@ec.ac.uk)). These will be honoured if points were tallied incorrectly, or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
+Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted via email to David Elliott (<a id="MailDavid">david.elliott@ed.ac.uk</a>). These will be honoured if points were tallied incorrectly, or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
 
 ### Diversity & inclusion
 
@@ -69,6 +69,8 @@ I want to make sure that you learn everything you were hoping to learn from this
 - You *never* owe me personal information about your health (mental or physical) but you're always welcome to talk to me. If I can’t help, I likely know someone who can.
 
 - I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
-]
 
 *Note:* If you've read this far in the syllabus, email me a puppy or kitten picture! Could be yours, or one you found online.
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

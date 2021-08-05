@@ -1,6 +1,6 @@
 ---
 title: "Zoom isn't working properly"
-weight: 2
+weight: 5
 ---
 
 ### I keep getting stuck in the waiting room and/or have "guest" next to my name

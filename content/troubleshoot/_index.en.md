@@ -1,13 +1,15 @@
 +++
 title = "Setup & Troubleshooting"
 
-hidden = true
+description = "Instructions to setupthe toolkit for the course andfix common issues."
 +++
 
 If you have just started the course then please follow the first time setup instructions below:
 
+{{% children depth="3" showhidden="true" %}}
+
 <div style="margin-left: 40px;">
-  1. <a id="GitHubSetup">GitHub Setup</a>
+  1. <a href="/setup/github">GitHub Setup</a>
   <dt style= "font-size: 0.8em;">Instructions for signing up and gaining access to your course repos.</dt>
 </div>
 <div style="margin-left: 40px;">

@@ -1,6 +1,6 @@
 ---
 title: "I can't locate my assignment repo"
-weight: 1
+weight: 4
 ---
 
 If you're here, you're probably having difficulty locating your repository (repo) for your homework or lab assignment.

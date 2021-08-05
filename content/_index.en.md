@@ -34,10 +34,6 @@ Learn to explore, visualize, and analyze data to understand natural phenomena, i
   <a id="tags">Tags</a>
   <dt style= "font-size: 0.8em;">Keywords to aid navigation of the course website.</dt>
 </div>
-<div style="margin-left: 40px;">
-  <a id="troubleshoot">Setup & Troubleshooting</a>
-  <dt style= "font-size: 0.8em;">Instructions to fix common issues.</dt>
-</div>
 <br>
 <p style="font-size:90%">
   This is the website for the Introduction to Data Science course offered in 2021. <br> Click <a id="ids2020">here</a> if you are looking for the 2020 version of the course and <a id="ids2019">here</a> for the 2019 version.</p>

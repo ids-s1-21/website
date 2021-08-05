@@ -11,8 +11,8 @@ try {document.getElementById('resources').href = "/resources";} catch { };			// 
 try {document.getElementById('tags').href = "/tags";} catch { };					// link to the tags page
 
 try {document.getElementById('troubleshoot').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
-try {document.getElementById('RepoHelp').href = "/troubleshoot/repos.en.md";} catch { };
-try {document.getElementById('ZoomHelp').href = "/troubleshoot/zoom.en.md";} catch { };
+try {document.getElementById('RepoHelp').href = "/troubleshoot/repos";} catch { };
+try {document.getElementById('ZoomHelp').href = "/troubleshoot/zoom";} catch { };
 
 // Videos -----------------------------------------------------------------------------------------------------------
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page

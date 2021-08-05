@@ -88,7 +88,7 @@ Please do not contact Mine regarding any questions regarding the course or perso
 
 ### Maths Teaching Organization Staff
 <ul>
-  <li>[INSERT] (Course Secretary) <a id="CourseSec"><i class="far fa-envelope"></i></a></li>
+  <li> Mrs Frances Reid (Course Secretary) <a id="CourseSec"><i class="far fa-envelope"></i></a></li>
   <li>[INSERT] (Student Learning Advisor) <a id="SLA"><i class="far fa-envelope"></i></a></li>
 </ul>
 

@@ -106,7 +106,7 @@ try {document.getElementById("AlexWeb").href = "https://www.alexjhomer.co.uk/";}
 try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer";} catch { };
 try {document.getElementById("MineWeb").href = "http://www2.stat.duke.edu/~mc301/";} catch { };
 try {document.getElementById("MineGitHub").href = "https://github.com/mine-cetinkaya-rundel";} catch { };
-try {document.getElementById("CourseSec").href = "https://example.com";} catch { };
+try {document.getElementById("CourseSec").href = "mailto:f.c.reid@ed.ac.uk";} catch { };
 try {document.getElementById("SLA").href = "https://example.com";} catch { };
 try {document.getElementById("StudentSupportMail").href = "https://example.com";} catch { };
 try {document.getElementById("TutorMail").href = "https://example.com";} catch { };
@@ -120,7 +120,7 @@ try {document.getElementById('ids2020').href = "https://example.com";} catch { }
 try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app/";} catch { };	// link to ids 2019 page
 try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	// link to learn
 try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };	// link to the IDS course on learn
-try {document.getElementById('survey1').href = "https://www.example.com";} catch { };	// link to the "Getting to know you survey"
+try {document.getElementById('survey1').href = "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYdffF13VDSBAsmaFgj3BcYtUREVZQUVSWjY2UlZDTVdMWjM3NzI3VzVQUi4u";} catch { };	// link to the "Getting to know you survey"
 try {document.getElementById('assessPol').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/assessment/rules";} catch { };
 try {document.getElementById('UCMS').href = "https://edin.ac/common-marking-scheme";} catch { };
 try {document.getElementById('assessReg').href = "https://edin.ac/assessment-regulations";} catch { };

@@ -35,7 +35,7 @@ Learn to explore, visualize, and analyze data to understand natural phenomena, i
   <dt style= "font-size: 0.8em;">Keywords to aid navigation of the course website.</dt>
 </div>
 <div style="margin-left: 40px;">
-  <a id="troubleshoot">Troubleshooting</a>
+  <a id="troubleshoot">Setup & Troubleshooting</a>
   <dt style= "font-size: 0.8em;">Instructions to fix common issues.</dt>
 </div>
 <br>

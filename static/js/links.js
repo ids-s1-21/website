@@ -9,7 +9,10 @@ try {document.getElementById('people').href = "/people";} catch { };				// link 
 try {document.getElementById('policies').href = "/policies";} catch { };			// link to the policies page
 try {document.getElementById('resources').href = "/resources";} catch { };			// link to the resources page
 try {document.getElementById('tags').href = "/tags";} catch { };					// link to the tags page
+
 try {document.getElementById('troubleshoot').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
+try {document.getElementById('RepoHelp').href = "/troubleshoot/repos.en.md";} catch { };
+try {document.getElementById('ZoomHelp').href = "/troubleshoot/zoom.en.md";} catch { };
 
 // Videos -----------------------------------------------------------------------------------------------------------
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page

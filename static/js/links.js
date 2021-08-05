@@ -45,8 +45,8 @@ try {document.getElementById("W1L6S").href = "https://ids-s1-21.github.io/slides
 
 // Assignments
 try {document.getElementById("OQ0").href = "https://example.com";} catch { };		// quiz 0
-try {document.getElementById("LAB0").href = "https://ids-s1-21.github.io/labs/lab-00/lab-00-hello-ids.html";} catch { };		// lab 0
-try {document.getElementById("HW0").href = "https://ids-s1-21.github.io/homework/hw-00/hw-00-pet-names.html";} catch { };		// homework 0
+try {document.getElementById("LAB0").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };		// lab 0
+try {document.getElementById("HW0").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };		// homework 0
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS

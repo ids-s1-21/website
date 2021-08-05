@@ -14,29 +14,32 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 ## Tasks
 
-  <p style="text-align: left">Each week you will be given a series of tasks to do. This week you have to...</p>
+<p style="text-align: left">Each week you will be given a series of tasks to do. Normally each week you could do the tasks in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
 
-<ul>
-  <li>Watch the <a href="#videos">videos</a></li>
-  <li>Watch the <a href="#readings">readings</a></li>
-  <li>Visit the course on <a id="learnids">Learn</a> to join RStudio Cloud</li>
-  <li>Complete the <a id="survey1">Getting to know you survey</a></li>
-  <li>Complete the <a href="#assignments">assignments</a></li>
-</ul>
+<ol>
+  <li>Complete the <a id="survey1">Getting to know you survey</a>.</li>
+    <ul>
+    <li>One of the questions on the survey asks you about your <em>GitHub username</em>. If you haven’t yet created one, see <a id="gituseradv">here</a> for advice on selecting a username.</li>
+    </ul>
+  <li>Visit the course on <a id="learnids">Learn</a> to join RStudio Cloud.</li>
+  <li>Watch the <a href="#videos">videos</a>.</li>
+  <li>Do the <a href="#readings">readings</a>.</li>
+  <li>Complete the <a href="#assignments">assignments</a>.</li>
+</ol>
 
 ## Videos
 
 <p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
-| 00  | Meet the course team | <a id="W1L0YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L0MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> |  | 02:36 |
-| 01  | Welcome to IDS!      | <a id="W1L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L1S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | 15:07 |
-| 02  | AE: First dataviz    | <a id="W1L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | 08:10 |
-| 03  | Course information   | <a id="W1L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | 26:17 |
-| 04  | Meet the toolkit: course operation     | <a id="W1L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | 10:45 |
-| 05  | Meet the toolkit: programming     | <a id="W1L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | 34:17 |
-| 06  | Meet the toolkit: version control and collaboration     | <a id="W1L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | 11:24 |
+| 00  | Meet the course team | <a id="W1L0YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L0MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
+| 01  | Welcome to IDS!      | <a id="W1L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L1S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
+| 02  | AE: First dataviz    | <a id="W1L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a id="AE1a">AE1a. Repository</a></li><li><a id="AE1b">AE1b. Repository</a></li> |
+| 03  | Course information   | <a id="W1L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 04  | Meet the toolkit: course operation     | <a id="W1L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 05  | Meet the toolkit: programming     | <a id="W1L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 06  | Meet the toolkit: version control and collaboration     | <a id="W1L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 
 ## Assignments
 
@@ -46,13 +49,13 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 This week's assignments will not be marked, as they are provided as practice and to help you get acquainted with the material without the pressure of grades.
 {{% /notice %}}
 
-| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
-|:---|:---|:---|
-| *Due this week* | | |
-| OQ 00 | <a id="OQ0">Syllabus Data</a> | Sun, 26 Sep, 23:59 UK |
-| *Due next week* | | |
-| Lab 00 | <a id="LAB0">Hello IDS!</a> | Tue, 28 Sep, 16:00 UK |
-| HW 00  | <a id="HW0">Pet names</a> | Thur, 30 Sep, 16:00 UK |
+| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:170px;text-align:left">Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
+|:---|:---|:---|:---|
+| *Due this week* | | | |
+| OQ00 | Syllabus Data | <li><a id="OQ0">Quiz</a></li> | Sun, 26 Sep, 23:59 UK |
+| *Due next week* | | | |
+| Lab00 | Hello IDS!| <li><a id="LAB0I">Instructions</a></li>| Tue, 28 Sep, 16:00 UK |
+| HW00  | Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
 
 ## Readings
 

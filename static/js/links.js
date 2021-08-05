@@ -43,10 +43,15 @@ try {document.getElementById("W1L6YT").href = "https://youtu.be/124DQasLyNQ";} c
 try {document.getElementById("W1L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+01+-+06+-+Meet+the+toolkitA+Version+control+and+collaboration/1_e2snrdxn";} catch { };	// mediahopper
 try {document.getElementById("W1L6S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d06-toolkit-git/w1-d06-toolkit-git.html";} catch { };		// slides
 
-// Assignments
+// Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
+try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
+try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
+
+// Assignments --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("OQ0").href = "https://example.com";} catch { };		// quiz 0
-try {document.getElementById("LAB0").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };		// lab 0
-try {document.getElementById("HW0").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };		// homework 0
+try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };		// lab 0
+try {document.getElementById("HW0I").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };		// homework 0
+try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };		// homework 0
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
@@ -138,6 +143,7 @@ try {document.getElementById('specialCircumstancesExplained').href = "https://te
 try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; //Institute for Academic Development
 try {document.getElementById('Piazza').href = "https://piazza.com/";} catch { }; //Institute for Academic Development
 try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
+try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
 
 // Complete -------------------------------------------------------------------------------------------------------------------------------------------------
 console.log('Links Added');

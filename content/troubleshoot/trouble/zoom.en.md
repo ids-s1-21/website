@@ -4,7 +4,7 @@ weight: 5
 ---
 
 ### I keep getting stuck in the waiting room and/or have "guest" next to my name
-This occurs because your Zoom account is not setup properly with your University Email:
+This occurs because your Zoom account is not setup properly with your University Email: 
 
 - Go to [https://zoom.us/download](https://zoom.us/download) and download the latest __Zoom Client for Meetings__ and install it.
 {{% notice warning %}}
@@ -32,4 +32,4 @@ If there is no “Single Sign On” under your profile, please log out and log b
 This sometimes occurs when different users are using different versions of Zoom. To rectify this make sure everyone is using the latest version of Zoom:
 
 - Make sure you are using the __Zoom Client for Meetings__ (see above)
-- Click your profile picture then click _Check for Updates__.
+- Click your profile picture then click _Check for Updates_.

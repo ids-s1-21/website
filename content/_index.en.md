@@ -31,6 +31,10 @@ Learn to explore, visualize, and analyze data to understand natural phenomena, i
   <dt style= "font-size: 0.8em;">A list of books, tools, and cheetsheets that will come in handy while taking the course.</dt>
 </div>
 <div style="margin-left: 40px;">
+  <a id="troubleshoot">Setup & Troubleshooting</a>
+  <dt style= "font-size: 0.8em;">Instructions to setup the toolkit for the course and fix common issues.</dt>
+</div>
+<div style="margin-left: 40px;">
   <a id="tags">Tags</a>
   <dt style= "font-size: 0.8em;">Keywords to aid navigation of the course website.</dt>
 </div>

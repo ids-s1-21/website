@@ -62,13 +62,13 @@ url = "resources"
 weight = 6
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-tags'></i> Tags"
-url = "/tags"
+name = "<i class='fas fa-tools'></i> Setup & Troubleshooting"
+url = "/troubleshoot"
 weight = 7
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-tools'></i> Setup & Troubleshooting"
-url = "/troubleshoot"
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
 weight = 8
 
 #[[Languages.en.menu.shortcuts]]

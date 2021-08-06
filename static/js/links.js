@@ -11,8 +11,11 @@ try {document.getElementById('resources').href = "/resources";} catch { };			// 
 try {document.getElementById('tags').href = "/tags";} catch { };					// link to the tags page
 
 try {document.getElementById('troubleshoot').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
-try {document.getElementById('RepoHelp').href = "/troubleshoot/repos";} catch { };
-try {document.getElementById('ZoomHelp').href = "/troubleshoot/zoom";} catch { };
+try {document.getElementById('GitHubSetup').href = "/troubleshoot/setup/github";} catch { };	// link to github setup
+try {document.getElementById('RStudioCloudSetup').href = "/troubleshoot/setup/rstudiocloud";} catch { };	// link to github setup
+try {document.getElementById('ZoomSetup').href = "/troubleshoot/setup/zoomsetup";} catch { };	// link to github setup
+try {document.getElementById('RepoHelp').href = "/troubleshoot/trouble/repos";} catch { };
+try {document.getElementById('ZoomHelp').href = "/troubleshoot/trouble/zoom";} catch { };
 
 // Videos -----------------------------------------------------------------------------------------------------------
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page
@@ -147,6 +150,7 @@ try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/
 try {document.getElementById('Piazza').href = "https://piazza.com/";} catch { }; //Institute for Academic Development
 try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
 try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
+try {document.getElementById('GHSDP').href = "https://education.github.com/students";} catch { };
 
 // Complete -------------------------------------------------------------------------------------------------------------------------------------------------
 console.log('Links Added');

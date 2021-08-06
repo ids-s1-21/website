@@ -14,17 +14,13 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 ## Tasks
 
-<p style="text-align: left">Each week you will be given a series of tasks to do. Normally each week you could do the tasks in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
+<p style="text-align: left">Each week you will be given a series of tasks to do. Normally you could do the tasks in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
 
 <ol>
-  <li>Complete the <a id="survey1">Getting to know you survey</a>.</li>
-    <ul>
-    <li>One of the questions on the survey asks you about your <em>GitHub username</em>. If you haven’t yet created one, see <a id="gituseradv">here</a> for advice on selecting a username.</li>
-    </ul>
-  <li>Visit the course on <a id="learnids">Learn</a> to join RStudio Cloud.</li>
-  <li>Watch the <a href="#videos">videos</a>.</li>
-  <li>Do the <a href="#readings">readings</a>.</li>
-  <li>Complete the <a href="#assignments">assignments</a>.</li>
+  <li> Please complete the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page.</li>
+  <li>Watch the <a href="#videos">Videos</a>.</li>
+  <li>Do the <a href="#readings">Readings</a>.</li>
+  <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
 ## Videos

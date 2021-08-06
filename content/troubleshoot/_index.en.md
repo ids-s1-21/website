@@ -21,8 +21,9 @@ If you have just started the course then please follow the first time setup inst
   <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for setting up Zoom.</dt>
 </div>
 
-If you are having an issue that affects your participation on the course, please see if the following pages can assist. If your problem is not addressed by the links below, please use one of the methods of asking for [help](/help).
-
+<br>
+If you are having an issue that affects your participation on the course, please see if the following pages can assist. If your problem is not addressed by the links below, please use one of the methods of asking for <a id="help">help</a>.
+<br><br>
 <div>
   <li><a id="RepoHelp">"I can't locate my assignment repo"</a></li>
   <dt style= "font-size: 0.8em; margin-left:25px">Help with locating your repos.</dt>

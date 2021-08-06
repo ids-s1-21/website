@@ -19,3 +19,6 @@ weight: 3
   </ul>
   <img src="/images/troubleshoot/zoom-profile.png"/>
 </ol>
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

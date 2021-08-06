@@ -44,3 +44,6 @@ Once you've joined make sure you go back to [github.com/ids-s1-20](https://githu
 {{% notice note %}}
 If you're already a member of the GitHub organization and you confirmed that you've signed in to GitHub, but you still cannot find your repo, send me an email or a message on Teams to let me know. Either I've never created a repo for you (small chance, as I do invites and repo creations at the same time) or there is a glitch, and I can help with either of these issues. In your message, please include your GitHub username. Once we resolve it for the first assignment, I don't anticipate another glitch again in the future.
 {{% /notice %}}
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

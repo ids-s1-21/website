@@ -33,3 +33,6 @@ This sometimes occurs when different users are using different versions of Zoom.
 
 - Make sure you are using the __Zoom Client for Meetings__ (see above)
 - Click your profile picture then click _Check for Updates_.
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

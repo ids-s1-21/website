@@ -32,3 +32,6 @@ At this point you should also make sure that the course organization shows up fo
 <li>To confirm that you’ve successfully linked up your GitHub and RStudio Cloud accounts, go to <a href="https://github.com/settings/applications">GitHub settings > Applications</a>. You should see RStudio listed as an authorized app under Authorized OAuth Apps. If you don’t this is a good time to ask for <a id="help">help</a>.</li>
 <img src="/images/troubleshoot/github-auth-6.png"/>
 </ol>
+
+<!-- To setup the links -->  
+<script src="/js/links.js"/>

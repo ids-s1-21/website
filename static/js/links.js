@@ -52,6 +52,7 @@ try {document.getElementById("W1L6S").href = "https://ids-s1-21.github.io/slides
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
+try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02-bechdel-rmarkdown&type=&language=&sort=";} catch { };
 
 // Assignments --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("OQ0").href = "https://example.com";} catch { };		// quiz 0

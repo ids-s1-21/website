@@ -31,7 +31,7 @@ If there is no “Single Sign On” under your profile, please log out and log b
 
 This sometimes occurs when different users are using different versions of Zoom. To rectify this make sure everyone is using the latest version of Zoom:
 
-- Make sure you are using the __Zoom Client for Meetings__ (see above)
+- Make sure you are using the __Zoom Client for Meetings__ (see above).
 - Click your profile picture then click _Check for Updates_.
 
 <!-- To setup the links -->  

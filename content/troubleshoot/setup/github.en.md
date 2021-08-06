@@ -7,9 +7,9 @@ If you do not currently have a GitHub account, please create one using your univ
     
 If you already have a GitHub account you wish to use, you will need to link your account to your university email address. To do this:
 <ol>
-  <li>Click on your profile in the top right and go to <strong>Settings</strong>.</li>
-  <li>Under <strong>Account settings</strong> in the left hand box, click on <strong>Emails</strong></li>
-  <li>Link your account to your university email address by typing it in to the <strong>Add email address</strong> box and clicking "Add".</li>
+  <li>Whilst logged in on <a href="https://github.com">GitHub</a>, click on your profile in the top right, and go to <strong>Settings</strong>.</li>
+  <li>Under <strong>Account settings</strong> in the left hand box, click on <strong>Emails</strong>.</li>
+  <li>Link your account to your university email address by typing it into the <strong>Add email address</strong> box and clicking "Add".</li>
 </ol>
     
 After creating your gitHub account or linking your university email address to a current account, please follow these instructions:

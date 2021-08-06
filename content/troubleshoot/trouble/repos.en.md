@@ -19,18 +19,18 @@ If you can't see your repo here, a few things may have happened...
 
 ### You're not signed in
 
-You're not signed in to GitHub so private repos that belong to you are not listed at [github.com/ids-s1-20](https://github.com/ids-s1-20). You should be able to spot this as the issue if you see a button to sign in on the top right corner instead of your avatar.
+You're not signed in to GitHub so private repos that belong to you are not listed at [github.com/ids-s1-21](https://github.com/ids-s1-21). You should be able to spot this as the issue if you see a button to sign in on the top right corner instead of your avatar.
 
 <img src="/images/troubleshoot/org-not-logged-in.png"/>
 
-If this is the case, sign in and revisit [github.com/ids-s1-20](https://github.com/ids-s1-20).
+If this is the case, sign in and revisit [github.com/ids-s1-21](https://github.com/ids-s1-21).
 
 ### You never joined the GitHub organization
 
-You never accepted my invitation to join the GitHub organization for this course, which is called `ids-s1-20`. If this is the case:
+You never accepted my invitation to join the GitHub organization for this course, which is called `ids-s1-21`. If this is the case:
 
 - Make sure you're signed in.
-- Go to [github.com/ids-s1-20](https://github.com/ids-s1-20).
+- Go to [github.com/ids-s1-21](https://github.com/ids-s1-21).
 - You should see a banner on top saying that I invited you to the organization, click to view the invitation.
 
 <img src="/images/troubleshoot/invitation-view.png"/>
@@ -39,10 +39,12 @@ You never accepted my invitation to join the GitHub organization for this course
 
 <img src="/images/troubleshoot/invitation-accept.png"/>
 
-Once you've joined make sure you go back to [github.com/ids-s1-20](https://github.com/ids-s1-20) and you should be able to locate your repo here.
+Once you've joined make sure you go back to [github.com/ids-s1-21](https://github.com/ids-s1-21) and you should be able to locate your repo here.
 
 {{% notice note %}}
-If you're already a member of the GitHub organization and you confirmed that you've signed in to GitHub, but you still cannot find your repo, send me an email or a message on Teams to let me know. Either I've never created a repo for you (small chance, as I do invites and repo creations at the same time) or there is a glitch, and I can help with either of these issues. In your message, please include your GitHub username. Once we resolve it for the first assignment, I don't anticipate another glitch again in the future.
+If you're already a member of the GitHub organization and you confirmed that you've signed in to GitHub, but you still cannot find your repo, contact the <a id="people">course organisers</a>. 
+<br><br>
+Either your repo has not been created or there is a glitch, which can be easily addressed. In your message, please include your __GitHub username__.
 {{% /notice %}}
 
 <!-- To setup the links -->  

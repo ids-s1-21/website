@@ -2,6 +2,7 @@
 title: Workshops
 weight: 1
 ---
+
 These will be held on Fridays in-person. We expect that you show up to the workshop session you’ve been assigned to weekly (see your timetable <a id="timetable">here</a>. During these sessions you will work in teams on computing lab exercises and you will finish the exercises after the workshop and turn in your lab reports by Tuesday 4pm UK time. Workshop submissions with the lowest score for each student will be dropped. 
 
 {{% notice tip %}}
@@ -13,7 +14,7 @@ You will be randomly assigned to teams of 3 or 4 students each week. All team me
 Students are expected to make use of the provided GitHub repository as their central collaborative platform. Commits to this repository will be used as a metric (one of several) of each team member’s relative contribution for each workshop submission.
 
 {{% notice note %}}
-To take part in workshops you will need to first setup your GitHub and RStudio Cloud accounts. Instructions to do this are given in <a id="LAB0">Workshop 0</a>.
+To take part in workshops you will need to first setup your GitHub and RStudio Cloud accounts. Instructions to do this are given in the <a id="troubleshoot">Setup & Troubleshooting</a> page.
 {{% /notice %}}
 
 A frequently asked question is “What happens if I can’t make it to a workshop one week because I’m sick or have another obligation at that time?” Answers below:

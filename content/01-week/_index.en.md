@@ -60,6 +60,7 @@ This week's assignments will not be marked, as they are provided as practice and
 | <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** | 
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS2">Chp 2, Introduction</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Sec 1.1 and 1.2</a> | **Required** |
+| <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR</a> | Optional | 
 | <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional | 
 | <i class="fab fa-readme"></i> | <a id="OpenSci">rOpenSci's Reproducibility Guide</a> | Optional |
 | <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |

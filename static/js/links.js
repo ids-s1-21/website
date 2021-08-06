@@ -69,7 +69,9 @@ try {document.getElementById("HTRR").href = "https://socviz.co/appendix.html#a-l
 try {document.getElementById("OpenSci").href = "https://ropensci.github.io/reproducibility-guide/sections/introduction/";} catch { };
 try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };
 try {document.getElementById("nhsr").href = "https://nhsrcommunity.com/blog/how-r-changed-me-as-an-analyst/";} catch { };
+try {document.getElementById("RGit").href = "https://happygitwithr.com/";} catch { };
 
+https://happygitwithr.com/
 try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf";} catch { };
 try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf";} catch { };
 try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf";} catch { };

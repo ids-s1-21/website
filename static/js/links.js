@@ -123,11 +123,14 @@ try {document.getElementById("DV3").href = "https://socviz.co/makeplot.html";} c
 try {document.getElementById("COVIDvis").href = "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/";} catch { };
 try {document.getElementById("wealth").href = "https://mkorostoff.github.io/1-pixel-wealth/";} catch { };
 try {document.getElementById("COVIDsymptom").href = "https://pair-code.github.io/covid19_symptom_dataset/?date=2020-09-07&country=GB";} catch { };
+try {document.getElementById("LayeredGG").href = "http://vita.had.co.nz/papers/layered-grammar.pdf";} catch { };
+
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };
+try {document.getElementById("RT2").href = "https://minecr.shinyapps.io/dsbox-01-edibnb/";} catch { };
 
 // Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
 // TidyTuesday

@@ -8,7 +8,7 @@ tags: ["week 2", "tasks", "videos", "assignments", "readings", "code-along", "tu
 description: "Week 2: Data visualization and interpretation of graphical information."
 date: "2021-08-03"
 
-hidden: false
+hidden: true
 ---
 
 # Week 2 - Visualizing Data
@@ -58,6 +58,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |:---:|:---|:---:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS3">Chp 3 - Data visualisation</a> | **Required** |
 | <i class="fas fa-book"></i> | Data Visualization: <a id="DV3">Chp 3 - Make a plot</a> | **Required** |
+| <i class="fab fa-readme"></i> | <a id="LayeredGG">A Layered Grammar of Graphics</a> | Optional |
 | <i class="fas fa-chart-bar"></i> | <a id="COVIDvis">COVID-19 Data Visualisations</a> | Optional |
 | <i class="fas fa-chart-bar"></i> | <a id="COVIDsymptom">COVID-19 Search Trends</a> | Optional |
 | <i class="fas fa-chart-bar"></i> | <a id="wealth">Wealth Shown to Scale</a> | Optional |

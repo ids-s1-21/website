@@ -8,6 +8,3 @@ These weekly multiple choice quizzes will help you evaluate your learning contin
 {{% notice tip %}}
 Don’t leave it till the last minute!
 {{% /notice %}}
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

@@ -8,6 +8,3 @@ These will be held on Thursdays on __Zoom__, and they will be recorded and poste
 {{% notice note %}}
 The Zoom meeting link and Passcode can be found on the <a id="UsefulLinks">Useful Links</a> page on Learn.
 {{% /notice %}}
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

@@ -17,6 +17,3 @@ Please be aware that grades located within Learn are provisional until these hav
 ### Additional Information
 
 For additional information around assessments, including extensions, regrade requests, and academic misconduct, please see the <a id="policies">Policies</a> page.
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

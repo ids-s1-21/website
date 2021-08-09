@@ -1,12 +1,13 @@
-+++
-chapter = true
-pre = "<b>1. </b>"
-title = "1. Welcome to IDS"
-menuTitle = "Welcome to IDS"
-weight = 1
-tags = ["week 1", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description = "Week 1: Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester."
-+++
+---
+chapter: true
+pre: "<b>1. </b>"
+title: "1. Welcome to IDS"
+menuTitle: "Welcome to IDS"
+weight: 1
+tags: ["week 1", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
+description: "Week 1: Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester."
+draft: false
+---
 
 # Week 1 - Welcome to IDS
 
@@ -82,6 +83,3 @@ This week's assignments will not be marked, as they are provided as practice and
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
 | <a id="RT1">Data Visualization Basics</a> | Extra practice |
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

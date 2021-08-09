@@ -28,6 +28,3 @@ Most of you will need help at some point and we want to make sure you can identi
   </ul>
 
 Make good use of this support system, it is there for you! And if you're not sure where to go for help, just ask any academic or administrative member of the course team.
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

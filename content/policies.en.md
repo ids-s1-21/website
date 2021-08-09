@@ -71,6 +71,3 @@ I want to make sure that you learn everything you were hoping to learn from this
 - I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
 
 *Note:* If you've read this far in the syllabus, email me a puppy or kitten picture! Could be yours, or one you found online.
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

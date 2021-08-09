@@ -2,7 +2,6 @@
 chapter: true
 title: "Course Components"
 weight: 12
-# tags: [] 
 description: "Information on the various components of the course."
 date: "2021-08-03"
 ---
@@ -61,6 +60,3 @@ If you are looking for your class times for this course, these can be found via 
   <li><a id="timetable">View your calendar in Office 365</a></li>
   <li><a id="timetableInfo">Information about Student Timetables</a></li>
 </ul>
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

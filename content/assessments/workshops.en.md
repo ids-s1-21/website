@@ -25,6 +25,3 @@ A frequently asked question is “What happens if I can’t make it to a worksho
   - If you’re unable to contribute to a lab assignment because of an illness taking you away from school work for an extended period of time, you should let your team know that you won’t be able to contribute to that lab and either make this your dropped lab score or apply for special circumstances.
   
 Overall these policies are put in place to ensure communication between team members, respect for each other's time, and also to give you a safety net in the case of illness or other reasons that keep you away from attending class once or twice.
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

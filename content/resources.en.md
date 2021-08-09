@@ -27,6 +27,3 @@ title: Resources
   <li><a id="ggplot2CS">Data visaulization with ggplot2</a></li>
   <li><a id="dplyrCS">Data wrangling with dplyr</a></li>
 </ul>
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

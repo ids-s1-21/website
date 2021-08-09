@@ -32,6 +32,3 @@ If you are having an issue that affects your participation on the course, please
   <li><a id="ZoomHelp">"Zoom isn't working properly"</a></li>
   <dt style= "font-size: 0.8em; margin-left:25px">Help with Zoom not working properly.</dt>
 </div>
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

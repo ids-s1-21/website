@@ -10,6 +10,3 @@ Tuesdays session will be held in-person at [INSERT PLACE], and Wednesdays will b
 {{% notice note %}}
 The Zoom meeting link and Passcode can be found on the <a id="UsefulLinks">Useful Links</a> page on Learn.
 {{% /notice %}}
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

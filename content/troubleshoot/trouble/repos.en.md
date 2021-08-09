@@ -46,6 +46,3 @@ If you're already a member of the GitHub organization and you confirmed that you
 <br><br>
 Either your repo has not been created or there is a glitch, which can be easily addressed. In your message, please include your __GitHub username__.
 {{% /notice %}}
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

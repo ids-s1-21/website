@@ -41,6 +41,3 @@ This prevents any issues linking your account with RStudio Cloud.
     </ul>
   <li>Apply for a <a id="GHSDP">GitHub Student Developer Pack</a> (optional).</li>
 </ol>
-
-<!-- To setup the links -->  
-<script src="/js/links.js"/>

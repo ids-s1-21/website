@@ -3,7 +3,7 @@ title: Workshops
 weight: 1
 ---
 
-These will be held on Fridays in-person. We expect that you show up to the workshop session you’ve been assigned to weekly (see your timetable <a id="timetable">here</a>. During these sessions you will work in teams on computing lab exercises and you will finish the exercises after the workshop and turn in your lab reports by Tuesday 4pm UK time. Workshop submissions with the lowest score for each student will be dropped. 
+These will be held on Fridays in-person. We expect that you show up to the workshop session you’ve been assigned to weekly (see your timetable <a id="timetable">here</a>). During these sessions you will work in teams on computing lab exercises and you will finish the exercises after the workshop and turn in your lab reports by Tuesday 4pm UK time. Workshop submissions with the lowest score for each student will be dropped. 
 
 {{% notice tip %}}
 Set up weekly team meetings between Friday and Tuesday.

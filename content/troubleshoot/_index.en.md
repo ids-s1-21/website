@@ -32,3 +32,8 @@ If you are having an issue that affects your participation on the course, please
   <li><a id="ZoomHelp">"Zoom isn't working properly"</a></li>
   <dt style= "font-size: 0.8em; margin-left:25px">Help with Zoom not working properly.</dt>
 </div>
+
+<div>
+  <li><a id="ExerciseHelp">"I can't work on my exercises in RStudio Cloud"</a></li>
+  <dt style= "font-size: 0.8em; margin-left:25px">Help with getting your exercises working on RStudio Cloud.</dt>
+</div>

@@ -49,16 +49,59 @@ try {document.getElementById("W1L6YT").href = "https://youtu.be/124DQasLyNQ";} c
 try {document.getElementById("W1L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+01+-+06+-+Meet+the+toolkitA+Version+control+and+collaboration/1_e2snrdxn";} catch { };	// mediahopper
 try {document.getElementById("W1L6S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d06-toolkit-git/w1-d06-toolkit-git.html";} catch { };		// slides
 
+
+// week 2 lecture 1
+try {document.getElementById("W2L1YT").href = "https://example.com";} catch { };	// youtube
+try {document.getElementById("W2L1MH").href = "https://example.com";} catch { };	// mediahopper
+try {document.getElementById("W2L1S").href = "https://example.com";} catch { };		// slides
+
+// week 2 lecture 2
+try {document.getElementById("W2L2YT").href = "https://example.com";} catch { };	// youtube
+try {document.getElementById("W2L2MH").href = "https://example.com";} catch { };	// mediahopper
+try {document.getElementById("W2L2S").href = "https://example.com";} catch { };		// slides
+
+// week 2 lecture 3
+try {document.getElementById("W2L3YT").href = "https://example.com";} catch { };	// youtube
+try {document.getElementById("W2L3MH").href = "https://example.com";} catch { };	// mediahopper
+try {document.getElementById("W2L3S").href = "https://example.com";} catch { };		// slides
+
+// week 2 lecture 4
+try {document.getElementById("W2L4YT").href = "https://example.com";} catch { };	// youtube
+try {document.getElementById("W2L4MH").href = "https://example.com";} catch { };	// mediahopper
+try {document.getElementById("W2L4S").href = "https://example.com";} catch { };		// slides
+
+// week 2 lecture 5
+try {document.getElementById("W2L5YT").href = "https://example.com";} catch { };	// youtube
+try {document.getElementById("W2L5MH").href = "https://example.com";} catch { };	// mediahopper
+try {document.getElementById("W2L5S").href = "https://example.com";} catch { };		// slides
+
+// week 2 lecture 6
+try {document.getElementById("W2L6YT").href = "https://example.com";} catch { };	// youtube
+try {document.getElementById("W2L6MH").href = "https://example.com";} catch { };	// mediahopper
+try {document.getElementById("W2L6S").href = "https://example.com";} catch { };		// slides
+
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
 try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02-bechdel-rmarkdown&type=&language=&sort=";} catch { };
+try {document.getElementById("AE3").href = "https://github.com/ids-s1-21?q=ae-03-starwars-dataviz&type=&language=&sort=";} catch { };
+
 
 // Assignments --------------------------------------------------------------------------------------------------------------------------------------------
+// quizes
 try {document.getElementById("OQ0").href = "https://example.com";} catch { };		// quiz 0
-try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };		// lab 0
-try {document.getElementById("HW0I").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };		// homework 0
-try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };		// homework 0
+try {document.getElementById("OQ1").href = "https://example.com";} catch { };		// quiz 1
+
+// lab 0
+try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };
+
+// lab 1
+try {document.getElementById("LAB1I").href = "https://example.com";} catch { };
+try {document.getElementById("LAB1R").href = "https://example.com";} catch { };
+
+// HW 0
+try {document.getElementById("HW0I").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };
+try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };	
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
@@ -70,13 +113,16 @@ try {document.getElementById("OpenSci").href = "https://ropensci.github.io/repro
 try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };
 try {document.getElementById("nhsr").href = "https://nhsrcommunity.com/blog/how-r-changed-me-as-an-analyst/";} catch { };
 try {document.getElementById("RGit").href = "https://happygitwithr.com/";} catch { };
-
-https://happygitwithr.com/
 try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf";} catch { };
 try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf";} catch { };
 try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf";} catch { };
 try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf";} catch { };
 
+try {document.getElementById("R4DS3").href = "https://r4ds.had.co.nz/data-visualisation.html";} catch { };		// R4DS: Chapter 3
+try {document.getElementById("DV3").href = "https://socviz.co/makeplot.html";} catch { };		// Data Visualisation: Chapter 3
+try {document.getElementById("COVIDvis").href = "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/";} catch { };
+try {document.getElementById("wealth").href = "https://mkorostoff.github.io/1-pixel-wealth/";} catch { };
+try {document.getElementById("COVIDsymptom").href = "https://pair-code.github.io/covid19_symptom_dataset/?date=2020-09-07&country=GB";} catch { };
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 

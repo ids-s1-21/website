@@ -1,30 +1,31 @@
 ---
 chapter: true
-pre: "<b>2. </b>"
-title: "2. Visualizing Data"
-menuTitle: "Visualizing Data"
-weight: 2
-tags: ["week 2", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 2: Data visualization and interpretation of graphical information."
+pre: "<b>3. </b>"
+title: "3. Wrangling and Tidying Data"
+menuTitle: "Wrangling and Tidying Data"
+weight: 3
+tags: ["week 3", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
+description: "Week 3: Data wrangling, joining, and tidying."
 date: "2021-08-03"
 
-hidden: false
+hidden: true
 ---
 
-# Week 2 - Visualizing Data
+# Week 3 - Wrangling and Tidying Data
 
 Data visualization and interpretation of graphical information.
 
 ## Tasks
-{{% notice warning %}}
-If you have not completed the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page, please follow these now.
-{{% /notice %}}
 
 <ol>
   <li>Watch the <a href="#videos">Videos</a>.</li>
   <li>Do the <a href="#readings">Readings</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
+
+{{% notice warning %}}
+If you have not completed the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page, please follow these now.
+{{% /notice %}}
 
 ## Videos
 
@@ -46,21 +47,17 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:170px;text-align:left">Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|:---|
 | *Due this week* | | | |
-| Lab00 | Hello IDS!| <li><a id="LAB0I">Instructions</a></li>| Tue, 28 Sep, 16:00 UK |
-| HW00  | Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
-| OQ01  | Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
-| *Due next week* | | | |
 | Lab01  | Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Thur, 07 Oct, 16:00 UK |
+| OQ02  | Data Wrangling | <li><a id="OQ2">Quiz</a></li> | Sun, 12 Oct, 23:59 UK |
+| *Due next week* | | | |
+| Lab02  | Take a Sad Plot and Make it Better | <li></li> | Tue, 14 Oct, 16:00 UK  |
+| HW01  | All about Edinburgh | <li><a id="HW1I">Instructions</a></li><li><a id="HW1R">Repository</a></li> | Thur, 16 Oct, 16:00 UK |
 
 ## Readings
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS3">Chp 3 - Data visualisation</a> | **Required** |
-| <i class="fas fa-book"></i> | Data Visualization: <a id="DV3">Chp 3 - Make a plot</a> | **Required** |
-| <i class="fas fa-chart-bar"></i> | <a id="COVIDvis">COVID-19 Data Visualisations</a> | Optional |
-| <i class="fas fa-chart-bar"></i> | <a id="COVIDsymptom">COVID-19 Search Trends</a> | Optional |
-| <i class="fas fa-chart-bar"></i> | <a id="wealth">Wealth Shown to Scale</a> | Optional |
+| <i class="fas fa-book"></i> |  | **Required** |
 
 ## Code-along
 
@@ -73,9 +70,8 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 ## Interactive R tutorials
 
-<p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional, but the “Airbnb Listings in Edinburgh” dataset show up in your next homework assignment as well, so you might want to go through that one so that you can gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the second tutorial as well.</p>
+<p style="text-align: left"> The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.</p>
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| <a id="RT2">Airbnb Listings in Edinburgh</a> | Related to HW01 |
-| <a id="RT1">Data Visualization Basics</a> | Extra practice |
+| [INSERT] | Extra practice |

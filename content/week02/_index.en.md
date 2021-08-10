@@ -31,26 +31,26 @@ If you have not completed the <em>first time setup instructions</em> found on th
 <p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
+|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
 | 01  | Keeping up with IDS: Week 2 | <a id="W2L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W2L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W2L1S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 02  | 	Data and visualisation      | <a id="W2L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W2L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W2L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | <li><a href="/errata#W202">Errata</a></li> |
 | 03  | Visualising data with ggplot2    | <a id="W2L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W2L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W2L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 04  | Visualising numerical data   | <a id="W2L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W2L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W2L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 05  | Visualising categorical data     | <a id="W2L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W2L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W2L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
-| 06  | AE: StarWars + Dataviz | <a id="W2L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W2L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W2L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a id="AE3">AE3. Repository</a></li> |
+| 06  | AE: StarWars + Dataviz | <a id="W2L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W2L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | <li><a id="AE3">AE3. Repository</a></li> |
 
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a></p>.
 
-| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:170px;text-align:left">Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
-|:---|:---|:---|:---|
-| *Due this week* | | | |
-| Lab00 | Hello IDS!| <li><a id="LAB0I">Instructions</a></li>| Tue, 28 Sep, 16:00 UK |
-| HW00  | Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
-| OQ01  | Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
-| *Due next week* | | | |
-| Lab01  | Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Thur, 07 Oct, 16:00 UK |
+| <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | | 
+| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li>| Tue, 28 Sep, 16:00 UK |
+| HW00: Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
+| OQ01: Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
+| *Due next week* | | | 
+| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Thur, 07 Oct, 16:00 UK |
 
 ## Readings
 

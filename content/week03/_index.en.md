@@ -17,20 +17,26 @@ Data visualization and interpretation of graphical information.
 
 ## Tasks
 
+<ol>
+  <li>Watch the <a href="#videos">Videos</a>.</li>
+  <li>Do the <a href="#readings">Readings</a>.</li>
+  <li>Complete the <a href="#assignments">Assignments</a>.</li>
+</ol>
+
 ## Videos
 
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a></p>.
 
-| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:170px;text-align:left">Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
-|:---|:---|:---|:---|
-| *Due this week* | | | |
-| Lab01  | Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Thur, 07 Oct, 16:00 UK |
-| OQ02  | Data Wrangling | <li><a id="OQ2">Quiz</a></li> | Sun, 12 Oct, 23:59 UK |
-| *Due next week* | | | |
-| Lab02  | Take a Sad Plot and Make it Better | <li></li> | Tue, 14 Oct, 16:00 UK  |
-| HW01  | All about Edinburgh | <li><a id="HW1I">Instructions</a></li><li><a id="HW1R">Repository</a></li> | Thur, 16 Oct, 16:00 UK |
+| <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | | 
+| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Thur, 07 Oct, 16:00 UK |
+| OQ02: Data Wrangling | <li><a id="OQ2">Quiz</a></li> | Sun, 12 Oct, 23:59 UK |
+| *Due next week* | | | 
+| Lab02: Take a Sad Plot and Make it Better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li> | Tue, 14 Oct, 16:00 UK  |
+| HW01: All about Edinburgh | <li><a id="HW1I">Instructions</a></li><li><a id="HW1R">Repository</a></li> | Thur, 16 Oct, 16:00 UK |
 
 ## Readings
 

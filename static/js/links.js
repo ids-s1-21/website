@@ -60,52 +60,112 @@ try {document.getElementById("W2L1MH").href = "https://example.com";} catch { };
 try {document.getElementById("W2L1S").href = "https://example.com";} catch { };		// slides
 
 // week 2 lecture 2
-try {document.getElementById("W2L2YT").href = "https://example.com";} catch { };	// youtube
-try {document.getElementById("W2L2MH").href = "https://example.com";} catch { };	// mediahopper
-try {document.getElementById("W2L2S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W2L2YT").href = "https://www.youtube.com/watch?v=FddF4b_GuTI&ab_channel=Mine%C3%87etinkaya-Rundel";} catch { };	// youtube
+try {document.getElementById("W2L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+2+-+02+-+Data+and+visualisation/1_4lhhe9i5";} catch { };	// mediahopper
+try {document.getElementById("W2L2S").href = "https://ids-s1-21.github.io/slides/week-02/w2-d02-data-viz/w2-d02-data-viz.html";} catch { };		// slides
 
 // week 2 lecture 3
-try {document.getElementById("W2L3YT").href = "https://example.com";} catch { };	// youtube
-try {document.getElementById("W2L3MH").href = "https://example.com";} catch { };	// mediahopper
-try {document.getElementById("W2L3S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W2L3YT").href = "https://www.youtube.com/watch?v=s2NF2J36ljE&ab_channel=Mine%C3%87etinkaya-Rundel";} catch { };	// youtube
+try {document.getElementById("W2L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+02+-+03+-+Visualising+data+with+ggplot2/1_nhkjgruh";} catch { };	// mediahopper
+try {document.getElementById("W2L3S").href = "https://ids-s1-21.github.io/slides/week-02/w2-d03-ggplot2/w2-d03-ggplot2.html";} catch { };		// slides
 
 // week 2 lecture 4
-try {document.getElementById("W2L4YT").href = "https://example.com";} catch { };	// youtube
-try {document.getElementById("W2L4MH").href = "https://example.com";} catch { };	// mediahopper
-try {document.getElementById("W2L4S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W2L4YT").href = "https://www.youtube.com/watch?v=waBabVTI8ec&ab_channel=Mine%C3%87etinkaya-Rundel";} catch { };	// youtube
+try {document.getElementById("W2L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+2+-+04+-+Visualising+numerical+data/1_po2ufyev";} catch { };	// mediahopper
+try {document.getElementById("W2L4S").href = "https://ids-s1-21.github.io/slides/week-02/w2-d04-viz-num/w2-d04-viz-num.html";} catch { };		// slides
 
 // week 2 lecture 5
-try {document.getElementById("W2L5YT").href = "https://example.com";} catch { };	// youtube
-try {document.getElementById("W2L5MH").href = "https://example.com";} catch { };	// mediahopper
-try {document.getElementById("W2L5S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W2L5YT").href = "https://www.youtube.com/watch?v=21h3rEO8k2E&ab_channel=Mine%C3%87etinkaya-Rundel";} catch { };	// youtube
+try {document.getElementById("W2L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+02+-+05+-+Visualising+categorical+data/1_cibb29fc";} catch { };	// mediahopper
+try {document.getElementById("W2L5S").href = "https://ids-s1-21.github.io/slides/week-02/w2-d05-viz-cat/w2-d05-viz-cat.html";} catch { };		// slides
 
 // week 2 lecture 6
-try {document.getElementById("W2L6YT").href = "https://example.com";} catch { };	// youtube
-try {document.getElementById("W2L6MH").href = "https://example.com";} catch { };	// mediahopper
-try {document.getElementById("W2L6S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W2L6YT").href = "https://www.youtube.com/watch?v=3UaLPtCKkXQ&ab_channel=Mine%C3%87etinkaya-Rundel";} catch { };	// youtube
+try {document.getElementById("W2L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+02+-+06+-+AEA+StarWars+%2B+Dataviz/1_httcg4wa";} catch { };	// mediahopper
 
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
 try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02-bechdel-rmarkdown&type=&language=&sort=";} catch { };
 try {document.getElementById("AE3").href = "https://github.com/ids-s1-21?q=ae-03-starwars-dataviz&type=&language=&sort=";} catch { };
+try {document.getElementById("AE4").href = "https://example.com";} catch { };
+try {document.getElementById("AE5").href = "https://example.com";} catch { };
+try {document.getElementById("AE6").href = "https://example.com";} catch { };
+try {document.getElementById("AE7").href = "https://example.com";} catch { };
+try {document.getElementById("AE8").href = "https://example.com";} catch { };
+try {document.getElementById("AE9").href = "https://example.com";} catch { };
 
-
-// Assignments --------------------------------------------------------------------------------------------------------------------------------------------
-// quizes
+// Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("OQ0").href = "https://example.com";} catch { };		// quiz 0
 try {document.getElementById("OQ1").href = "https://example.com";} catch { };		// quiz 1
+try {document.getElementById("OQ2").href = "https://example.com";} catch { };		// quiz 2
+try {document.getElementById("OQ3").href = "https://example.com";} catch { };		// quiz 3
+try {document.getElementById("OQ4").href = "https://example.com";} catch { };		// quiz 4
+try {document.getElementById("OQ5").href = "https://example.com";} catch { };		// quiz 5 - Scrape + Iterate
+try {document.getElementById("OQ6").href = "https://example.com";} catch { };		// quiz 6 - Review
+try {document.getElementById("OQ7").href = "https://example.com";} catch { };		// quiz 7 - 
+try {document.getElementById("OQ8").href = "https://example.com";} catch { };		// quiz 8 - Multiple Regression
+try {document.getElementById("OQ9").href = "https://example.com";} catch { };		// quiz 9 - Modeling Overview
+try {document.getElementById("OQ10").href = "https://example.com";} catch { };		// quiz 10 - Looking Beyond
 
-// lab 0
+// Labs --------------------------------------------------------------------------------------------------------------------------------------------
+// lab 0 - Hello IDS!
 try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };
 
-// lab 1
+// lab 1 - Plastic Waste
 try {document.getElementById("LAB1I").href = "https://example.com";} catch { };
 try {document.getElementById("LAB1R").href = "https://example.com";} catch { };
 
+// lab 2 - Take a sad plot and make it better
+try {document.getElementById("LAB2I").href = "https://example.com";} catch { };
+try {document.getElementById("LAB2R").href = "https://example.com";} catch { };
+
+// lab 3 - Nobel Laureates
+try {document.getElementById("LAB3I").href = "https://example.com";} catch { };
+try {document.getElementById("LAB3R").href = "https://example.com";} catch { };
+
+// lab 4 - UoE Art Collection
+try {document.getElementById("LAB4I").href = "https://example.com";} catch { };
+try {document.getElementById("LAB4R").href = "https://example.com";} catch { };
+
+// lab 5 - Conveying the right message through visualisation
+try {document.getElementById("LAB5I").href = "https://example.com";} catch { };
+try {document.getElementById("LAB5R").href = "https://example.com";} catch { };
+
+// lab 6 - Course Evaluations
+try {document.getElementById("LAB6I").href = "https://example.com";} catch { };
+try {document.getElementById("LAB6R").href = "https://example.com";} catch { };
+
+// lab 7 - Work on Projects
+try {document.getElementById("LAB7I").href = "https://example.com";} catch { };
+
+// lab 8 - Make Progress on Projects
+try {document.getElementById("LAB8I").href = "https://example.com";} catch { };
+
+// Homework --------------------------------------------------------------------------------------------------------------------------------------------
 // HW 0
 try {document.getElementById("HW0I").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };
 try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };	
+
+// HW 1
+try {document.getElementById("HW1I").href = "https://example.com";} catch { };
+try {document.getElementById("HW1R").href = "https://example.com";} catch { };	
+
+// HW 2 - Majors + legos
+try {document.getElementById("HW2I").href = "https://example.com";} catch { };
+try {document.getElementById("HW2R").href = "https://example.com";} catch { };	
+
+// HW 3 - Money in politics
+try {document.getElementById("HW3I").href = "https://example.com";} catch { };
+try {document.getElementById("HW3R").href = "https://example.com";} catch { };	
+
+// HW 4 - Potpourri
+try {document.getElementById("HW4I").href = "https://example.com";} catch { };
+try {document.getElementById("HW4R").href = "https://example.com";} catch { };	
+
+// HW 5 - Model and Review
+try {document.getElementById("HW5I").href = "https://example.com";} catch { };
+try {document.getElementById("HW5R").href = "https://example.com";} catch { };	
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS

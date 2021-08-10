@@ -3,13 +3,15 @@ title: Workshops
 weight: 1
 ---
 
-These will be held on Fridays in-person. We expect that you show up to the workshop session you’ve been assigned to weekly (see your timetable <a id="timetable">here</a>). During these sessions you will work in teams on computing lab exercises and you will finish the exercises after the workshop and turn in your lab reports by Tuesday 4pm UK time. Workshop submissions with the lowest score for each student will be dropped. 
+These will be held on Fridays and, for most students, will be held in-person. We will also accommodate students attending these sessions remotely where circumstances prevent attendence in person.
+
+We expect that you show up to the workshop session you’ve been assigned to weekly (see your timetable <a id="timetable">here</a>). During these sessions you will work in teams on computing lab exercises and you will finish the exercises after the workshop and turn in your lab reports by Tuesday 4pm UK time. Workshop submissions with the lowest score for each student will be dropped. 
 
 {{% notice tip %}}
 Set up weekly team meetings between Friday and Tuesday.
 {{% /notice %}}
 
-You will be randomly assigned to teams of 3 or 4 students each week. All team members are expected to contribute equally to the completion of each assignment and you will be asked to evaluate your team members after each assignment is due. Failure to adequately contribute to an assignment will result in a penalty to your mark relative to the team’s overall mark.
+You will be assigned to teams of 3 or 4 students based on your pre-arranged workshop timeslot and room assignment. All team members are expected to contribute equally to the completion of each assignment and you will be asked to evaluate your team members after each assignment is due. Failure to adequately contribute to an assignment will result in a penalty to your mark relative to the team’s overall mark.
 
 Students are expected to make use of the provided GitHub repository as their central collaborative platform. Commits to this repository will be used as a metric (one of several) of each team member’s relative contribution for each workshop submission.
 

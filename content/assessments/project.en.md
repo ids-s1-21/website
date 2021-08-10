@@ -13,7 +13,10 @@ Stick to optional interim deadlines.
 
 Pick a dataset, any dataset...
 
-...and do something with it. That is your final project in a nutshell. More details below.
+...and do something with it. That is your final project in a nutshell. More details will be released below as the course progresses.
+
+<!-- TODO: Uncomment below when info is to be released -->
+<!--
 
 ## May be too long, but please do read
 
@@ -146,3 +149,5 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 - There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it *or* pre-record and submit your presentation by 9am in the morning of the presentations.
 
 - The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline. If you intend to submit work late for the project, you must notify the course organizer before the original deadline as well as as soon as the completed work is submitted on GitHub.
+
+-->

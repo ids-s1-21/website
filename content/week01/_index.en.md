@@ -29,7 +29,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 <p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
+|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
 | 00  | Meet the course team | <a id="W1L0YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L0MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 | 01  | Welcome to IDS!      | <a id="W1L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L1S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
 | 02  | First Data Visualisation    | <a id="W1L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a id="AE1a">AE1a. Repository</a></li><li><a id="AE1b">AE1b. Repository</a></li> |
@@ -46,13 +46,13 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 This week's assignments will not be marked, as they are provided as practice and to help you get acquainted with the material without the pressure of grades.
 {{% /notice %}}
 
-| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:170px;text-align:left">Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
-|:---|:---|:---|:---|
-| *Due this week* | | | |
-| OQ00 | Syllabus Data | <li><a id="OQ0">Quiz</a></li> | Sun, 26 Sep, 23:59 UK |
-| *Due next week* | | | |
-| Lab00 | Hello IDS!| <li><a id="LAB0I">Instructions</a></li>| Tue, 28 Sep, 16:00 UK |
-| HW00  | Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
+| <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | |
+| OQ00: Syllabus Data | <li><a id="OQ0">Quiz</a></li> | Sun, 26 Sep, 23:59 UK |
+| *Due next week* | | |
+| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li>| Tue, 28 Sep, 16:00 UK |
+| HW00: Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
 
 ## Readings
 

@@ -15,6 +15,10 @@ Learn to explore, visualize, and analyze data to understand natural phenomena, i
   <dt style= "font-size: 0.8em;">Updates with important information will be posted here as well as emailed to your university email address.</dt>
 </div>
 <div style="margin-left: 40px;">
+  <a id="errata">Errata</a>
+  <dt style= "font-size: 0.8em;">A list of significant corrections and clarifications to material on the course.</dt>
+</div>
+<div style="margin-left: 40px;">
   <a id="help">Help</a>
   <dt style= "font-size: 0.8em;">A list of all the ways you can get support for this course.</dt>
 </div>
@@ -34,10 +38,11 @@ Learn to explore, visualize, and analyze data to understand natural phenomena, i
   <a id="troubleshoot">Setup & Troubleshooting</a>
   <dt style= "font-size: 0.8em;">Instructions to setup the toolkit for the course and fix common issues.</dt>
 </div>
-<div style="margin-left: 40px;">
+<!-- <div style="margin-left: 40px;">
   <a id="tags">Tags</a>
   <dt style= "font-size: 0.8em;">Keywords to aid navigation of the course website.</dt>
 </div>
+-->
 <br>
 <p style="font-size:90%">
   This is the website for the Introduction to Data Science course offered in 2021. <br> Click <a id="ids2020">here</a> if you are looking for the 2020 version of the course and <a id="ids2019">here</a> for the 2019 version.</p>

@@ -2,7 +2,8 @@
 // and then assign them to a variable
 
 // Webpage Links ---------------------------------------------------------------------------------------------------
-try {document.getElementById('assessments').href = "/assessments";} catch { };		// link to the assessments page
+try {document.getElementById('assessments').href = "/assessments";} catch { };		// / link to the assessments page
+try {document.getElementById('errata').href = "/errata";} catch { };
 try {document.getElementById('components').href = "/components";} catch { };		// link to the help page
 try {document.getElementById('help').href = "/help";} catch { };					// link to the help page
 try {document.getElementById('people').href = "/people";} catch { };				// link to the people page

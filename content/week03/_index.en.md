@@ -25,6 +25,18 @@ Data visualization and interpretation of graphical information.
 
 ## Videos
 
+<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.
+
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
+|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
+| 01  | Keeping up with IDS: Week 3 | <a id="W3L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L1S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 02  | 	Tidy data     | <a id="W3L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
+| 03  | Grammar of data wrangling    | <a id="W3L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 04  | Working with a single data frame   | <a id="W3L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a id="AE4">AE4. Repository</a></li> |
+| 05  | Working with multiple data frames     | <a id="W3L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 06  | Tidying data | <a id="W3L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 07  | AE: Hotels + Data wrangling | <a id="W3L7YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L7MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | <li><a id="AE4">AE4. Repository</a></li> |
+
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a></p>.

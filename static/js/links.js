@@ -96,7 +96,7 @@ try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08
 try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };
 
 // Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
-try {document.getElementById("OQ0").href = "https://example.com";} catch { };		// quiz 0
+try {document.getElementById("OQ0").href = "https://u-edinburgh.shinyapps.io/00-overview/";} catch { };		// quiz 0
 try {document.getElementById("OQ1").href = "https://example.com";} catch { };		// quiz 1
 try {document.getElementById("OQ2").href = "https://example.com";} catch { };		// quiz 2
 try {document.getElementById("OQ3").href = "https://example.com";} catch { };		// quiz 3

@@ -88,12 +88,12 @@ try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-0
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
 try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02-bechdel-rmarkdown&type=&language=&sort=";} catch { };
 try {document.getElementById("AE3").href = "https://github.com/ids-s1-21?q=ae-03-starwars-dataviz&type=&language=&sort=";} catch { };
-try {document.getElementById("AE4").href = "https://example.com";} catch { };
-try {document.getElementById("AE5").href = "https://example.com";} catch { };
-try {document.getElementById("AE6").href = "https://example.com";} catch { };
-try {document.getElementById("AE7").href = "https://example.com";} catch { };
-try {document.getElementById("AE8").href = "https://example.com";} catch { };
-try {document.getElementById("AE9").href = "https://example.com";} catch { };
+try {document.getElementById("AE4").href = "https://github.com/ids-s1-21?q=ae-04-hotels-datawrangling&type=&language=&sort=";} catch { };
+try {document.getElementById("AE5").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
+try {document.getElementById("AE6").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
+try {document.getElementById("AE7").href = "https://github.com/ids-s1-21?q=ae-07-brexit-story-dataviz&type=&language=&sort=";} catch { };
+try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08-imdb-webscraping&type=&language=&sort=";} catch { };
+try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };
 
 // Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("OQ0").href = "https://example.com";} catch { };		// quiz 0
@@ -113,34 +113,34 @@ try {document.getElementById("OQ10").href = "https://example.com";} catch { };		
 try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };
 
 // lab 1 - Plastic Waste
-try {document.getElementById("LAB1I").href = "https://example.com";} catch { };
-try {document.getElementById("LAB1R").href = "https://example.com";} catch { };
+try {document.getElementById("LAB1I").href = "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html";} catch { };
+try {document.getElementById("LAB1R").href = "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=";} catch { };
 
 // lab 2 - Take a sad plot and make it better
-try {document.getElementById("LAB2I").href = "https://example.com";} catch { };
-try {document.getElementById("LAB2R").href = "https://example.com";} catch { };
+try {document.getElementById("LAB2I").href = "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html";} catch { };
+try {document.getElementById("LAB2R").href = "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=";} catch { };
 
 // lab 3 - Nobel Laureates
-try {document.getElementById("LAB3I").href = "https://example.com";} catch { };
-try {document.getElementById("LAB3R").href = "https://example.com";} catch { };
+try {document.getElementById("LAB3I").href = "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
+try {document.getElementById("LAB3R").href = "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
 
 // lab 4 - UoE Art Collection
-try {document.getElementById("LAB4I").href = "https://example.com";} catch { };
-try {document.getElementById("LAB4R").href = "https://example.com";} catch { };
+try {document.getElementById("LAB4I").href = "https://ids-s1-21.github.io/lab_instructions/lab-04/lab-04-uoe-art.html";} catch { };
+try {document.getElementById("LAB4R").href = "https://github.com/ids-s1-21?q=lab-04-uoe-art&type=&language=&sort=";} catch { };
 
 // lab 5 - Conveying the right message through visualisation
-try {document.getElementById("LAB5I").href = "https://example.com";} catch { };
-try {document.getElementById("LAB5R").href = "https://example.com";} catch { };
+try {document.getElementById("LAB5I").href = "https://ids-s1-21.github.io/lab_instructions/lab-05/lab-05-better-viz.html";} catch { };
+try {document.getElementById("LAB5R").href = "https://github.com/ids-s1-21?q=lab-05-better-viz&type=&language=&sort=";} catch { };
 
 // lab 6 - Course Evaluations
-try {document.getElementById("LAB6I").href = "https://example.com";} catch { };
-try {document.getElementById("LAB6R").href = "https://example.com";} catch { };
+try {document.getElementById("LAB6I").href = "https://ids-s1-21.github.io/lab_instructions/lab-06/lab-06-modelling-course-evals.html";} catch { };
+try {document.getElementById("LAB6R").href = "https://github.com/ids-s1-21?q=lab-06-modelling-course-evals&type=&language=&sort=";} catch { };
 
 // lab 7 - Work on Projects
-try {document.getElementById("LAB7I").href = "https://example.com";} catch { };
+try {document.getElementById("LAB7I").href = "https://ids-s1-21.github.io/lab_instructions/lab-07/lab-07-work-on-projects.html";} catch { };
 
 // lab 8 - Make Progress on Projects
-try {document.getElementById("LAB8I").href = "https://example.com";} catch { };
+try {document.getElementById("LAB8I").href = "https://ids-s1-21.github.io/lab_instructions/lab-08/lab-08-work-on-projects.html";} catch { };
 
 // Homework --------------------------------------------------------------------------------------------------------------------------------------------
 // HW 0
@@ -148,24 +148,28 @@ try {document.getElementById("HW0I").href = "https://ids-s1-21.github.io/homewor
 try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };	
 
 // HW 1
-try {document.getElementById("HW1I").href = "https://example.com";} catch { };
-try {document.getElementById("HW1R").href = "https://example.com";} catch { };	
+try {document.getElementById("HW1I").href = "https://ids-s1-21.github.io/homework_instructions/hw-01/hw-01-edinburgh.html";} catch { };
+try {document.getElementById("HW1R").href = "https://github.com/ids-s1-21?q=hw-01-edinburgh&type=&language=&sort=";} catch { };	
 
 // HW 2 - Majors + legos
-try {document.getElementById("HW2I").href = "https://example.com";} catch { };
-try {document.getElementById("HW2R").href = "https://example.com";} catch { };	
+try {document.getElementById("HW2I").href = "https://ids-s1-21.github.io/homework_instructions/hw-02/hw-02-majors-legos.html";} catch { };
+try {document.getElementById("HW2R").href = "https://github.com/ids-s1-21?q=hw-02-majors-legos&type=&language=&sort=";} catch { };	
 
 // HW 3 - Money in politics
-try {document.getElementById("HW3I").href = "https://example.com";} catch { };
-try {document.getElementById("HW3R").href = "https://example.com";} catch { };	
+try {document.getElementById("HW3I").href = "https://ids-s1-21.github.io/homework_instructions/hw-03/hw-03-money-in-politics.html";} catch { };
+try {document.getElementById("HW3R").href = "https://github.com/ids-s1-21?q=hw-03-money-in-politics&type=&language=&sort=";} catch { };	
 
 // HW 4 - Potpourri
-try {document.getElementById("HW4I").href = "https://example.com";} catch { };
-try {document.getElementById("HW4R").href = "https://example.com";} catch { };	
+try {document.getElementById("HW4I").href = "https://ids-s1-21.github.io/homework_instructions/hw-04/hw-04-potpourri.html";} catch { };
+try {document.getElementById("HW4R").href = "https://github.com/ids-s1-21?q=hw-04-potpourri&type=&language=&sort=";} catch { };	
 
 // HW 5 - Model and Review
-try {document.getElementById("HW5I").href = "https://example.com";} catch { };
-try {document.getElementById("HW5R").href = "https://example.com";} catch { };	
+try {document.getElementById("HW5I").href = "https://ids-s1-21.github.io/homework_instructions/hw-05/hw-05-model-review.html";} catch { };
+try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-05-model-review&type=&language=&sort=";} catch { };	
+
+// Project
+try {document.getElementById('project').href = "/assessments/project";} catch { };
+try {document.getElementById("projectR").href = "https://example.com";} catch { };	
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS

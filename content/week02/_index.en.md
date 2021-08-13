@@ -50,7 +50,8 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | HW00: Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
 | OQ01: Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
 | *Due next week* | | | 
-| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Thur, 07 Oct, 16:00 UK |
+| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Tue, 05 Oct, 16:00 UK |
+| OQ02: Data Wrangling | <li><a id="OQ2">Quiz</a></li> | Sun, 10 Oct, 23:59 UK |
 
 ## Readings
 

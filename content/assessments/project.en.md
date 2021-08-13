@@ -57,9 +57,9 @@ Below are a list of data repositories that might be of interest to browse. You'r
 
 ### Deliverables
 
-1. Proposal     - due Tuesday, 26 Oct, at 16:00
-1. Presentation - due Friday, 3 Dec, at 09:00 as pre-recorded video or live presentation in workshop
-1. Write-up     - due Friday, 3 Dec, at 09:00
+1. Proposal     - due Tuesday, 26 Oct, at 16:00 UK
+1. Presentation - due Friday, 3 Dec, at 09:00 UK as pre-recorded video or live presentation in workshop
+1. Write-up     - due Friday, 3 Dec, at 09:00 UK
 
 #### Proposal
 

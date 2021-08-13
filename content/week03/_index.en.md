@@ -44,11 +44,12 @@ Data visualization and interpretation of graphical information.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | | 
-| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Thur, 07 Oct, 16:00 UK |
-| OQ02: Data Wrangling | <li><a id="OQ2">Quiz</a></li> | Sun, 12 Oct, 23:59 UK |
+| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Tue, 05 Oct, 16:00 UK |
+| OQ02: Data Wrangling | <li><a id="OQ2">Quiz</a></li> | Sun, 10 Oct, 23:59 UK |
 | *Due next week* | | | 
-| Lab02: Take a Sad Plot and Make it Better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li> | Tue, 14 Oct, 16:00 UK  |
-| HW01: All about Edinburgh | <li><a id="HW1I">Instructions</a></li><li><a id="HW1R">Repository</a></li> | Thur, 16 Oct, 16:00 UK |
+| Lab02: Take a Sad Plot and Make it Better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li> | Tue, 12 Oct, 16:00 UK  |
+| HW01: All about Edinburgh | <li><a id="HW1I">Instructions</a></li><li><a id="HW1R">Repository</a></li> | Thur, 14 Oct, 16:00 UK | 
+| OQ03: Data wrangling and Visualisation | <li><a id="OQ3">Quiz</a></li> | Sun, 17 Oct, 23:59 UK |
 
 ## Readings
 

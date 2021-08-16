@@ -1,5 +1,5 @@
 ---
-title: "RStudio Cloud Setup"
+title: "Opening a Project"
 weight: 2
 ---
 
@@ -11,7 +11,7 @@ weight: 2
   
 <img src="/images/troubleshoot/rstudio-cloud.png"/>
 {{% notice warning %}}
-You cannot do the remaining steps unless you have created your GitHub account and accepted the invitation to join the GitHub organization. Please ensure you have completed the <a id="GitHubSetup">GitHub Setup</a> first.
+You cannot do the remaining steps unless you have created your GitHub account and accepted the invitation to join the GitHub organization, and also created an RStudio Cloud account using our course’s space. Please ensure you have completed the <a id="GitHubSetup">GitHub Setup</a> and <a id="RStudioCloudSetup">RStudio Cloud Setup</a> first.
 {{% /notice %}}
 The rest of these instructions are used to connect your RStudio and GitHub accounts.
 <br><br>

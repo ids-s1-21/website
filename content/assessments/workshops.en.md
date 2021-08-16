@@ -11,7 +11,7 @@ We expect that you show up to the workshop session you’ve been assigned to wee
 Set up weekly team meetings between Friday and Tuesday.
 {{% /notice %}}
 
-You will be assigned to teams of 3 or 4 students based on your pre-arranged workshop timeslot and room assignment. All team members are expected to contribute equally to the completion of each assignment and you will be asked to evaluate your team members. Failure to adequately contribute to an assignment will result in a penalty to your mark.
+You will be asked to form teams of 3 or 4 students based on your pre-arranged workshop timeslot and room assignment. All team members are expected to contribute equally to the completion of each assignment and you will be asked to evaluate your team members. Failure to adequately contribute to an assignment will result in a penalty to your mark.
 
 Students are expected to make use of the provided GitHub repository as their central collaborative platform. Commits to this repository will be used as a metric (one of several) of each team member’s relative contribution for each workshop submission.
 

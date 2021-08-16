@@ -1,6 +1,6 @@
 ---
 title: Feedback and Grades
-weight: 5
+weight: 6
 ---
 
 Feedback on assignments will be submitted on __GitHub__ as _issues_ in the relevant repository. Grades can be found on __Learn__ at the Grade Centre.

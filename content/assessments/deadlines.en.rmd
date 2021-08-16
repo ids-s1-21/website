@@ -1,23 +1,7 @@
 ---
-chapter: true
-title: "Assessments"
-weight: 13
-tags: ["assignments"] 
-description: "Information on the assessments for the course."
-date: "2021-08-03"
+title: Deadlines
+weight: 5
 ---
-
-
-# Assessments
-
-Your overall course grade will be comprised of the following components, and their weights:
-
-- Homework: 40%
-- Lab: 20%
-- Project: 30%
-- Quiz: 10%
-
-For more information on moderation and scaling, please review the official University and School policies <a id="assessPol">here</a>.
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%", fig.asp=0.9}
 library(tidyverse)

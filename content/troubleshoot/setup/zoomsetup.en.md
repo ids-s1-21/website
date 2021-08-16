@@ -1,6 +1,6 @@
 ---
 title: "Zoom Setup"
-weight: 3
+weight: 4
 ---
 <ol>
   <li>Go to <a href="https://zoom.us/download">https://zoom.us/download</a> and download the latest <strong>Zoom Client for Meetings</strong> and install it.

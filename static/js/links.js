@@ -11,8 +11,6 @@ try {document.getElementById('policies').href = "/policies";} catch { };			// li
 try {document.getElementById('resources').href = "/resources";} catch { };			// link to the resources page
 try {document.getElementById('tags').href = "/tags";} catch { };					// link to the tags page
 
-try {document.getElementById('workflow').href = "/assessments/workflow";} catch { };
-
 try {document.getElementById('troubleshoot').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
 try {document.getElementById('GitHubSetup').href = "/troubleshoot/setup/github";} catch { };	// link to github setup
 try {document.getElementById('RStudioCloudSetup').href = "/troubleshoot/setup/rstudiocloud";} catch { };	// link to github setup

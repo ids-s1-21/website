@@ -6,7 +6,7 @@ hidden=true
 description = "Instructions to setup the toolkit for the course and fix common issues."
 +++
 
-If you have just started the course then please follow the first time setup instructions below:
+If you have just started the course then please follow the _first time setup instructions_ below:
 
 <div>
   1. <a id="GitHubSetup">GitHub Setup</a>
@@ -17,12 +17,14 @@ If you have just started the course then please follow the first time setup inst
   <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for signing up and gaining access to your RStudio Cloud space.</dt>
 </div>
 <div>
-  3. <a id="OpeningaProject">Opening a Project</a>
-  <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for opening a project from GitHub in RStudio Cloud.</dt>
-</div>
-<div>
-  4. <a id="ZoomSetup">Zoom Setup</a>
+  3. <a id="ZoomSetup">Zoom Setup</a>
   <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for setting up Zoom.</dt>
+</div>
+
+If you want to start working on an application exercise, homework, workshop, or your project, then follow the instructions provided on the page below:
+<div>
+  <li><a id="OpeningaProject">Opening a Project</a></li>
+  <dt style= "font-size: 0.8em; margin-left:25px;">Instructions for opening a project from GitHub in RStudio Cloud.</dt>
 </div>
 
 <br>

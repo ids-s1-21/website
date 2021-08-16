@@ -260,6 +260,7 @@ try {document.getElementById('timetable').href = "https://edadfed.ed.ac.uk/adfs/
 try {document.getElementById('timetableInfo').href = "https://edin.ac/student-timetables";} catch { };
 try {document.getElementById('UsefulLinks').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };
 try {document.getElementById('RStudioCloud').href = "https://rstudio.cloud/";} catch { };
+try {document.getElementById('GitHub').href = "https://github.com/";} catch { };
 try {document.getElementById('IAD').href = "https://www.ed.ac.uk/institute-academic-development";} catch { }; //Institute for Academic Development
 try {document.getElementById('Advice').href = "https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/";} catch { }; //Institute for Academic Development
 try {document.getElementById('Disability').href = "https://www.ed.ac.uk/student-disability-service";} catch { }; //Institute for Academic Development

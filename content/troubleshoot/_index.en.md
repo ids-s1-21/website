@@ -17,11 +17,11 @@ If you have just started the course then please follow the first time setup inst
   <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for signing up and gaining access to your RStudio Cloud space.</dt>
 </div>
 <div>
-  3. <a id="OpeningAProject">Opening a Project</a>
+  3. <a id="OpeningaProject">Opening a Project</a>
   <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for opening a project from GitHub in RStudio Cloud.</dt>
 </div>
 <div>
-  3. <a id="ZoomSetup">Zoom Setup</a>
+  4. <a id="ZoomSetup">Zoom Setup</a>
   <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for setting up Zoom.</dt>
 </div>
 

@@ -1,21 +1,18 @@
 ---
-title: "Opening a Project"
+title: "RStudio Cloud Setup"
 weight: 2
 ---
 
 <ol>
-<li>Go to <strong>Learn</strong> and click on the <strong>Join RStudio Cloud</strong> link to sign up for a free RStudio Cloud account which will be automatically enrolled in our course’s space.</li>
-  <ul>
-  <li>Feel free to try launching a project and exploring.</li>
-  </ul>
-  
 <img src="/images/troubleshoot/rstudio-cloud.png"/>
 {{% notice warning %}}
-You cannot do the remaining steps unless you have created your GitHub account and accepted the invitation to join the GitHub organization, and also created an RStudio Cloud account using our course’s space. Please ensure you have completed the <a id="GitHubSetup">GitHub Setup</a> and <a id="RStudioCloudSetup">RStudio Cloud Setup</a> first.
+You cannot carry out the steps on this page unless you have created your GitHub account and accepted the invitation to join the GitHub organization, signed up for RStudio Cloud using our course workspace, and linked your RStudio Cloud and GitHub accounts. Please ensure you have completed the <a id="GitHubSetup">GitHub Setup</a> and <a id="RStudioSetup">RStudio Cloud Setup</a> first.
 {{% /notice %}}
-The rest of these instructions are used to connect your RStudio and GitHub accounts.
+These instructions are used to set up a new project in RStudio Cloud via a GitHub repository ("repo").  If you just need to copy the repo to your workspace (e.g. for Application Exercises) you will only need to carry out the first part of these instructions.  For homework tasks, workshops and so on, you will need to complete the full set every time.
 <br><br>
-<li>In <a id="RStudioCloud">RStudio Cloud</a>, click on your name on the top right corner to open the right menu.</li>
+<li>Log in to <a id="RStudioCloud">RStudio Cloud</a>, and make sure that, in the sidebar on the left, the course workspace is selected.</li>
+<li>Click on 
+<img src="/images/troubleshoot/10-new-project.png"/>
 <li>Then, click on <strong>Authentication</strong>.</li>
 <img src="/images/troubleshoot/github-auth-1.png"/>
 <li>In the Authentication window, check the box for <strong>Enabled</strong>.</li>

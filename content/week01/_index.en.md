@@ -32,7 +32,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
 | 00  | Meet the course team | <a id="W1L0YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L0MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 | 01  | Welcome to IDS!      | <a id="W1L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L1S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 02  | First Data Visualisation    | <a id="W1L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a id="AE1a">AE1a. Repository</a></li><li><a id="AE1b">AE1b. Repository</a></li> |
+| 02  | First Data Visualisation    | <a id="W1L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a id="OpeningaProject">Opening a Project</a></li><li><a id="AE1a">AE1a. Repository</a></li><li><a id="AE1b">AE1b. Repository</a></li> |
 | 03  | Course information   | <a id="W1L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 04  | Meet the toolkit: course operation     | <a id="W1L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 05  | Meet the toolkit: programming     | <a id="W1L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a id="AE2">AE2. Repository</a></li> |
@@ -40,7 +40,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 ## Assignments
 
-<p style="text-align: left"> This week's assignments will help you get familiar with the workflow for the rest of the course. You are urged to complete them so that you are prepared for next week and beyond.</p>
+<p style="text-align: left"> This week's assignments will help you get familiar with the workflow for the rest of the course. You are urged to complete them so that you are prepared for next week and beyond. For instructions on how to set up a new project in RStudio Cloud from a GitHub repository (“repo”), see the <a id="OpeningaProject">Opening a Project</a> page under <a id="troubleshoot">Setup & Troubleshooting.</a></p>
 
 {{% notice note %}}
 This week's assignments will not be marked, as they are provided as practice and to help you get acquainted with the material without the pressure of grades.

@@ -4,7 +4,7 @@ weight: 6
 ---
 
 ### I can't find my exercises on RStudio Cloud
-Before working on them in RStuido Cloud, you have to __clone__ them from your repository on GitHub. To do this follow the instructions found on the <a id="workflow"> Suggested Workflow</a> page.
+Before working on them in RStudio Cloud, you have to __clone__ them from your repository on GitHub. To do this follow the instructions found on the <a id="OpeningaProject"> Opening a Project</a> page.
 
 
 ### A library I need is not loading in RStudio

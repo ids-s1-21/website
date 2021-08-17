@@ -113,6 +113,7 @@ You <strong>should never</strong> store it in a plaintext, unencrypted file, jus
 
 <li>Go back to the tab with RStudio Cloud, and paste the token into the box, using Ctrl+V (Windows)/Cmd+V (Mac).  Click <strong>OK</strong>.</li>
 <img src="/images/troubleshoot/14-token-entry.png"/>
+<li>Click <strong>Close</strong>.</li>
 </ol>
 
 {{% notice info %}}

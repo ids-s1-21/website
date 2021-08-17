@@ -37,7 +37,7 @@ Logistic regression for predicting categorical data and model building.
 | Lab06: Course evaluations | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li> | Tue, 16 Nov, 16:00 UK  |
 | OQ08: Multiple regression | <li><a id="OQ8">Quiz</a></li> | Sun, 21 Nov, 23:59 UK |
 | *Due next week* | | | 
-| Lab07: Work on projects | <li><a id="LAB7I">Instructions</a></li> | - |
+| Lab07: Work on projects | <li><a id="LAB7I">Instructions</a></li> | Tue, 23 Nov, 16:00 UK |
 | PE03: Peer evaluation 03 | <li><a id="PE03">Survey</a></li> | Wed, 24 Nov, 16:00 UK |
 | HW04: Potpourri | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li> | Thu, 25 Nov, 16:00 UK | 
 | OQ09: Modeling overview | <li><a id="OQ9">Quiz</a></li> | Sun, 28 Nov, 23:59 UK |

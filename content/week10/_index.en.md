@@ -34,7 +34,7 @@ Model validation and uncertainty quantification.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| Lab07: Work on projects | <li><a id="LAB7I">Instructions</a></li> | - |
+| Lab07: Work on projects | <li><a id="LAB7I">Instructions</a></li> | Tue, 23 Nov, 16:00 UK |
 | PE03: Peer evaluation 03 | <li><a id="PE03">Survey</a></li> | Wed, 24 Nov, 16:00 UK |
 | HW04: Potpourri | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li> | Thu, 25 Nov, 16:00 UK | 
 | OQ09: Modeling overview | <li><a id="OQ9">Quiz</a></li> | Sun, 28 Nov, 23:59 UK |

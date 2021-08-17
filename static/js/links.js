@@ -96,10 +96,10 @@ try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09
 
 // Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("OQ0").href = "https://u-edinburgh.shinyapps.io/00-overview/";} catch { };		// quiz 0
-try {document.getElementById("OQ1").href = "https://example.com";} catch { };		// quiz 1
-try {document.getElementById("OQ2").href = "https://example.com";} catch { };		// quiz 2
-try {document.getElementById("OQ3").href = "https://example.com";} catch { };		// quiz 3
-try {document.getElementById("OQ4").href = "https://example.com";} catch { };		// quiz 4
+try {document.getElementById("OQ1").href = "https://u-edinburgh.shinyapps.io/01-dataviz/";} catch { };		// quiz 1
+try {document.getElementById("OQ2").href = "https://u-edinburgh.shinyapps.io/02-datawrangle/";} catch { };		// quiz 2
+try {document.getElementById("OQ3").href = "https://u-edinburgh.shinyapps.io/03-wrangleviz/";} catch { };		// quiz 3
+try {document.getElementById("OQ4").href = "https://u-edinburgh.shinyapps.io/04-coding/";} catch { };		// quiz 4
 try {document.getElementById("OQ5").href = "https://example.com";} catch { };		// quiz 5 - Scrape + Iterate
 try {document.getElementById("OQ6").href = "https://example.com";} catch { };		// quiz 6 - Review
 try {document.getElementById("OQ7").href = "https://example.com";} catch { };		// quiz 7 - 

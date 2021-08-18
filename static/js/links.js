@@ -246,7 +246,7 @@ try {
 	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview";
 } catch { };	// link to annoucements page
 try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/21-22/dpt/cxmath08077.htm";} catch { };	// link to the official drps course page
-try {document.getElementById('ids2020').href = "https://example.com";} catch { };	// link to ids 2020 page
+try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
 try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app/";} catch { };	// link to ids 2019 page
 try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	// link to learn
 try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };	// link to the IDS course on learn

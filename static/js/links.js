@@ -168,7 +168,7 @@ try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-0
 
 // Project
 try {document.getElementById('project').href = "/assessments/project";} catch { };
-try {document.getElementById("projectR").href = "https://example.com";} catch { };	
+try {document.getElementById("projectR").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };	
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS

@@ -192,6 +192,11 @@ try {document.getElementById("wealth").href = "https://mkorostoff.github.io/1-pi
 try {document.getElementById("COVIDsymptom").href = "https://pair-code.github.io/covid19_symptom_dataset/?date=2020-09-07&country=GB";} catch { };
 try {document.getElementById("LayeredGG").href = "http://vita.had.co.nz/papers/layered-grammar.pdf";} catch { };
 
+try {document.getElementById("R4DS4").href = "https://r4ds.had.co.nz/workflow-basics.html";} catch { };		// R4DS: Chapter 4
+try {document.getElementById("R4DS5").href = "https://r4ds.had.co.nz/transform.html";} catch { };		// R4DS: Chapter 5
+try {document.getElementById("R4DS12").href = "https://r4ds.had.co.nz/tidy-data.html";} catch { };		// R4DS: Chapter 5
+try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational-data.html";} catch { };		// R4DS: Chapter 5
+try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// R4DS: Chapter 5
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 

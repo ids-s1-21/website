@@ -55,7 +55,11 @@ Data visualization and interpretation of graphical information.
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-book"></i> |  | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS4">Chp 4 - Workflow: basics</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS5">Chp 5 - Data transformation</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS12">Chp 12 - Tidy data</a> | Optional |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS13">Chp 13 - Relational data</a> | Optional |
+| <i class="fab fa-readme"></i> | <a id="tidydata">Tidy Data</a> | Optional |
 
 ## Code-along
 

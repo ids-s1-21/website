@@ -4,6 +4,7 @@ title: Resources
 ---
 
 ## Books
+_All books on this course are free to read in full online at the links below. If you wish to purchase physical copies, please visit your local bookshop (e.g. heres a course specific URL for [Blackwells](https://blackwells.co.uk/bookshop/readinglists/displaylist.jsp?fm_course=59215)), or your online retailer of choice._
 
 <ul>
   <li><a id="R4DS">R 4 Data Science</a></li>

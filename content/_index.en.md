@@ -47,5 +47,8 @@ Learn to explore, visualize, and analyze data to understand natural phenomena, i
 <p style="font-size:90%">
   This is the website for the Introduction to Data Science course offered in 2021. <br> Click <a id="ids2020">here</a> if you are looking for the 2020 version of the course and <a id="ids2019">here</a> for the 2019 version.</p>
 
-<!-- To setup the links -->  
-<script src="/js/links.js"/>
+<p style="font-size:90%">
+This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> licence.
+Visit <a id="licence">here</a> for more information. Much of these materials have been adapted from <a href="https://datasciencebox.org/">Data Science in a Box</a> by Mine Çetinkaya-Rundel, which is under the same licence.
+</p>
+<img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a> 

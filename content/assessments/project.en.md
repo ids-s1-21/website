@@ -13,7 +13,9 @@ Stick to optional interim deadlines.
 
 Pick a dataset, any dataset...
 
-...and do something with it. That is your final project in a nutshell. More details will be released below as the course progresses.
+...and do something with it. That is your final project in a nutshell. 
+
+More details will be released below as the course progresses.
 
 <!-- TODO: Uncomment below when info is to be released -->
 <!--
@@ -87,13 +89,17 @@ print preview to confirm length.
 
 #### Presentation
 
-5 minutes maximum, and each team member should say something substantial. You can either present live during your workshop or pre-record and submit your video to be played during the workshop.
-
 Prepare a slide deck using the template in your repo. This template uses a package called `xaringan`, and allows you to make presentation slides using R Markdown syntax. There isn't a limit to how many slides you can use, just a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it should convey what choices you made, and why, and what you found.
 
-Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`. 
+{{% notice tip %}}
+Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
+{{% /notice %}}
 
-Presentation schedule: Presentations will take place during the last workshop of the semester. You can choose to do your presentation live or pre-record it. During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations. The presentation line-up will be generated randomly.
+Presentation schedule: Presentations will take place during the last workshop of the semester. During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations. The presentation line-up will be generated randomly.
+
+{{% notice note %}}
+If your team is currently remote, you should [pre-record your presentation](https://docs.google.com/document/d/1FxpFqUbEVpOzp7PWICC8gEvmIKfsNPT3mmQuSufsGHQ/edit?usp=sharing), you will need to upload your presentation *somewhere* and then add a link to the video in your repo README. We recommend you upload your video to MediaHopper. To do so, go to [media.ed.ac.uk](https://media.ed.ac.uk/), log in from the top left corner, then click on Add New Media and upload your video as unlisted. Once uploaded, grab the sharing link and add it to your repo README, next to the link to your slides. [This video](https://www.youtube.com/watch?v=rqxhOgrifyk) goes through this process. Ask questions **early** if anything is unclear. Your video must be updated and a link must be added to your repo by 10am UK time on 3 December!
+{{% /notice %}}
 
 #### Write-up
 

@@ -5,11 +5,14 @@ title: "1. Welcome to IDS"
 menuTitle: "Welcome to IDS"
 weight: 1
 tags: ["week 1", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 1: Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester."
-draft: false
+description: "Week 1 (20 Sep 2021 - 26 Sep 2021): Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester."
+
+hidden: false
 ---
 
-# Week 1 - Welcome to IDS
+# Welcome to IDS
+
+_Week 1 (20 Sep 2021 - 26 Sep 2021)_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 

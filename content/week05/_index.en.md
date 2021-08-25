@@ -5,13 +5,14 @@ title: "5. Communicating Data Science Results Effectively"
 menuTitle: "Communicating Data Science Results Effectively"
 weight: 5
 tags: ["week 5", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 5: Tips for effective data visualization, communication of results, and collaboration."
-date: "2021-08-03"
+description: "Week 5 (18 Oct 2021 - 24 Oct 2021): Tips for effective data visualization, communication of results, and collaboration."
 
 hidden: true
 ---
 
-# Week 5 - Communicating Data Science Results Effectively
+# Communicating Data Science Results Effectively
+
+_Week 5 (18 Oct 2021 - 24 Oct 2021)_
 
 Tips for effective data visualization, communication of results, and collaboration.
 

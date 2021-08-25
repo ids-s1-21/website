@@ -5,13 +5,14 @@ title: "2. Visualizing Data"
 menuTitle: "Visualizing Data"
 weight: 2
 tags: ["week 2", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 2: Data visualization and interpretation of graphical information."
-date: "2021-08-03"
+description: "Week 2 (27 Sep 2021 - 3 Oct 2021): Data visualization and interpretation of graphical information."
 
 hidden: true
 ---
 
-# Week 2 - Visualizing Data
+# Visualizing Data
+
+_Week 2 (27 Sep 2021 - 3 Oct 2021)_
 
 Data visualization and interpretation of graphical information.
 

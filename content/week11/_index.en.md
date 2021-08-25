@@ -5,15 +5,16 @@ title: "11. Looking Beyond IDS"
 menuTitle: "Looking Beyond IDS"
 weight: 11
 tags: ["week 11", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 11: Looking Beyond IDS."
-date: "2021-08-03"
+description: "Week 11 (29 Nov 2021 - 5 Dec 2021): Topics requested by you!"
 
 hidden: true
 ---
 
-# Week 10 - Looking Beyond IDS
+# Looking Beyond IDS
 
-Looking beyond IDS.
+_Week 11 (29 Nov 2021 - 5 Dec 2021)_
+
+Topics requested by you!
 
 ## Tasks
 

@@ -5,13 +5,14 @@ title: "7. Data Science Ethics"
 menuTitle: "Data Science Ethics"
 weight: 7
 tags: ["week 7", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 7: Misrepresentation of findings, data privacy, and algorithmic bias."
-date: "2021-08-03"
+description: "Week 7 (1 Nov 2021 - 7 Nov 2021): Misrepresentation of findings, data privacy, and algorithmic bias."
 
 hidden: true
 ---
 
-# Week 7 - Data Science Ethics
+# Data Science Ethics
+
+_Week 7 (1 Nov 2021 - 7 Nov 2021)_
 
 Misrepresentation of findings, data privacy, and algorithmic bias.
 

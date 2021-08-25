@@ -5,15 +5,16 @@ title: "4. Importing and Recoding Data"
 menuTitle: "Importing and Recoding Data"
 weight: 4
 tags: ["week 4", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 4: Importing and recoding data."
-date: "2021-08-03"
+description: "Week 4 (11 Oct 2021 - 17 Oct 2021): Importing data, data types and classes, recoding."
 
 hidden: true
 ---
 
-# Week 3 - Wrangling and Tidying Data
+# Importing and Recoding Data
 
-Data visualization and interpretation of graphical information.
+_Week 4 (11 Oct 2021 - 17 Oct 2021)_
+
+Importing data, data types and classes, recoding.
 
 ## Tasks
 

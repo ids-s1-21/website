@@ -5,13 +5,14 @@ title: "3. Wrangling and Tidying Data"
 menuTitle: "Wrangling and Tidying Data"
 weight: 3
 tags: ["week 3", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 3: Data wrangling, joining, and tidying."
-date: "2021-08-03"
+description: "Week 3 (4 Oct 2021 - 10 Oct 2021): Data wrangling, joining, and tidying."
 
 hidden: true
 ---
 
-# Week 3 - Wrangling and Tidying Data
+# Wrangling and Tidying Data
+
+_Week 3 (4 Oct 2021 - 10 Oct 2021)_
 
 Data visualization and interpretation of graphical information.
 

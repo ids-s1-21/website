@@ -5,13 +5,14 @@ title: "6. Web Scraping and Programming"
 menuTitle: "Web Scraping and Programming"
 weight: 6
 tags: ["week 6", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 6: Harvesting data from the web, writing functions, and iteration."
-date: "2021-08-03"
+description: "Week 6 (25 Oct 2021 - 31 Oct 2021): Harvesting data from the web, writing functions, and iteration."
 
 hidden: true
 ---
 
-# Week 6 - Web Scraping and Programming
+# Web Scraping and Programming
+
+_Week 6 (25 Oct 2021 - 31 Oct 2021)_
 
 Harvesting data from the web, writing functions, and iteration.
 

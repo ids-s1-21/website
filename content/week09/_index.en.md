@@ -1,17 +1,18 @@
 ---
 chapter: true
 pre: "<b>9. </b>"
-title: "9. Modelling Data"
-menuTitle: "Modelling Data"
+title: "9. Classification and Model Building"
+menuTitle: "Classification and Model Building"
 weight: 9
 tags: ["week 9", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 9: Logistic regression for predicting categorical data and model building."
-date: "2021-08-03"
+description: "Week 9 (15 Nov 2021 - 21 Nov 2021): Logistic regression for predicting categorical data and model building."
 
 hidden: true
 ---
 
-# Week 9 - Modelling Data
+# Classification and Model Building
+
+_Week 9 (15 Nov 2021 - 21 Nov 2021)_
 
 Logistic regression for predicting categorical data and model building.
 

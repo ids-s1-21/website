@@ -5,13 +5,14 @@ title: "8. Modelling Data"
 menuTitle: "Modelling Data"
 weight: 8
 tags: ["week 8", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 8: Linear models for predicting numerical data from single and multiple variables."
-date: "2021-08-03"
+description: "Week 8 (8 Nov 2021 - 14 Nov 2021): Linear models for predicting numerical data from single and multiple variables."
 
 hidden: true
 ---
 
-# Week 8 - Modelling Data
+# Modelling Data
+
+_Week 8 (8 Nov 2021 - 14 Nov 2021)_
 
 Linear models for predicting numerical data from single and multiple variables.
 

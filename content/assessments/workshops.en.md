@@ -22,7 +22,7 @@ We expect that you show up to the workshop session time and location you’ve be
 
 You are expected to bring a laptop to this session that you use for your studies. Please read the schools [Technology and equipment](https://teaching.maths.ed.ac.uk/main/undergraduate/studies/equipment) page for information on equipment or to request a device. There is also a [loan service](https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops) in the main library if anything is wrong with your device at short notice.
 
-During these sessions you will work in teams on computing lab exercises and you will finish the exercises after the workshop and turn in your lab reports by Tuesday 4pm UK time. Marking will be binary, with any reasonable attempt to complete the worksheet receiving full credit. No extensions will be granted for submitting these worksheets and solutions will be provided after the deadline. Workshop submissions with the lowest score for each student will be dropped. 
+During these sessions you will work in __teams__ on computing lab exercises and you will finish the exercises after the workshop and turn in your lab reports by Tuesday 4pm UK time. Marking will be binary, with any reasonable attempt to complete the worksheet receiving full credit. No extensions will be granted for submitting these worksheets and solutions will be provided after the deadline. Workshop submissions with the lowest score for each student will be dropped. 
 
 {{% notice tip %}}
 Set up weekly team meetings between Friday and Tuesday.

@@ -11,6 +11,16 @@ If you know of a significant correction not listed here, please do contact the <
 
 ### Week 1
 
+<p id="W105"><strong>IDS - Week 01 - 05 - Meet the toolkit: programming</strong></p>
+
+- The video is very quiet due to an error when rendering the video! We recommend making sure you do not have any other programs that cause notifications open as these will be quite loud. This issue is resolved in future weeks videos.
+- This year to work on application exercises, you need to _clone_ them from their git repository (see Opening a Project) or watch video 02.
+
+<p id="W106"><strong>IDS - Week 01 - 06 - Meet the toolkit: version control and collaboration</strong></p>
+
+- The video is very quiet (see above).
+- Signing up to GitHub looks a tad different than demoed in the video, but asks for largely the same information.
+
 ### Week 2
 
 <p id="W202"><strong>IDS - Week 02 - 02 - Data and visualisation</strong></p>

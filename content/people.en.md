@@ -88,6 +88,7 @@ Please do not contact Mine regarding any questions regarding the course or perso
 
 ### Maths Teaching Organization Staff
 <ul>
-  <li> Mrs Frances Reid (Course Secretary) <a id="CourseSec"><i class="far fa-envelope"></i></a></li>
-  <li>[INSERT] (Student Learning Advisor) <a id="SLA"><i class="far fa-envelope"></i></a></li>
+  <li>Frances Reid (Course Secretary) <a id="CourseSec"><i class="far fa-envelope"></i></a></li>
+  <li>Kat Kiernan (Student Learning Advisor) <a id="SLA1"><i class="far fa-envelope"></i></a></li>
+  <li>Kathleen Lloyd (Student Learning Advisor) <a id="SLA2"><i class="far fa-envelope"></i></a></li>
 </ul>

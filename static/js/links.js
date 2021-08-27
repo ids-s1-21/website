@@ -25,8 +25,8 @@ try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playli
 try {document.getElementById('playlistyt').href = "https://youtube.com/playlist?list=PLPpngierSrQQXWJYxcejlR-DI2YSp0gD2";} catch { };	// link to the youtube playlist
 
 // week 1 lecture 0
-try {document.getElementById("W1L0YT").href = "https://example.com";} catch { };	// youtube
-try {document.getElementById("W1L0MH").href = "https://example.com";} catch { };	// mediahopper
+//try {document.getElementById("W1L0YT").href = "https://example.com";} catch { };	// youtube
+//try {document.getElementById("W1L0MH").href = "https://example.com";} catch { };	// mediahopper
 // week 1 lecture 1
 //try {document.getElementById("W1L1YT").href = "https://youtu.be/OJ1xR0ObhIw";} catch { };	// youtube
 //try {document.getElementById("W1L1MH").href = "https://media.ed.ac.uk/media/Week+1+-+01+-+Welcome+to+IDS%21/1_b5uz1e1a";} catch { };	// mediahopper
@@ -241,7 +241,8 @@ try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer
 try {document.getElementById("MineWeb").href = "http://www2.stat.duke.edu/~mc301/";} catch { };
 try {document.getElementById("MineGitHub").href = "https://github.com/mine-cetinkaya-rundel";} catch { };
 try {document.getElementById("CourseSec").href = "mailto:f.c.reid@ed.ac.uk";} catch { };
-try {document.getElementById("SLA").href = "https://example.com";} catch { };
+try {document.getElementById("SLA1").href = "mailto:Kat.Kiernan@ed.ac.uk";} catch { };
+try {document.getElementById("SLA2").href = "mailto:Kathleen.Lloyd@ed.ac.uk";} catch { };
 try {document.getElementById("StudentSupportMail").href = "https://example.com";} catch { };
 try {document.getElementById("TutorMail").href = "https://example.com";} catch { };
 
@@ -271,7 +272,7 @@ try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.
 try {document.getElementById('extensionsExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
 try {document.getElementById('specialCircumstancesExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
 try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; //Institute for Academic Development
-try {document.getElementById('Piazza').href = "https://piazza.com/";} catch { }; //Institute for Academic Development
+try {document.getElementById('Piazza').href = "piazza.com/ed.ac.uk/fall2021/math08077/home";} catch { }; //Institute for Academic Development
 try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
 try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
 try {document.getElementById('GHSDP').href = "https://education.github.com/students";} catch { };

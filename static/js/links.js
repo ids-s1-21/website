@@ -19,6 +19,7 @@ try {document.getElementById('RepoHelp').href = "/troubleshoot/trouble/repos";} 
 try {document.getElementById('ZoomHelp').href = "/troubleshoot/trouble/zoom";} catch { };
 try {document.getElementById('ExerciseHelp').href = "/troubleshoot/trouble/exercises";} catch { };
 try {document.getElementById('OpeningaProject').href = "/troubleshoot/setup/openingaproject";} catch { };
+try {document.getElementById('PiazzaHelp').href = "/troubleshoot/setup/piazza";} catch { };
 
 // Videos -----------------------------------------------------------------------------------------------------------
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page

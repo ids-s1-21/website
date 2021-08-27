@@ -4,10 +4,10 @@ title: IDS
 
 ![corp](/images/UoE_Logo.png)
 
-# Introduction to Data Science
+# Introduction to Data Science <br>(MATH08077)
 
 <p style="font-size:90%; text-align: center">
-  This is the website for the Introduction to Data Science course offered at the University of Edinburgh in 2021. <br> Click <a id="ids2020">here</a> if you are looking for the 2020 version of the course and <a id="ids2019">here</a> for the 2019 version.</p>
+  This is the website for the Introduction to Data Science (MATH08077) course offered at the University of Edinburgh in 2021. Click <a id="ids2020">here</a> if you are looking for the 2020 version of the course and <a id="ids2019">here</a> for the 2019 version.</p>
 
 Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner. Gain experience in data collection, wrangling, and visualization, exploratory data analysis, predictive modeling, and effective communication of results while working on problems and case studies inspired by and based on real-world questions. The course will focus on the R statistical computing language. No statistical or computing background is necessary. Additional official course information can be found <a id="drps">here</a>.
 
@@ -49,7 +49,6 @@ Learn to explore, visualize, and analyze data to understand natural phenomena, i
 <br>
 
 <p style="font-size:90%">
-This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> licence.
-Visit <a id="licence">here</a> for more information. Much of these materials have been adapted from <a href="https://datasciencebox.org/">Data Science in a Box</a> by Mine Çetinkaya-Rundel, which is under the same licence.
+This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> licence (visit <a id="licence">here</a> for more information). These materials have been adapted from <a href="https://datasciencebox.org/">Data Science in a Box</a> by Mine Çetinkaya-Rundel, which is under the same licence.
 </p>
 <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a> 

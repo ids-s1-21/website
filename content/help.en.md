@@ -19,7 +19,7 @@ We've already prepared instructions for dealing with common questions, so feel f
   Go to the course channel for that course and join or start a meeting to wait for the tutor. Whilst you are there you can talk to other students from the course who might also be waiting too. You might find that others have similar questions.]
   {{% /notice %}}
 
-- **Email:** Please refrain from emailing any course content questions (those should go on Piazza or Teams), and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g. illness, concessions).
+- **Email:** Please refrain from emailing any course content questions (those should go on Piazza), and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g. illness, concessions).
 
 - For more general support and advice, please make use of the following resources:
   <ul>

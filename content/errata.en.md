@@ -7,7 +7,7 @@ Here's a list of significant corrections and clarifications to material on the c
 #### What counts as a significant correction?
 The error being corrected should materially affect the content. If words are misspelled, or if there was a graphical glitch, the error is not going to be listed here.
 
-If you know of a significant correction not listed here, please do contact the <a id = "people">course organisers</a> or post it on <a id = "Piazza">Piazza</a>.
+If you know of a significant correction not listed here, please do post it on <a id="Piazza">Piazza</a> or contact the <a id = "people">course organisers</a>.
 
 ### Week 1
 

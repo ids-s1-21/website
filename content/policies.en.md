@@ -2,6 +2,16 @@
 title: Policies
 ---
 
+### On-campus expectations
+
+When attending an in-person session (e.g. Student Hour or Workshops), you are required to follow the current Scottish and university safety measures.
+
+- There is currently (3rd September) legislation in Scotland on the mandatory wearing of face coverings and also statutory exemptions (see [here](https://www.ed.ac.uk/news/covid-19/hygiene-and-health)).
+
+- Measures, such as 1m distancing, should be observed if possible.
+
+Be aware that there are certain conditions and hidden disabilities that may preclude persons from wearing face coverings or be considered at "higher risk of severe illness". We expect staff and students to respect others who wish to keep a reasonable distance between themselves and others or cannot wear a face covering.
+
 ### Zoom expectations
 
 - When in a large session you should,

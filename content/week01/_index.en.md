@@ -7,7 +7,7 @@ weight: 1
 tags: ["week 1", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
 description: "Week 1 (20 Sep 2021 - 26 Sep 2021): Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester."
 
-hidden: false
+hidden: true
 ---
 
 # Welcome to IDS
@@ -29,7 +29,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 ## Videos
 
-<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.
+<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.</p>
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|

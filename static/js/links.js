@@ -95,11 +95,11 @@ try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08
 try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };
 
 // Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
-try {document.getElementById("OQ0").href = "https://u-edinburgh.shinyapps.io/00-overview/";} catch { };		// quiz 0
-try {document.getElementById("OQ1").href = "https://u-edinburgh.shinyapps.io/01-dataviz/";} catch { };		// quiz 1
-try {document.getElementById("OQ2").href = "https://u-edinburgh.shinyapps.io/02-datawrangle/";} catch { };		// quiz 2
-try {document.getElementById("OQ3").href = "https://u-edinburgh.shinyapps.io/03-wrangleviz/";} catch { };		// quiz 3
-try {document.getElementById("OQ4").href = "https://u-edinburgh.shinyapps.io/04-coding/";} catch { };		// quiz 4
+try {document.getElementById("OQ0").href = "https://uoe-maths.shinyapps.io/00-overview/";} catch { };		// quiz 0 - Syllabus and data
+try {document.getElementById("OQ1").href = "https://uoe-maths.shinyapps.io/01-dataviz/";} catch { };		// quiz 1 - Data visualization
+try {document.getElementById("OQ2").href = "https://uoe-maths.shinyapps.io/02-datawrangle/";} catch { };	// quiz 2 - Data wrangling
+try {document.getElementById("OQ3").href = "https://uoe-maths.shinyapps.io/03-wrangleviz/";} catch { };		// quiz 3 - Data wrangling and visualisation
+try {document.getElementById("OQ4").href = "https://uoe-maths.shinyapps.io/04-coding/";} catch { };			// quiz 4 - Coding style
 try {document.getElementById("OQ5").href = "https://example.com";} catch { };		// quiz 5 - Scrape + Iterate
 try {document.getElementById("OQ6").href = "https://example.com";} catch { };		// quiz 6 - Review
 try {document.getElementById("OQ7").href = "https://example.com";} catch { };		// quiz 7 - 
@@ -245,7 +245,18 @@ try {document.getElementById("CourseSec").href = "mailto:f.c.reid@ed.ac.uk";} ca
 try {document.getElementById("SLA1").href = "mailto:Kat.Kiernan@ed.ac.uk";} catch { };
 try {document.getElementById("SLA2").href = "mailto:Kathleen.Lloyd@ed.ac.uk";} catch { };
 try {document.getElementById("StudentSupportMail").href = "https://example.com";} catch { };
-try {document.getElementById("TutorMail").href = "https://example.com";} catch { };
+try {document.getElementById("AlaaMail").href = "mailto:alaa.amri@ed.ac.uk";} catch { };
+try {document.getElementById("BruceMail").href = "mailto:bruce.worton@ed.ac.uk";} catch { };
+try {document.getElementById("JacobMail").href = "mailto:jbradle2@exseed.ed.ac.uk";} catch { };
+try {document.getElementById("JinluMail").href = "mailto:jinlu.liu@ed.ac.uk";} catch { };
+try {document.getElementById("KarolinaMail").href = "mailto:k.benkova@ed.ac.uk";} catch { };
+try {document.getElementById("KevinMail").href = "mailto:ktsang2@exseed.ed.ac.uk";} catch { };
+try {document.getElementById("MaryMail").href = "mailto:mary.llewellyn@ed.ac.uk";} catch { };
+try {document.getElementById("MonserratMail").href = "mailto:s1553571@sms.ed.ac.uk";} catch { };
+try {document.getElementById("NicoleMail").href = "mailto:nicole.augustin@ed.ac.uk";} catch { };
+try {document.getElementById("PaulaMail").href = "mailto:paula.fermin@ed.ac.uk";} catch { };
+try {document.getElementById("RikiMail").href = "mailto:r.h.herliansyah@sms.ed.ac.uk";} catch { };
+try {document.getElementById("YikMail").href = "mailto:yfung@exseed.ed.ac.uk";} catch { };
 
 // Other ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {

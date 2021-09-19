@@ -7,7 +7,7 @@ weight: 1
 tags: ["week 1", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
 description: "Week 1 (20 Sep 2021 - 26 Sep 2021): Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester."
 
-hidden: true
+hidden: false
 ---
 
 # Welcome to IDS
@@ -52,11 +52,11 @@ This week's assignments will not be marked, as they are provided as practice and
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| OQ00: Syllabus Data | <li><a id="OQ0">Quiz</a></li> | Sun, 26 Sep, 23:59 UK |
+| OQ00: Syllabus Data | <li><a id="Error1">Quiz</a></li> | Sun, 26 Sep, 23:59 UK |
 | *Due next week* | | |
 | Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li>| Tue, 28 Sep, 16:00 UK |
 | HW00: Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
-| OQ01: Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
+| OQ01: Data visuallization | <li><a id="Error2">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
 
 ## Readings
 

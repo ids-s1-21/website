@@ -20,14 +20,16 @@ try {document.getElementById('ZoomHelp').href = "/troubleshoot/trouble/zoom";} c
 try {document.getElementById('ExerciseHelp').href = "/troubleshoot/trouble/exercises";} catch { };
 try {document.getElementById('OpeningaProject').href = "/troubleshoot/setup/openingaproject";} catch { };
 try {document.getElementById('PiazzaHelp').href = "/troubleshoot/setup/piazza";} catch { };
+try {document.getElementById('Error1').href = "/error";} catch { };
+try {document.getElementById('Error2').href = "/error";} catch { };
 
 // Videos -----------------------------------------------------------------------------------------------------------
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page
 try {document.getElementById('playlistyt').href = "https://youtube.com/playlist?list=PLPpngierSrQQXWJYxcejlR-DI2YSp0gD2";} catch { };	// link to the youtube playlist
 
 // week 1 lecture 0
-//try {document.getElementById("W1L0YT").href = "https://example.com";} catch { };	// youtube
-//try {document.getElementById("W1L0MH").href = "https://example.com";} catch { };	// mediahopper
+try {document.getElementById("W1L0YT").href = "https://youtu.be/GNslnHoxTDQ";} catch { };	// youtube
+try {document.getElementById("W1L0MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Meet+the+course+team/1_gp0oql9q";} catch { };	// mediahopper
 // week 1 lecture 1
 try {document.getElementById("W1L1YT").href = "https://youtu.be/I77g94x_GkA";} catch { };	// youtube
 try {document.getElementById("W1L1MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+01+-+01+-+Welcome+to+IDS%21+%282021%29/1_2scjcuks";} catch { };	// mediahopper

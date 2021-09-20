@@ -3,6 +3,10 @@ title: "Posting on Piazza"
 weight: 4
 ---
 
+{{% notice note %}}
+Make sure to signup to Piazza using your university email. You can gain access to the course by using the link found on the Learn page.
+{{% /notice %}}
+
 The best way to get any questions answered in a timely manner on course content, technology, logistics, and policies is to post your question on <a id="Piazza">Piazza</a>. Piazza is designed to connect students, TAs, and professors so you can get help when you need it. A good place to start setting up and learning about Piazza is the following _introduction for students_ video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tqGummy1Be4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

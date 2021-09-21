@@ -50,7 +50,7 @@ date: "2021-08-03"
   </div>
 </div>
 
-Videos are released on Mondays, office hours are on Tuesdays and Wednesdays, code alongs on Thursdays, and workshops on Fridays.
+Videos are released on Mondays, student hours are on Tuesdays and Wednesdays, code alongs on Thursdays, and workshops on Fridays.
 
 <p style="text-align: left">
 If you are looking for your class times for this course, these can be found via your University of Edinburgh calendar:

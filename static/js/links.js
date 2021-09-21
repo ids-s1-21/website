@@ -176,7 +176,7 @@ try {document.getElementById("projectR").href = "https://github.com/ids-s1-21?q=
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
 try {document.getElementById("IMS").href = "https://openintro-ims.netlify.app/";} catch { };		// IMS
 try {document.getElementById("R4DS2").href = "https://r4ds.had.co.nz/explore-intro.html";} catch { };		// R4DS: Chapter 2
-try {document.getElementById("IMS1").href = "https://openintro-ims.netlify.app/getting-started-with-data.html#basic-stents-strokes";} catch { };		// IMS: Chapter 1
+try {document.getElementById("IMS1").href = "https://openintro-ims.netlify.app/data-hello.html";} catch { };		// IMS: Chapter 1
 try {document.getElementById("HTRR").href = "https://socviz.co/appendix.html#a-little-more-about-r";} catch { };		// How to read an R help page
 try {document.getElementById("OpenSci").href = "https://ropensci.github.io/reproducibility-guide/sections/introduction/";} catch { };
 try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };

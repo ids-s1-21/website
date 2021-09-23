@@ -54,7 +54,7 @@ This week's assignments will not be marked, as they are provided as practice and
 | *Due this week* | | |
 | OQ00: Syllabus Data | <li><a id="OQ0">Quiz</a></li> | Sun, 26 Sep, 23:59 UK |
 | *Due next week* | | |
-| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li>| Tue, 28 Sep, 16:00 UK |
+| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li>| Tue, 28 Sep, 16:00 UK |
 | HW00: Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
 | OQ01: Data visuallization | <li><a id="Error2">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
 

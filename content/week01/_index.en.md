@@ -73,7 +73,7 @@ This week's assignments will not be marked, as they are provided as practice and
 
 ## Code-along
 
-<p style="text-align: left"> Recordings and files from Thursdays code-along.</p>
+<p style="text-align: left"> Recordings and files from Thursday's code-along.</p>
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|

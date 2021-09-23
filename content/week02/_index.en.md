@@ -67,7 +67,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 ## Code-along
 
-<p style="text-align: left"> Recordings of the code-along will be added after Thursdays session.</p>
+<p style="text-align: left"> Recordings of the code-along will be added after Thursday's session.</p>
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
@@ -76,7 +76,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 ## Interactive R tutorials
 
-<p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional, but the “Airbnb Listings in Edinburgh” dataset show up in your next homework assignment as well, so you might want to go through that one so that you can gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the second tutorial as well.</p>
+<p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional, but the “Airbnb Listings in Edinburgh” dataset shows up in your next homework assignment as well, so you might want to go through that one so that you can gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the second tutorial as well.</p>
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|

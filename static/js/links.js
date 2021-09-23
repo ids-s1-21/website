@@ -201,6 +201,11 @@ try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational
 try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// R4DS: Chapter 5
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
+try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
+try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} catch { };
+try {document.getElementById("CA1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+01+-+Code-along/1_v5suq9a2";} catch { };
+try {document.getElementById("CARmd").href = "https://github.com/ids-s1-21/code-along/blob/main/week-01-emmys/emmys.Rmd";} catch { };
+try {document.getElementById("CA1Md").href = "https://github.com/ids-s1-21/code-along/blob/main/week-01-emmys/emmys.md";} catch { };
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };
@@ -258,7 +263,7 @@ try {document.getElementById("MonserratMail").href = "mailto:s1553571@sms.ed.ac.
 try {document.getElementById("NicoleMail").href = "mailto:nicole.augustin@ed.ac.uk";} catch { };
 try {document.getElementById("PaulaMail").href = "mailto:paula.fermin@ed.ac.uk";} catch { };
 try {document.getElementById("RikiMail").href = "mailto:r.h.herliansyah@sms.ed.ac.uk";} catch { };
-try {document.getElementById("YikMail").href = "mailto:yfung@exseed.ed.ac.uk";} catch { };
+try {document.getElementById("YikMail").href = "mailto:Y.L.Fung@ed.ac.uk";} catch { };
 
 // Other ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {

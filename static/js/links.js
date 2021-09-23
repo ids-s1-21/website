@@ -112,7 +112,7 @@ try {document.getElementById("OQ10").href = "https://example.com";} catch { };		
 // Labs --------------------------------------------------------------------------------------------------------------------------------------------
 // lab 0 - Hello IDS!
 try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };
-try {document.getElementById("LAB0R").href = "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=";}
+try {document.getElementById("LAB0R").href = "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=";} catch { };
 
 // lab 1 - Plastic Waste
 try {document.getElementById("LAB1I").href = "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html";} catch { };

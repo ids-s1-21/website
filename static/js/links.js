@@ -73,7 +73,7 @@ try {document.getElementById("W2L3MH").href = "https://media.ed.ac.uk/media/IDS+
 try {document.getElementById("W2L3S").href = "https://ids-s1-21.github.io/slides/week-02/w2-d03-ggplot2/w2-d03-ggplot2.html";} catch { };		// slides
 
 // week 2 lecture 4
-try {document.getElementById("W2L4YT").href = "https://www.youtube.com/watch?v=waBabVTI8ec&ab_channel=Mine%C3%87etinkaya-Rundel";} catch { };	// youtube
+try {document.getElementById("W2L4YT").href = "https://youtu.be/waBabVTI8ec";} catch { };	// youtube
 try {document.getElementById("W2L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+2+-+04+-+Visualising+numerical+data/1_po2ufyev";} catch { };	// mediahopper
 try {document.getElementById("W2L4S").href = "https://ids-s1-21.github.io/slides/week-02/w2-d04-viz-num/w2-d04-viz-num.html";} catch { };		// slides
 

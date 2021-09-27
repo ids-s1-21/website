@@ -58,9 +58,8 @@ try {document.getElementById("W1L6MH").href = "https://media.ed.ac.uk/media/IDS+
 try {document.getElementById("W1L6S").href = "https://ids-s1-21.github.io/slides/week-01/w1-d06-toolkit-git/w1-d06-toolkit-git.html";} catch { };		// slides
 
 // week 2 lecture 1
-try {document.getElementById("W2L1YT").href = "https://example.com";} catch { };	// youtube
-try {document.getElementById("W2L1MH").href = "https://example.com";} catch { };	// mediahopper
-try {document.getElementById("W2L1S").href = "https://example.com";} catch { };		// slides
+try {document.getElementById("W2L1YT").href = "https://youtu.be/5pK4wQHy7Jc";} catch { };	// youtube
+try {document.getElementById("W2L1MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+02+-+01+-+Keeping+Up+with+IDS/1_fot836so";} catch { };	// mediahopper
 
 // week 2 lecture 2
 try {document.getElementById("W2L2YT").href = "https://www.youtube.com/watch?v=FddF4b_GuTI&ab_channel=Mine%C3%87etinkaya-Rundel";} catch { };	// youtube

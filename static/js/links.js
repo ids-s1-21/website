@@ -12,6 +12,7 @@ try {document.getElementById('resources').href = "/resources";} catch { };			// 
 try {document.getElementById('tags').href = "/tags";} catch { };					// link to the tags page
 
 try {document.getElementById('troubleshoot').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
+try {document.getElementById('troubleshoot2').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
 try {document.getElementById('GitHubSetup').href = "/troubleshoot/setup/github";} catch { };	// link to github setup
 try {document.getElementById('RStudioCloudSetup').href = "/troubleshoot/setup/rstudiocloud";} catch { };	// link to github setup
 try {document.getElementById('ZoomSetup').href = "/troubleshoot/setup/zoomsetup";} catch { };	// link to github setup
@@ -22,6 +23,7 @@ try {document.getElementById('OpeningaProject').href = "/troubleshoot/setup/open
 try {document.getElementById('PiazzaHelp').href = "/troubleshoot/setup/piazza";} catch { };
 try {document.getElementById('Error1').href = "/error";} catch { };
 try {document.getElementById('Error2').href = "/error";} catch { };
+try {document.getElementById('Error3').href = "/error";} catch { };
 
 // Videos -----------------------------------------------------------------------------------------------------------
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page

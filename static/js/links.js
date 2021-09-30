@@ -208,6 +208,10 @@ try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} ca
 try {document.getElementById("CA1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+01+-+Code-along/1_v5suq9a2";} catch { };
 try {document.getElementById("CARmd").href = "https://github.com/ids-s1-21/code-along-01/blob/main/emmys.Rmd";} catch { };
 try {document.getElementById("CA1Md").href = "https://github.com/ids-s1-21/code-along-01/blob/main/emmys.md";} catch { };
+try {document.getElementById("CA2YT").href = "https://youtu.be/5StGy78P250";} catch { };
+try {document.getElementById("CA2MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+02+-+Code-along/1_zy594e0c";} catch { };
+try {document.getElementById("CA2Rmd").href = "https://github.com/ids-s1-21/code-along-02/blob/main/billboard.Rmd";} catch { };
+try {document.getElementById("CA2Md").href = "https://github.com/ids-s1-21/code-along-02/blob/main/billboard.md";} catch { };
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };

@@ -15,10 +15,10 @@ date,day,due_type,due_detail,mark_type,who,week
 03/10/2021,Sunday,Quiz,OQ01,Marked,Individual,2
 04/10/2021,Monday,,,,,3
 05/10/2021,Tuesday,Lab,Lab01,Marked,Individual,3
-06/10/2021,Wednesday,Feedback survey,Course,Not marked,Individual,3
+06/10/2021,Wednesday,,,,,,3
 07/10/2021,Thursday,,,,,3
 08/10/2021,Friday,,,,,3
-09/10/2021,Saturday,,,,,3
+09/10/2021,Saturday,Feedback survey,Course,Not marked,Individual,3
 10/10/2021,Sunday,Quiz,OQ02,Marked,Individual,3
 11/10/2021,Monday,,,,,4
 12/10/2021,Tuesday,Lab,Lab02,Marked,Team,4
@@ -38,8 +38,8 @@ date,day,due_type,due_detail,mark_type,who,week
 26/10/2021,Tuesday,Project,Proposal,Marked,Team,6
 27/10/2021,Wednesday,,,,,6
 28/10/2021,Thursday,Homework,HW02,Marked,Individual,6
-29/10/2021,Friday,Feedback survey,Course,Not marked,Individual,6
-30/10/2021,Saturday,,,,,6
+29/10/2021,Friday,,,,,6
+30/10/2021,Saturday,Feedback survey,Course,Not marked,Individual,6
 31/10/2021,Sunday,Quiz,OQ05,Marked,Individual,6
 01/11/2021,Monday,,,,,7
 02/11/2021,Tuesday,Lab,Lab04,Marked,Team,7

@@ -86,8 +86,9 @@ try {document.getElementById("W2L6YT").href = "https://www.youtube.com/watch?v=3
 try {document.getElementById("W2L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+02+-+06+-+AEA+StarWars+%2B+Dataviz/1_httcg4wa";} catch { };	// mediahopper
 
 // week 3 lecture 1
-try {document.getElementById("W3L1YT").href = "https://example.com/";} catch { };	// youtube
-try {document.getElementById("W3L1MH").href = "https://example.com/";} catch { };	// mediahopper
+try {document.getElementById("W3L1YT").href = "https://youtu.be/HZDlSk3y9mQ";} catch { };	// youtube
+try {document.getElementById("W3L1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+03+-+01-+Keeping+up+with+IDS/1_fwup6qul";} catch { };	// mediahopper
+try {document.getElementById("W3L1S").href = "https://ids-s1-21.github.io/slides/week-03/w3-d01-kuwids-alex/w3-d01-kuwids-alex.html#1";} catch { };		// slides
 
 // week 3 lecture 2
 try {document.getElementById("W3L2YT").href = "https://youtu.be/Ux85eR3h9hw";} catch { };	// youtube

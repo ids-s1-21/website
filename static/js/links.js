@@ -304,7 +304,7 @@ try {document.getElementById("MonserratMail").href = "mailto:s1553571@sms.ed.ac.
 try {document.getElementById("NicoleMail").href = "mailto:nicole.augustin@ed.ac.uk";} catch { };
 try {document.getElementById("PaulaMail").href = "mailto:paula.fermin@ed.ac.uk";} catch { };
 try {document.getElementById("RikiMail").href = "mailto:r.h.herliansyah@sms.ed.ac.uk";} catch { };
-try {document.getElementById("YikMail").href = "mailto:Y.L.Fung@ed.ac.uk";} catch { };
+try {document.getElementById("YikMail").href = "mailto:s1828050@ed.ac.uk";} catch { };
 
 // Other ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {

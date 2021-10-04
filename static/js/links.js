@@ -85,6 +85,39 @@ try {document.getElementById("W2L5S").href = "https://ids-s1-21.github.io/slides
 try {document.getElementById("W2L6YT").href = "https://www.youtube.com/watch?v=3UaLPtCKkXQ&ab_channel=Mine%C3%87etinkaya-Rundel";} catch { };	// youtube
 try {document.getElementById("W2L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+02+-+06+-+AEA+StarWars+%2B+Dataviz/1_httcg4wa";} catch { };	// mediahopper
 
+// week 3 lecture 1
+try {document.getElementById("W3L1YT").href = "https://example.com/";} catch { };	// youtube
+try {document.getElementById("W3L1MH").href = "https://example.com/";} catch { };	// mediahopper
+
+// week 3 lecture 2
+try {document.getElementById("W3L2YT").href = "https://youtu.be/Ux85eR3h9hw";} catch { };	// youtube
+try {document.getElementById("W3L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+03+-+02+-+Tidy+data/1_lc61ottc";} catch { };	// mediahopper
+try {document.getElementById("W3L2S").href = "https://ids-s1-21.github.io/slides/week-03/w3-d02-tidy-data/w3-d02-tidy-data.html#1";} catch { };		// slides
+
+// week 3 lecture 3
+try {document.getElementById("W3L3YT").href = "https://youtu.be/ZCaYBES_VEk";} catch { };	// youtube
+try {document.getElementById("W3L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+03+-+03+-+Grammar+of+data+wrangling/1_meyz4shf";} catch { };	// mediahopper
+try {document.getElementById("W3L3S").href = "https://ids-s1-21.github.io/slides/week-03/w3-d03-grammar-wrangle/w3-d03-grammar-wrangle.html#1";} catch { };		// slides
+
+// week 3 lecture 4
+try {document.getElementById("W3L4YT").href = "https://youtu.be/0229Uq2hkJo";} catch { };	// youtube
+try {document.getElementById("W3L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+03+-+04+-+Working+with+a+single+data+frame/1_bismxagl";} catch { };	// mediahopper
+try {document.getElementById("W3L4S").href = "https://ids-s1-21.github.io/slides/week-03/w3-d04-single-df/w3-d04-single-df.html#1";} catch { };		// slides
+
+// week 3 lecture 5
+try {document.getElementById("W3L5YT").href = "https://youtu.be/VdV5ABsaf5Y";} catch { };	// youtube
+try {document.getElementById("W3L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+03+-+05+-+Working+with+multiple+data+frames/1_pz5t7dhx";} catch { };	// mediahopper
+try {document.getElementById("W3L5S").href = "https://ids-s1-21.github.io/slides/week-03/w3-d05-multi-df/w3-d05-multi-df.html#1";} catch { };		// slides
+
+// week 3 lecture 6
+try {document.getElementById("W3L6YT").href = "https://youtu.be/x3KM5uxaFdI";} catch { };	// youtube
+try {document.getElementById("W3L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+03+-+06+-+Tidying+data/1_wa4tmotd";} catch { };	// mediahopper
+try {document.getElementById("W3L6S").href = "https://ids-s1-21.github.io/slides/week-03/w3-d06-tidying/w3-d06-tidying.html#1";} catch { };		// slides
+
+// week 3 lecture 7
+try {document.getElementById("W3L7YT").href = "https://youtu.be/BXlOd4EYQrI";} catch { };	// youtube
+try {document.getElementById("W3L7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+03+-+07+-+AEA+Hotels+%2B+Data+wrangling/1_nua37qzj";} catch { };	// mediahopper
+
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
@@ -216,6 +249,8 @@ try {document.getElementById("CA2Md").href = "https://github.com/ids-s1-21/code-
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };
 try {document.getElementById("RT2").href = "https://minecr.shinyapps.io/dsbox-01-edibnb/";} catch { };
+try {document.getElementById("RT3").href = "https://minecr.shinyapps.io/dsbox-02-accidents/";} catch { };
+try {document.getElementById("RT4").href = "https://rstudio.cloud/learn/primers/2";} catch { };
 
 // Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
 // TidyTuesday

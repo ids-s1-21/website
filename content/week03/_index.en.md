@@ -7,7 +7,7 @@ weight: 3
 tags: ["week 3", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
 description: "Week 3 (4 Oct 2021 - 10 Oct 2021): Data wrangling, joining, and tidying."
 
-hidden: true
+hidden: FALSE
 ---
 
 # Wrangling and Tidying Data
@@ -30,7 +30,7 @@ Data visualization and interpretation of graphical information.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 3 | <a id="W3L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L1S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 01  | Keeping up with IDS: Week 3 | <a id="Error1"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="Error2"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 | 02  | 	Tidy data     | <a id="W3L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
 | 03  | Grammar of data wrangling    | <a id="W3L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 04  | Working with a single data frame   | <a id="W3L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W3L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W3L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a id="AE4">AE4. Repository</a></li> |
@@ -40,7 +40,7 @@ Data visualization and interpretation of graphical information.
 
 ## Assignments
 
-<p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a></p>.
+<p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
@@ -50,7 +50,7 @@ Data visualization and interpretation of graphical information.
 | *Due next week* | | | 
 | Lab02: Take a Sad Plot and Make it Better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li> | Tue, 12 Oct, 16:00 UK  |
 | HW01: All about Edinburgh | <li><a id="HW1I">Instructions</a></li><li><a id="HW1R">Repository</a></li> | Thur, 14 Oct, 16:00 UK | 
-| OQ03: Data wrangling and Visualisation | <li><a id="OQ3">Quiz</a></li> | Sun, 17 Oct, 23:59 UK |
+| OQ03: Data Wrangling and Visualisation | <li><a id="OQ3">Quiz</a></li> | Sun, 17 Oct, 23:59 UK |
 
 ## Readings
 
@@ -73,8 +73,9 @@ Data visualization and interpretation of graphical information.
 
 ## Interactive R tutorials
 
-<p style="text-align: left"> The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.</p>
+<p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional, but the "Road Traffic Accidents"" dataset shows up in your next homework assignment as well, so you might want to go through that one so that you can gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the second tutorial as well.</p>
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [INSERT] | Extra practice |
+| <a id="RT3">Road Traffic Accidents</a> | Related to HW01 |
+| <a id="RT4">Work with data</a> | Extra practice |

@@ -46,7 +46,7 @@ Data visualization and interpretation of graphical information.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | | 
-| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Tue, 05 Oct, 16:00 UK |
+| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Thurs, 07 Oct, 16:00 UK (Delayed) |
 | OQ02: Data Wrangling | <li><a id="OQ2">Quiz</a></li> | Sun, 10 Oct, 23:59 UK |
 | *Due next week* | | | 
 | Lab02: Take a Sad Plot and Make it Better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li> | Tue, 12 Oct, 16:00 UK  |

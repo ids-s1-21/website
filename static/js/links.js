@@ -235,6 +235,7 @@ try {document.getElementById("R4DS5").href = "https://r4ds.had.co.nz/transform.h
 try {document.getElementById("R4DS12").href = "https://r4ds.had.co.nz/tidy-data.html";} catch { };		// R4DS: Chapter 5
 try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational-data.html";} catch { };		// R4DS: Chapter 5
 try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// R4DS: Chapter 5
+try {document.getElementById("intro2rgit").href = "https://intro2r.com/use-git.html";} catch { };		// intro2r: Chapter 9
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };

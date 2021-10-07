@@ -247,6 +247,10 @@ try {document.getElementById("CA2YT").href = "https://youtu.be/5StGy78P250";} ca
 try {document.getElementById("CA2MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+02+-+Code-along/1_zy594e0c";} catch { };
 try {document.getElementById("CA2Rmd").href = "https://github.com/ids-s1-21/code-along-02/blob/main/billboard.Rmd";} catch { };
 try {document.getElementById("CA2Md").href = "https://github.com/ids-s1-21/code-along-02/blob/main/billboard.md";} catch { };
+try {document.getElementById("CA3YT").href = "https://youtu.be/PU6TDtHeGVA";} catch { };
+try {document.getElementById("CA3MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+03+-+Code+along/1_m4e783ff";} catch { };
+try {document.getElementById("CA3Rmd").href = "https://github.com/ids-s1-21/code-along-03/blob/main/paralympics.Rmd";} catch { };
+try {document.getElementById("CA3Md").href = "https://github.com/ids-s1-21/code-along-03/blob/main/paralympics.md";} catch { };
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };

@@ -9,28 +9,23 @@ You, as part of a __team__, will be responsible for the completion of an open en
 Stick to optional interim deadlines.
 {{% /notice %}}
 
-## TL;DR
+## Too Long Didn't Read (TL;DR)
 
 Pick a dataset, any dataset...
 
 ...and do something with it. That is your final project in a nutshell. 
 
-More details will be released below as the course progresses.
-
-<!-- TODO: Uncomment below when info is to be released -->
-<!--
-
 ## May be too long, but please do read
 
-The final project for this class will consist of analysis on a dataset of your own choosing. The dataset may already exist, or you may collect your own data using a survey or by conducting an experiment. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
+The final project for this class will consist of analysis on a dataset of your own choosing. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
 
-The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let me know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
+The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let us know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
-The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (`tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
+The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
 
 ### Data
 
-In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. As such, your dataset must have at least 50 observations and between 10 to 20 variables (exceptions can be made but you must speak with me first). The variables in the data should include categorical variables, discrete numerical variables, and continuous numerical variables.
+In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. As such, your dataset must have at least 50 observations and between 10 to 20 variables (exceptions can be made but you must speak with the course team first). The variables in the data should include categorical variables, discrete numerical variables, and continuous numerical variables.
 
 If you are using a dataset that comes in a format that we haven't encountered in class, make sure that you are able to load it into R as this can be tricky depending on the source. If you are having trouble ask for help before it is too late.
 
@@ -60,7 +55,7 @@ Below are a list of data repositories that might be of interest to browse. You'r
 ### Deliverables
 
 1. Proposal     - due Tuesday, 26 Oct, at 16:00 UK
-1. Presentation - due Friday, 3 Dec, at 09:00 UK as pre-recorded video or live presentation in workshop
+1. Presentation - due Friday, 3 Dec, at 09:00 UK
 1. Write-up     - due Friday, 3 Dec, at 09:00 UK
 
 #### Proposal
@@ -80,7 +75,7 @@ and codebook to the README in that folder. Then print out the output of
 and visualizations, along with some explanation on how they help you learn more 
 about your data. (You can add to these later as you work on your project.)
   - The statistical method(s) that you believe will be useful in answering your 
-question(s). (You can update these later as you work on your project.)
+question(s) (You can update these later as you work on your project).
   -  What results from these specific statistical methods are needed to support 
 your hypothesized answer?
 
@@ -95,10 +90,10 @@ Prepare a slide deck using the template in your repo. This template uses a packa
 Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
 {{% /notice %}}
 
-Presentation schedule: Presentations will take place during the last workshop of the semester. During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations. The presentation line-up will be generated randomly.
+Presentation schedule: Presentations will take place during the last workshop of the semester. All teams (that can) will give them as a live presentation in workshop, although in some cases we will accept submission of a pre-recorded video depending on individual team circumstances (please discuss this with the course team). During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations. The presentation line-up will be generated randomly.
 
 {{% notice note %}}
-If your team is currently remote, you should [pre-record your presentation](https://docs.google.com/document/d/1FxpFqUbEVpOzp7PWICC8gEvmIKfsNPT3mmQuSufsGHQ/edit?usp=sharing), you will need to upload your presentation *somewhere* and then add a link to the video in your repo README. We recommend you upload your video to MediaHopper. To do so, go to [media.ed.ac.uk](https://media.ed.ac.uk/), log in from the top left corner, then click on Add New Media and upload your video as unlisted. Once uploaded, grab the sharing link and add it to your repo README, next to the link to your slides. [This video](https://www.youtube.com/watch?v=rqxhOgrifyk) goes through this process. Ask questions **early** if anything is unclear. Your video must be updated and a link must be added to your repo by 10am UK time on 3 December!
+Should you need to [pre-record your presentation](https://docs.google.com/document/d/1FxpFqUbEVpOzp7PWICC8gEvmIKfsNPT3mmQuSufsGHQ/edit?usp=sharing), you will need to upload your presentation *somewhere* and then add a link to the video in your repo README. We recommend you upload your video to MediaHopper. To do so, go to [media.ed.ac.uk](https://media.ed.ac.uk/), log in from the top left corner, then click on Add New Media and upload your video as unlisted. Once uploaded, grab the sharing link and add it to your repo README, next to the link to your slides. [This video](https://www.youtube.com/watch?v=rqxhOgrifyk) goes through this process. Ask questions **early** if anything is unclear. Your video must be updated and a link must be added to your repo by 9am UK time on 3 December!
 {{% /notice %}}
 
 #### Write-up
@@ -120,7 +115,7 @@ Style and format does count for this assignment, so please take the time to make
 
 ## Tips
 
-- You're working in the same repo as your teammates now, so merge conflicts will happen, issues will arise, and that’s fine! Commit and push often, and ask questions when stuck.
+- You're working in the same repo as your teammates, so merge conflicts will happen, issues will arise, and that’s fine! Commit and push often, and ask questions when stuck.
 - Review the marking guidelines below and ask questions if any of the expectations are unclear.
 - Make sure each team member is contributing, both in terms of quality and quantity of contribution (we will be reviewing commits from different team members).
 - Set aside time to work together and apart (physically).
@@ -148,12 +143,10 @@ Classmates' evaluation         | 5 pts
 
 ### Team peer evaluation
 
-You will be asked to fill out a survey where you rate the contribution and teamwork of each team member out of 10 points. You will additionally report a contribution percentage for each team member. Filling out the survey is a prerequisite for getting credit on the team member evaluation.If you are suggesting that an individual did less than 20% of the work, please provide some explanation. If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group.
+You will be asked to fill out a survey where you rate the contribution and teamwork of each team member out of 10 points. You will additionally report a contribution percentage for each team member. Filling out the survey is a prerequisite for getting credit on the team member evaluation. If you are suggesting that an individual did less than 20% of the work, please provide some explanation. If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group.
 
 ### Late work policy
 
 - There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it *or* pre-record and submit your presentation by 9am in the morning of the presentations.
 
 - The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline. If you intend to submit work late for the project, you must notify the course organizer before the original deadline as well as as soon as the completed work is submitted on GitHub.
-
--->

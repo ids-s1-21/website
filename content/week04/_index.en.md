@@ -60,7 +60,8 @@ Importing data, data types and classes, recoding.
 |:---:|:---|:---:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS11">Chp 11 - Data import</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS15">Chp 15 - Factors</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 5 - Dates and times</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
+| <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information</a> | Recommended |
 
 ## Code-along
 

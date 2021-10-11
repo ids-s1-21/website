@@ -132,22 +132,22 @@ try {document.getElementById("W4L2S").href = "https://ids-s1-21.github.io/slides
 // week 4 lecture 3
 try {document.getElementById("W4L3YT").href = "https://youtu.be/dozvSVQcqqg";} catch { };	// youtube
 try {document.getElementById("W4L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+03+-+Data+classes/1_jtl24uhw";} catch { };	// mediahopper
-try {document.getElementById("W4L3S").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d03-data-classes.html#1";} catch { };	// slides
+try {document.getElementById("W4L3S").href = "https://ids-s1-21.github.io/slides/week-04/w4-d03-data-classes/w4-d03-data-classes.html#1";} catch { };	// slides
 
 // week 4 lecture 4a
 try {document.getElementById("W4L4aYT").href = "https://youtu.be/tIMaRYiuEFA";} catch { };	// youtube
 try {document.getElementById("W4L4aMH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+04+-+Importing+data/1_ok0qzxns";} catch { };	// mediahopper
-try {document.getElementById("W4L4aS").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d04-data-import.html#1";} catch { };	// slides
+try {document.getElementById("W4L4aS").href = "https://ids-s1-21.github.io/slides/week-04/w4-d04a-data-import/w4-d04-data-import.html#1";} catch { };	// slides
 
 // week 4 lecture 4b
 try {document.getElementById("W4L4bYT").href = "https://youtu.be/hJt7ehKYMMI";} catch { };	// youtube
 try {document.getElementById("W4L4bMH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-04b+-+Importing+through+the+GUI/1_cehpsamf";} catch { };	// mediahopper
-try {document.getElementById("W4L4bS").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d04-import-through-GUI.html#1";} catch { };	// slides
+try {document.getElementById("W4L4bS").href = "https://ids-s1-21.github.io/slides/week-04/w4-d04b-import-through-GUI/w4-d04-import-through-GUI.html#1";} catch { };	// slides
 
 // week 4 lecture 5
 try {document.getElementById("W4L5YT").href = "https://youtu.be/O8qxV3N4D5Q";} catch { };	// youtube
 try {document.getElementById("W4L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+05+-+Recoding+data/1_z5y3wha1";} catch { };	// mediahopper
-try {document.getElementById("W4L5S").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d05-data-recode.html#1";} catch { };	// slides
+try {document.getElementById("W4L5S").href = "https://ids-s1-21.github.io/slides/week-04/w4-d05-data-recode/w4-d05-data-recode.html#1";} catch { };	// slides
 
 // week 4 lecture 6
 try {document.getElementById("W4L6YT").href = "https://youtu.be/sByadx_cgDc";} catch { };	// youtube
@@ -164,7 +164,10 @@ try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02
 try {document.getElementById("AE3").href = "https://github.com/ids-s1-21?q=ae-03-starwars-dataviz&type=&language=&sort=";} catch { };
 try {document.getElementById("AE4").href = "https://github.com/ids-s1-21?q=ae-04-hotels-datawrangling&type=&language=&sort=";} catch { };
 try {document.getElementById("AE5").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
+try {document.getElementById("AE5_2").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
+try {document.getElementById("AE5_3").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE6").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
+try {document.getElementById("AE6_2").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
 try {document.getElementById("AE7").href = "https://github.com/ids-s1-21?q=ae-07-brexit-story-dataviz&type=&language=&sort=";} catch { };
 try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08-imdb-webscraping&type=&language=&sort=";} catch { };
 try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };

@@ -22,10 +22,10 @@ date,day,due_type,due_detail,mark_type,who,week
 10/10/2021,Sunday,Quiz,OQ02,Marked,Individual,3
 11/10/2021,Monday,,,,,4
 12/10/2021,Tuesday,Lab,Lab02,Marked,Team,4
-13/10/2021,Wednesday,Feedback survey,Peer,Marked,Individual,4
+13/10/2021,Wednesday,,,,,4
 14/10/2021,Thursday,Homework,HW01,Marked,Individual,4
 15/10/2021,Friday,,,,,4
-16/10/2021,Saturday,,,,,4
+16/10/2021,Saturday,Feedback survey,Peer,Marked,Individual,4
 17/10/2021,Sunday,Quiz,OQ03,Marked,Individual,4
 18/10/2021,Monday,,,,,5
 19/10/2021,Tuesday,Lab,Lab03,Marked,Team,5
@@ -43,11 +43,11 @@ date,day,due_type,due_detail,mark_type,who,week
 31/10/2021,Sunday,Quiz,OQ05,Marked,Individual,6
 01/11/2021,Monday,,,,,7
 02/11/2021,Tuesday,Lab,Lab04,Marked,Team,7
-03/11/2021,Wednesday,Feedback survey,Peer,Marked,Individual,7
+03/11/2021,Wednesday,,,,,7
 04/11/2021,Thursday,,,,,7
 05/11/2021,Friday,Project,"Proposal,
 take 2",Marked,Team,7
-06/11/2021,Saturday,,,,,7
+06/11/2021,Saturday,Feedback survey,Peer,Marked,Individual,7
 07/11/2021,Sunday,Quiz,OQ06,Marked,Individual,7
 08/11/2021,Monday,,,,,8
 09/11/2021,Tuesday,Lab,Lab05,Marked,Team,8
@@ -58,10 +58,10 @@ take 2",Marked,Team,7
 14/11/2021,Sunday,Quiz,OQ07,Marked,Individual,8
 15/11/2021,Monday,,,,,9
 16/11/2021,Tuesday,Lab,Lab06,Marked,Team,9
-17/11/2021,Wednesday,Feedback survey,Peer,Marked,Individual,9
+17/11/2021,Wednesday,,,,,9
 18/11/2021,Thursday,,,,,9
 19/11/2021,Friday,,,,,9
-20/11/2021,Saturday,,,,,9
+20/11/2021,Saturday,Feedback survey,Peer,Marked,Individual,9
 21/11/2021,Sunday,Quiz,OQ08,Marked,Individual,9
 22/11/2021,Monday,,,,,10
 23/11/2021,Tuesday,Lab,Lab07,Marked,Team,10
@@ -75,8 +75,8 @@ take 2",Marked,Team,7
 01/12/2021,Wednesday,,,,,11
 02/12/2021,Thursday,,,,,11
 03/12/2021,Friday,Project,Project,Marked,Team,11
-04/12/2021,Saturday,,,,,11
-05/12/2021,Sunday,Feedback survey,Peer,Marked,Individual,11
+04/12/2021,Saturday, Feedback survey,Peer,Marked,Individual,11
+05/12/2021,Sunday,,,,,11
 06/12/2021,Monday,,,,,12
 07/12/2021,Tuesday,,,,,12
 08/12/2021,Wednesday,,,,,12

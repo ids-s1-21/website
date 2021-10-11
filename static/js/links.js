@@ -119,6 +119,44 @@ try {document.getElementById("W3L6S").href = "https://ids-s1-21.github.io/slides
 try {document.getElementById("W3L7YT").href = "https://youtu.be/BXlOd4EYQrI";} catch { };	// youtube
 try {document.getElementById("W3L7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+03+-+07+-+AEA+Hotels+%2B+Data+wrangling/1_nua37qzj";} catch { };	// mediahopper
 
+// week 4 lecture 1
+try {document.getElementById("W4L1YT").href = "";} catch { };	// youtube
+try {document.getElementById("W4L1MH").href = "";} catch { };	// mediahopper
+try {document.getElementById("W4L1S").href = "";} catch { };	// slides
+
+// week 4 lecture 2
+try {document.getElementById("W4L2YT").href = "https://youtu.be/WsxLbtWbEfc";} catch { };	// youtube
+try {document.getElementById("W4L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+02+-+Data+types/1_jntflzlb";} catch { };	// mediahopper
+try {document.getElementById("W4L2S").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d02-data-types.html#1";} catch { };	// slides
+
+// week 4 lecture 3
+try {document.getElementById("W4L3YT").href = "https://youtu.be/dozvSVQcqqg";} catch { };	// youtube
+try {document.getElementById("W4L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+03+-+Data+classes/1_jtl24uhw";} catch { };	// mediahopper
+try {document.getElementById("W4L3S").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d03-data-classes.html#1";} catch { };	// slides
+
+// week 4 lecture 4a
+try {document.getElementById("W4L4aYT").href = "https://youtu.be/tIMaRYiuEFA";} catch { };	// youtube
+try {document.getElementById("W4L4aMH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+04+-+Importing+data/1_ok0qzxns";} catch { };	// mediahopper
+try {document.getElementById("W4L4aS").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d04-data-import.html#1";} catch { };	// slides
+
+// week 4 lecture 4b
+try {document.getElementById("W4L4bYT").href = "https://youtu.be/hJt7ehKYMMI";} catch { };	// youtube
+try {document.getElementById("W4L4bMH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-04b+-+Importing+through+the+GUI/1_cehpsamf";} catch { };	// mediahopper
+try {document.getElementById("W4L4bS").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d04-import-through-GUI.html#1";} catch { };	// slides
+
+// week 4 lecture 5
+try {document.getElementById("W4L5YT").href = "https://youtu.be/O8qxV3N4D5Q";} catch { };	// youtube
+try {document.getElementById("W4L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+05+-+Recoding+data/1_z5y3wha1";} catch { };	// mediahopper
+try {document.getElementById("W4L5S").href = "https://ids-s1-21.github.io/slides/week-04/w4-d02-data-types/w4-d05-data-recode.html#1";} catch { };	// slides
+
+// week 4 lecture 6
+try {document.getElementById("W4L6YT").href = "https://youtu.be/sByadx_cgDc";} catch { };	// youtube
+try {document.getElementById("W4L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+06+-+AEA+Hotels+%2B+data+types/1_tica8os5";} catch { };	// mediahopper
+
+// week 4 lecture 7
+try {document.getElementById("W4L7YT").href = "https://youtu.be/2vA6qizYnM8";} catch { };	// youtube
+try {document.getElementById("W4L7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+07+-+AEA+Nobels+%26+sales+%2B+Data+import/1_1jkr2qy3";} catch { };	// mediahopper
+
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
@@ -208,6 +246,9 @@ try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-0
 try {document.getElementById('project').href = "/assessments/project";} catch { };
 try {document.getElementById("projectR").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };	
 
+// Peer Feedback ------------------------------------------------------------------------------------------------------------------------------------------
+try {document.getElementById('PE01').href = "https://forms.office.com/r/mbBhLLe6Q4";} catch { };
+
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
 try {document.getElementById("IMS").href = "https://openintro-ims.netlify.app/";} catch { };		// IMS
@@ -237,6 +278,10 @@ try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational
 try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// R4DS: Chapter 5
 try {document.getElementById("intro2rgit").href = "https://intro2r.com/use-git.html";} catch { };		// intro2r: Chapter 9
 
+try {document.getElementById("R4DS11").href = "https://r4ds.had.co.nz/data-import.html";} catch { };
+try {document.getElementById("R4DS15").href = "https://r4ds.had.co.nz/factors.html";} catch { };
+try {document.getElementById("R4DS16").href = "https://r4ds.had.co.nz/dates-and-times.html";} catch { };	
+
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
 try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} catch { };
@@ -257,6 +302,7 @@ try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/
 try {document.getElementById("RT2").href = "https://minecr.shinyapps.io/dsbox-01-edibnb/";} catch { };
 try {document.getElementById("RT3").href = "https://minecr.shinyapps.io/dsbox-02-accidents/";} catch { };
 try {document.getElementById("RT4").href = "https://rstudio.cloud/learn/primers/2";} catch { };
+try {document.getElementById("RT5").href = "https://minecr.shinyapps.io/dsbox-03-collegemajors";} catch { };
 
 // Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
 // TidyTuesday

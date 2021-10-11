@@ -22,6 +22,7 @@ Importing data, data types and classes, recoding.
   <li>Watch the <a href="#videos">Videos</a>.</li>
   <li>Do the <a href="#readings">Readings</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
+  <li>(Optional) Complete the <a id="PE01">Peer Evaluation</a>.</li>
 </ol>
 
 ## Videos
@@ -48,7 +49,6 @@ Importing data, data types and classes, recoding.
 | *Due this week* | | | 
 | Lab02: Take a Sad Plot and Make it Better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li> | Tue, 12 Oct, 16:00 UK  |
 | HW01: All about Edinburgh | <li><a id="HW1I">Instructions</a></li><li><a id="HW1R">Repository</a></li> | Thur, 14 Oct, 16:00 UK | 
-| PE01: Peer evaluation 01 | <li><a id="PE01">Survey</a></li> | Sat, 16 Oct, 23:59 UK |
 | OQ03: Data wrangling and Visualisation | <li><a id="OQ3">Quiz</a></li> | Sun, 17 Oct, 23:59 UK |
 | *Due next week* | | | 
 | Lab03: Nobel laureates | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li> | Tue, 19 Oct, 16:00 UK  |

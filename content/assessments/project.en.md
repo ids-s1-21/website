@@ -21,11 +21,11 @@ The final project for this class will consist of analysis on a dataset of your o
 
 The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let us know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
-The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
+The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will contribute much more to a good mark than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
 
 ### Data
 
-In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. As such, your dataset must have at least 50 observations and between 10 to 20 variables (exceptions can be made but you must speak with the course team first). The variables in the data should include categorical variables, discrete numerical variables, and continuous numerical variables.
+In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. As such, your dataset must have at least 50 observations and between 10 and 20 variables (exceptions can be made but you must speak with the course team first). The variables in the data should include categorical variables, discrete numerical variables, and continuous numerical variables.
 
 If you are using a dataset that comes in a format that we haven't encountered in class, make sure that you are able to load it into R as this can be tricky depending on the source. If you are having trouble ask for help before it is too late.
 
@@ -71,11 +71,11 @@ and codebook to the README in that folder. Then print out the output of
 - Section 3 - Data analysis plan:
   - The outcome (response, Y) and predictor (explanatory, X) variables you will use to answer your question.
   - The comparison groups you will use, if applicable.
-  - Very preliminary exploratory data analysis, including some summary statistics 
+  - Very preliminary exploratory data analysis, including some summary statistics.
 and visualizations, along with some explanation on how they help you learn more 
 about your data. (You can add to these later as you work on your project.)
   - The statistical method(s) that you believe will be useful in answering your 
-question(s) (You can update these later as you work on your project).
+question(s). (You can update these later as you work on your project.)
   -  What results from these specific statistical methods are needed to support 
 your hypothesized answer?
 
@@ -111,17 +111,17 @@ The following folders and files in your project repository:
 * `/data/*`: Your dataset in csv or RDS format, in the `/data` folder.
 * `/proposal`: Your proposal from earlier in the semester
 
-Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formated.
+Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted.
 
 ## Tips
 
-- You're working in the same repo as your teammates, so merge conflicts will happen, issues will arise, and that’s fine! Commit and push often, and ask questions when stuck.
+- You're working in the same repo as your teammates, so merge conflicts will happen and issues will arise, and that’s fine! Commit and push often, and ask questions when stuck.
 - Review the marking guidelines below and ask questions if any of the expectations are unclear.
 - Make sure each team member is contributing, both in terms of quality and quantity of contribution (we will be reviewing commits from different team members).
 - Set aside time to work together and apart (physically).
 - When you're done, review the documents on GitHub to make sure you're happy with the final state of your work. Then go get some rest!
-- Code: In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented. **Exception:** If you want to highlight something specific about a piece of code, you're welcome to show that portion. 
-- Teamwork: You are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion - anyone judged to not have sufficient contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment works.
+- Code: In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However, your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented. **Exception:** If you want to highlight something specific about a piece of code, you're welcome to show that portion. 
+- Teamwork: You are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion---anyone judged to not have sufficiently contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment work.
 
 ## Marking
 
@@ -136,10 +136,10 @@ Classmates' evaluation         | 5 pts
 
 ### Criteria
 
-- Content - What is the quality of research and/or policy question and relevancy of data to those questions?
-- Correctness - Are statistical procedures carried out and explained correctly?
-- Writing and Presentation - What is the quality of the statistical presentation, writing, and explanations?
-- Creativity and Critical Thought - Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the project?
+- Content: What is the quality of research question and/or policy question, and the relevancy of data to that question/those questions?
+- Correctness: Are statistical procedures carried out and explained correctly?
+- Writing and Presentation: What is the quality of the statistical presentation, writing, and explanations?
+- Creativity and Critical Thought: Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the project?
 
 ### Team peer evaluation
 
@@ -147,6 +147,6 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 
 ### Late work policy
 
-- There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it *or* pre-record and submit your presentation by 9am in the morning of the presentations.
+- There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it *or* pre-record and submit your presentation by 9am in the morning of the presentations.  (In case of illness, requirement to self-isolate or similar, special circumstances can be applied for from the university: see the <a id="Policies">Policies" page</a>.
 
-- The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline. If you intend to submit work late for the project, you must notify the course organizer before the original deadline as well as as soon as the completed work is submitted on GitHub.
+- The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline. If you intend to submit work late for the project, you must notify the course organizer before the original deadline, and also as soon as the completed work is submitted on GitHub.

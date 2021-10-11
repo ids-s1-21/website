@@ -120,9 +120,8 @@ try {document.getElementById("W3L7YT").href = "https://youtu.be/BXlOd4EYQrI";} c
 try {document.getElementById("W3L7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+03+-+07+-+AEA+Hotels+%2B+Data+wrangling/1_nua37qzj";} catch { };	// mediahopper
 
 // week 4 lecture 1
-try {document.getElementById("W4L1YT").href = "";} catch { };	// youtube
-try {document.getElementById("W4L1MH").href = "";} catch { };	// mediahopper
-try {document.getElementById("W4L1S").href = "";} catch { };	// slides
+try {document.getElementById("W4L1YT").href = "https://youtu.be/7jHFuUOUmVU";} catch { };	// youtube
+try {document.getElementById("W4L1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+04+-+01+-+Keeping+up+with+IDS/1_fdakkg2g";} catch { };	// mediahopper
 
 // week 4 lecture 2
 try {document.getElementById("W4L2YT").href = "https://youtu.be/WsxLbtWbEfc";} catch { };	// youtube

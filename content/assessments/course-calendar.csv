@@ -15,7 +15,7 @@ date,day,due_type,due_detail,mark_type,who,week
 03/10/2021,Sunday,Quiz,OQ01,Marked,Individual,2
 04/10/2021,Monday,,,,,3
 05/10/2021,Tuesday,,,,,3
-06/10/2021,Wednesday,,,,,,3
+06/10/2021,Wednesday,,,,,3
 07/10/2021,Thursday,Lab,Lab01 (delay),Marked,Individual,3
 08/10/2021,Friday,,,,,3
 09/10/2021,Saturday,Feedback survey,Course,Not marked,Individual,3

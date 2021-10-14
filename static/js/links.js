@@ -393,5 +393,8 @@ try {document.getElementById('GHSDP').href = "https://education.github.com/stude
 try {document.getElementById('licence').href = "https://github.com/ids-s1-21/website/blob/main/LICENSE.md";} catch { };
 
 try {document.getElementById('feedbackW3').href = "https://forms.office.com/r/mSAw5ic3Vt";} catch { }; // week 3 course evaluation
+try {document.getElementById('feedbackW5').href = "https://forms.office.com/r/6hB8MmAwjp";} catch { }; // week 5/6 course evaluation
+
+
 // Complete -------------------------------------------------------------------------------------------------------------------------------------------------
 console.log('Links Added');

@@ -22,6 +22,7 @@ Tips for effective data visualization, communication of results, and collaborati
   <li>Watch the <a href="#videos">Videos</a>.</li>
   <li>Do the <a href="#readings">Readings</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
+  <li>(Optional) Complete the <a id="feedbackW5">Course Feedback</a>.</li>
 </ol>
 
 ## Videos

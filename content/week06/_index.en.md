@@ -22,6 +22,7 @@ Harvesting data from the web, writing functions, and iteration.
   <li>Watch the <a href="#videos">Videos</a>.</li>
   <li>Do the <a href="#readings">Readings</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
+  <li>(Optional) Complete the <a id="feedbackW5">Course Feedback</a>.</li>
 </ol>
 
 ## Videos

@@ -298,6 +298,10 @@ try {document.getElementById("CA3YT").href = "https://youtu.be/PU6TDtHeGVA";} ca
 try {document.getElementById("CA3MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+03+-+Code+along/1_m4e783ff";} catch { };
 try {document.getElementById("CA3Rmd").href = "https://github.com/ids-s1-21/code-along-03/blob/main/paralympics.Rmd";} catch { };
 try {document.getElementById("CA3Md").href = "https://github.com/ids-s1-21/code-along-03/blob/main/paralympics.md";} catch { };
+try {document.getElementById("CA4YT").href = "https://youtu.be/gnGQCxyhIAY";} catch { };
+try {document.getElementById("CA4MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+04+-+Code+along/1_5e3fuxm9";} catch { };
+try {document.getElementById("CA4Rmd").href = "https://github.com/ids-s1-21/code-along-04/blob/main/fisheries.Rmd";} catch { };
+try {document.getElementById("CA4Md").href = "https://github.com/ids-s1-21/code-along-04/blob/main/fisheries.md";} catch { };
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };

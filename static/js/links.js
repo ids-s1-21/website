@@ -156,6 +156,34 @@ try {document.getElementById("W4L6MH").href = "https://media.ed.ac.uk/media/IDS+
 try {document.getElementById("W4L7YT").href = "https://youtu.be/2vA6qizYnM8";} catch { };	// youtube
 try {document.getElementById("W4L7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+07+-+AEA+Nobels+%26+sales+%2B+Data+import/1_1jkr2qy3";} catch { };	// mediahopper
 
+// week 5 lecture 1
+try {document.getElementById("W5L1YT").href = "";} catch { };	// youtube
+try {document.getElementById("W5L1MH").href = "";} catch { };	// mediahopper
+
+// week 5 lecture 2
+try {document.getElementById("W5L2YT").href = "https://youtu.be/ZrifrBvFWgg";} catch { };	// youtube
+try {document.getElementById("W5L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+02+-+Tips+for+effective+data+visualisation/1_nq2p4uwj";} catch { };	// mediahopper
+try {document.getElementById("W5L2S").href = "https://ids-s1-21.github.io/slides/week-05/w5-d02-effective-dataviz/w5-d02-effective-dataviz.html#1";} catch { };	// slides
+
+// week 5 lecture 3
+try {document.getElementById("W5L3YT").href = "https://youtu.be/aPqnkcn13kQ";} catch { };	// youtube
+try {document.getElementById("W5L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+03+-+AEA+Brexit+%2B+Telling+stories+with+dataviz/1_nnk2adiq";} catch { };	// mediahopper
+
+// week 5 lecture 4
+try {document.getElementById("W5L4YT").href = "https://youtu.be/WnMzTBrZDcc";} catch { };	// youtube
+try {document.getElementById("W5L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+04+-+Scientific+studies+and+confounding/1_jl56u875";} catch { };	// mediahopper
+try {document.getElementById("W5L4S").href = "https://ids-s1-21.github.io/slides/week-05/w5-d04-studies-confounding/w5-d04-studies-confounding.html#1";} catch { };	// slides
+
+// week 5 lecture 5
+try {document.getElementById("W5L5YT").href = "https://youtu.be/sdas62v0iJU";} catch { };	// youtube
+try {document.getElementById("W5L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+05+-+Simpson%27s+paradox/1_ky0tnzpi";} catch { };	// mediahopper
+try {document.getElementById("W5L5S").href = "https://ids-s1-21.github.io/slides/week-05/w5-d05-simpsons-paradox/w5-d05-simpsons-paradox.html#1";} catch { };	// slides
+
+// week 5 lecture 6
+try {document.getElementById("W5L6YT").href = "https://youtu.be/b9lSW0kyqBg";} catch { };	// youtube
+try {document.getElementById("W5L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+05+-+Simpson%27s+paradox/1_ky0tnzpi";} catch { };	// mediahopper
+try {document.getElementById("W5L6S").href = "https://ids-s1-21.github.io/slides/week-05/w5-d06-doing-data-science/w5-d06-doing-data-science.html#1";} catch { };	// slides
+
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
@@ -168,6 +196,7 @@ try {document.getElementById("AE5_3").href = "https://github.com/ids-s1-21?q=ae-
 try {document.getElementById("AE6").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
 try {document.getElementById("AE6_2").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
 try {document.getElementById("AE7").href = "https://github.com/ids-s1-21?q=ae-07-brexit-story-dataviz&type=&language=&sort=";} catch { };
+try {document.getElementById("AE7_2").href = "https://github.com/ids-s1-21?q=ae-07-brexit-story-dataviz&type=&language=&sort=";} catch { };
 try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08-imdb-webscraping&type=&language=&sort=";} catch { };
 try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };
 
@@ -282,7 +311,12 @@ try {document.getElementById("intro2rgit").href = "https://intro2r.com/use-git.h
 
 try {document.getElementById("R4DS11").href = "https://r4ds.had.co.nz/data-import.html";} catch { };
 try {document.getElementById("R4DS15").href = "https://r4ds.had.co.nz/factors.html";} catch { };
-try {document.getElementById("R4DS16").href = "https://r4ds.had.co.nz/dates-and-times.html";} catch { };	
+try {document.getElementById("R4DS16").href = "https://r4ds.had.co.nz/dates-and-times.html";} catch { };
+
+try {document.getElementById("R4DS7").href = "https://r4ds.had.co.nz/exploratory-data-analysis.html";} catch { };
+try {document.getElementById("IMS6").href = "https://openintro-ims.netlify.app/explore-applications.html";} catch { };		// IMS
+try {document.getElementById("IMS2").href = "https://openintro-ims.netlify.app/data-design.html";} catch { };		// IMS
+try {document.getElementById("TSG1").href = "https://style.tidyverse.org/files.html";} catch { };		// Tidyverse style
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
@@ -309,6 +343,7 @@ try {document.getElementById("RT2").href = "https://minecr.shinyapps.io/dsbox-01
 try {document.getElementById("RT3").href = "https://minecr.shinyapps.io/dsbox-02-accidents/";} catch { };
 try {document.getElementById("RT4").href = "https://rstudio.cloud/learn/primers/2";} catch { };
 try {document.getElementById("RT5").href = "https://minecr.shinyapps.io/dsbox-03-collegemajors";} catch { };
+try {document.getElementById("RT6").href = "https://minecr.shinyapps.io/dsbox-04-legosales/";} catch { };
 
 // Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
 // TidyTuesday

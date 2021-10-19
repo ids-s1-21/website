@@ -84,7 +84,7 @@ print preview to confirm length.
 
 #### Presentation
 
-Prepare a slide deck using one of the templates in your repo. There are two templates to choose from, using two different HTML presentation packages which allow you to make presentation slides using R Markdown syntax. The first is a package called `xaringan`, which Mine used to make her slides (you can see the code for the slides in the [slides repo](https://github.com/ids-s1-21/slides). However the course organizers this year prefer using `reveal.js`, so we have also included a similar template to use that too.
+Prepare a slide deck using one of the templates in your repo. There are two templates to choose from, using two different HTML presentation packages which allow you to make presentation slides using R Markdown syntax. The first is a package called `xaringan`, which Mine used to make her slides (you can see the code for the slides in the [slides repo](https://github.com/ids-s1-21/slides)). However the course organizers this year prefer using `reveal.js`, so we have also included a similar template to use that too.
 
 There isn't a limit to how many slides you can use, just a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it should convey what choices you made, and why, and what you found.
 

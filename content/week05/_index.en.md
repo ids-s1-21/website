@@ -57,6 +57,7 @@ Tips for effective data visualization, communication of results, and collaborati
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
+| <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS7">Chp 7 - Exploratory data analysis</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS6">Chp 6 - Applications: Explore</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS2">Chp 2 - Study design</a> | **Required** |

@@ -157,8 +157,8 @@ try {document.getElementById("W4L7YT").href = "https://youtu.be/2vA6qizYnM8";} c
 try {document.getElementById("W4L7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+04+-+07+-+AEA+Nobels+%26+sales+%2B+Data+import/1_1jkr2qy3";} catch { };	// mediahopper
 
 // week 5 lecture 1
-try {document.getElementById("W5L1YT").href = "";} catch { };	// youtube
-try {document.getElementById("W5L1MH").href = "";} catch { };	// mediahopper
+try {document.getElementById("W5L1YT").href = "https://youtu.be/mM1mLMwRJpw";} catch { };	// youtube
+try {document.getElementById("W5L1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+05+-+01+-+Keeping+up+with+IDS/1_igf5tgxi";} catch { };	// mediahopper
 
 // week 5 lecture 2
 try {document.getElementById("W5L2YT").href = "https://youtu.be/ZrifrBvFWgg";} catch { };	// youtube

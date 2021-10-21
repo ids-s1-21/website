@@ -159,6 +159,7 @@ try {document.getElementById("W4L7MH").href = "https://media.ed.ac.uk/media/IDS+
 // week 5 lecture 1
 try {document.getElementById("W5L1YT").href = "https://youtu.be/mM1mLMwRJpw";} catch { };	// youtube
 try {document.getElementById("W5L1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+05+-+01+-+Keeping+up+with+IDS/1_igf5tgxi";} catch { };	// mediahopper
+try {document.getElementById("W5L1S").href = "https://ids-s1-21.github.io/slides/week-05/w5-d01-kuwids-alex/w5-d01-kuwids-alex.html#1";} catch { };	// slides
 
 // week 5 lecture 2
 try {document.getElementById("W5L2YT").href = "https://youtu.be/ZrifrBvFWgg";} catch { };	// youtube

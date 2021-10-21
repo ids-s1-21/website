@@ -181,7 +181,7 @@ try {document.getElementById("W5L5S").href = "https://ids-s1-21.github.io/slides
 
 // week 5 lecture 6
 try {document.getElementById("W5L6YT").href = "https://youtu.be/b9lSW0kyqBg";} catch { };	// youtube
-try {document.getElementById("W5L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+05+-+Simpson%27s+paradox/1_ky0tnzpi";} catch { };	// mediahopper
+try {document.getElementById("W5L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+06+-+Doing+data+science/1_lja4qg0p";} catch { };	// mediahopper
 try {document.getElementById("W5L6S").href = "https://ids-s1-21.github.io/slides/week-05/w5-d06-doing-data-science/w5-d06-doing-data-science.html#1";} catch { };	// slides
 
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------

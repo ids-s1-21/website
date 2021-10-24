@@ -22,6 +22,7 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
   <li>Watch the <a href="#videos">Videos</a>.</li>
   <li>Do the <a href="#readings">Readings</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
+  <li>(Optional) Complete the <a id="PE02">Peer Evaluation</a>.</li>
 </ol>
 
 ## Videos
@@ -37,11 +38,11 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 | *Due this week* | | |
 | Lab04: UoE Art Collection | <li><a id="LAB4I">Instructions</a></li> <li><a id="LAB4R">Repository</a></li> | Tue, 2 Nov, 16:00 UK  |
 | PE02: Peer evaluation 02 | <li><a id="PE02">Survey</a></li> | Wed, 03 Nov, 16:00 UK |
-| Project: Proposal, take 2 (optional) | <li><a id="project">Instructions</a></li><li><a id="projectR">Repository</a></li> | Tue, 5 Nov, 16:00 UK | 
 | OQ06: Review | <li><a id="OQ6">Quiz</a></li> | Sun, 7 Nov, 23:59 UK |
 | *Due next week* | | | 
 | Lab05: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li> | Tue, 9 Nov, 16:00 UK  |
 | HW03: Money in politics | <li><a id="HW3I">Instructions</a></li><li><a id="HW3R">Repository</a></li> | Thur, 11 Nov, 16:00 UK |
+| Project: Proposal, take 2 (optional) | <li><a id="project">Instructions</a></li><li><a id="projectR">Repository</a></li> | Fri, 12 Nov, 16:00 UK |
 | OQ07: Simple Linear Regression | <li><a id="OQ7">Quiz</a></li> | Sun, 14 Nov, 23:59 UK |
 
 ## Readings

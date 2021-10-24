@@ -45,15 +45,15 @@ date,day,due_type,due_detail,mark_type,who,week
 02/11/2021,Tuesday,Lab,Lab04,Marked,Team,7
 03/11/2021,Wednesday,,,,,7
 04/11/2021,Thursday,,,,,7
-05/11/2021,Friday,Project,"Proposal,
-take 2",Marked,Team,7
+05/11/2021,Friday,,,,,7
 06/11/2021,Saturday,Feedback survey,Peer,Marked,Individual,7
 07/11/2021,Sunday,Quiz,OQ06,Marked,Individual,7
 08/11/2021,Monday,,,,,8
 09/11/2021,Tuesday,Lab,Lab05,Marked,Team,8
 10/11/2021,Wednesday,,,,,8
 11/11/2021,Thursday,Homework,HW03,Marked,Individual,8
-12/11/2021,Friday,,,,,8
+12/11/2021,Friday,Project,"Proposal,
+take 2",Marked,Team,8
 13/11/2021,Saturday,,,,,8
 14/11/2021,Sunday,Quiz,OQ07,Marked,Individual,8
 15/11/2021,Monday,,,,,9

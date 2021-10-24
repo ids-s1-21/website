@@ -24,6 +24,7 @@ try {document.getElementById('PiazzaHelp').href = "/troubleshoot/setup/piazza";}
 try {document.getElementById('Error1').href = "/error";} catch { };
 try {document.getElementById('Error2').href = "/error";} catch { };
 try {document.getElementById('Error3').href = "/error";} catch { };
+try {document.getElementById('Error4').href = "/error";} catch { };
 
 // Videos -----------------------------------------------------------------------------------------------------------
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page
@@ -185,6 +186,40 @@ try {document.getElementById("W5L6YT").href = "https://youtu.be/b9lSW0kyqBg";} c
 try {document.getElementById("W5L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+05+-+06+-+Doing+data+science/1_lja4qg0p";} catch { };	// mediahopper
 try {document.getElementById("W5L6S").href = "https://ids-s1-21.github.io/slides/week-05/w5-d06-doing-data-science/w5-d06-doing-data-science.html#1";} catch { };	// slides
 
+// week 6 lecture 1
+try {document.getElementById("W6L1YT").href = "";} catch { };	// youtube
+try {document.getElementById("W6L1MH").href = "";} catch { };	// mediahopper
+try {document.getElementById("W6L1S").href = "";} catch { };	// slides
+
+// week 6 lecture 2
+try {document.getElementById("W6L2YT").href = "https://youtu.be/99Hkmfb2i80";} catch { };	// youtube
+try {document.getElementById("W6L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+06+-+02+-+Web+scraping/1_vxsk6ib7";} catch { };	// mediahopper
+try {document.getElementById("W6L2S").href = "https://ids-s1-21.github.io/slides/week-06/w6-d02-web-scrape/w6-d02-scrape.html#1";} catch { };	// slides
+
+// week 6 lecture 3
+try {document.getElementById("W6L3YT").href = "https://youtu.be/YmKULNLsDsU";} catch { };	// youtube
+try {document.getElementById("W6L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+06+-+03+-+Scraping+IMDB+Top+250/1_5qf90v3o";} catch { };	// mediahopper
+try {document.getElementById("W6L3S").href = "https://ids-s1-21.github.io/slides/week-06/w6-d03-top-250-imdb/w6-d03-top-250-imdb.html#1";} catch { };	// slides
+
+// week 6 lecture 4
+try {document.getElementById("W6L4YT").href = "https://youtu.be/LONRJHMvSyU";} catch { };	// youtube
+try {document.getElementById("W6L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+06+-+04+-+Web+scraping+considerations/1_brmywhm0";} catch { };	// mediahopper
+try {document.getElementById("W6L4S").href = "https://ids-s1-21.github.io/slides/week-06/w6-d04-considerations/w6-d04-considerations.html#1";} catch { };	// slides
+
+// week 6 lecture 5
+try {document.getElementById("W6L5YT").href = "https://youtu.be/PetWV5g1Xsc";} catch { };	// youtube
+try {document.getElementById("W6L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+06+-+05+-+AEA+IMDB+%2B+Web+scraping/1_sia7s04u";} catch { };	// mediahopper
+
+// week 6 lecture 6
+try {document.getElementById("W6L6YT").href = "https://youtu.be/6KWlPhPMluE";} catch { };	// youtube
+try {document.getElementById("W6L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+06+-+06+-+Functions/1_jb8cw8s1";} catch { };	// mediahopper
+try {document.getElementById("W6L6S").href = "https://ids-s1-21.github.io/slides/week-06/w6-d06-functions/w6-d06-functions.html#1";} catch { };	// slides
+
+// week 6 lecture 7
+try {document.getElementById("W6L7YT").href = "https://youtu.be/x3UMny1fQhc";} catch { };	// youtube
+try {document.getElementById("W6L7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+06+-+07+-+Iteration/1_70vyo0z9";} catch { };	// mediahopper
+try {document.getElementById("W6L7S").href = "https://ids-s1-21.github.io/slides/week-06/w6-d07-iteration/w6-d07-iteration.html#1";} catch { };	// slides
+
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
@@ -276,10 +311,13 @@ try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-0
 
 // Project
 try {document.getElementById('project').href = "/assessments/project";} catch { };
-try {document.getElementById("projectR").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };	
+try {document.getElementById("projectR").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
+try {document.getElementById('project_1').href = "/assessments/project";} catch { };
+try {document.getElementById("projectR_1").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
 
 // Peer Feedback ------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById('PE01').href = "https://forms.office.com/r/mbBhLLe6Q4";} catch { };
+try {document.getElementById('PE02').href = "https://forms.office.com/r/8JkWHxWFdF";} catch { };
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
@@ -319,6 +357,10 @@ try {document.getElementById("IMS6").href = "https://openintro-ims.netlify.app/e
 try {document.getElementById("IMS2").href = "https://openintro-ims.netlify.app/data-design.html";} catch { };		// IMS
 try {document.getElementById("TSG1").href = "https://style.tidyverse.org/files.html";} catch { };		// Tidyverse style
 
+try {document.getElementById("selector").href = "https://rvest.tidyverse.org/articles/selectorgadget.html";} catch { };
+try {document.getElementById("R4DS19").href = "https://r4ds.had.co.nz/functions.html";} catch { };
+try {document.getElementById("R4DS21").href = "https://r4ds.had.co.nz/iteration.html";} catch { };
+
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
 try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} catch { };
@@ -345,6 +387,9 @@ try {document.getElementById("RT3").href = "https://minecr.shinyapps.io/dsbox-02
 try {document.getElementById("RT4").href = "https://rstudio.cloud/learn/primers/2";} catch { };
 try {document.getElementById("RT5").href = "https://minecr.shinyapps.io/dsbox-03-collegemajors";} catch { };
 try {document.getElementById("RT6").href = "https://minecr.shinyapps.io/dsbox-04-legosales/";} catch { };
+try {document.getElementById("RT7").href = "https://minecr.shinyapps.io/dsbox-05-moneyinpolitics/";} catch { };
+try {document.getElementById("RT8").href = "https://rstudio.cloud/learn/primers/6";} catch { };
+try {document.getElementById("RT9").href = "https://rstudio.cloud/learn/primers/5";} catch { };
 
 // Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
 // TidyTuesday

@@ -37,6 +37,7 @@ Linear models for predicting numerical data from single and multiple variables.
 | *Due this week* | | |
 | Lab05: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li> | Tue, 9 Nov, 16:00 UK  |
 | HW03: Money in politics | <li><a id="HW3I">Instructions</a></li><li><a id="HW3R">Repository</a></li> | Thur, 11 Nov, 16:00 UK | 
+| Project: Proposal, take 2 (optional) | <li><a id="project_1">Instructions</a></li><li><a id="projectR_1">Repository</a></li> | Fri, 12 Nov, 16:00 UK | 
 | OQ07: Simple Linear Regression | <li><a id="OQ7">Quiz</a></li> | Sun, 14 Nov, 23:59 UK |
 | *Due next week* | | | 
 | Lab06: Course evaluations | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li> | Tue, 16 Nov, 16:00 UK  |

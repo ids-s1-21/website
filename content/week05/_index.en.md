@@ -65,12 +65,12 @@ Tips for effective data visualization, communication of results, and collaborati
 
 ## Code-along
 
-<p style="text-align: left"> Recordings of the code-along will be added after Thursdays session.</p>
+<p style="text-align: left"> Recordings and files from Thursday's code-along.</p>
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
-| Recording | |
-| Session artifacts ||
+| Recording | <a id="CA5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a> 
+| Session artifacts | <a id="CA5Rmd">.Rmd</a> <a id="CA5Md">.md</a>|
 
 ## Interactive R tutorials
 

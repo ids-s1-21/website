@@ -47,11 +47,11 @@ Harvesting data from the web, writing functions, and iteration.
 |:---|:---|:---|
 | *Due this week* | | |
 | Project: Proposal | <li><a id="project">Instructions</a></li><li><a id="projectR">Repository</a></li> | Tue, 26 Oct, 16:00 UK | 
+| OQ04: Coding style | <li><a id="OQ4">Quiz</a></li> | Wed, 27 Oct, 23:59 UK |
 | HW02: Majors + legos | <li><a id="HW2I">Instructions</a></li><li><a id="HW2R">Repository</a></li> | Thur, 28 Oct, 16:00 UK | 
-| OQ05: Scrape + iterate | <li><a id="OQ5">Quiz</a></li> | Sun, 31 Oct, 23:59 UK |
 | *Due next week* | | | 
 | Lab04: UoE Art Collection | <li><a id="LAB4I">Instructions</a></li> <li><a id="LAB4R">Repository</a></li> | Tue, 2 Nov, 16:00 UK  |
-| OQ06: Recap & Review | <li><a id="Error4">Quiz</a></li> | Sun, 7 Nov, 23:59 UK |
+| OQ05: Scrape + iterate | <li><a id="OQ5">Quiz</a></li> | Wed, 3 Nov, 23:59 UK |
 
 ## Readings
 

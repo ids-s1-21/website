@@ -187,9 +187,8 @@ try {document.getElementById("W5L6MH").href = "https://media.ed.ac.uk/media/IDS+
 try {document.getElementById("W5L6S").href = "https://ids-s1-21.github.io/slides/week-05/w5-d06-doing-data-science/w5-d06-doing-data-science.html#1";} catch { };	// slides
 
 // week 6 lecture 1
-try {document.getElementById("W6L1YT").href = "";} catch { };	// youtube
-try {document.getElementById("W6L1MH").href = "";} catch { };	// mediahopper
-try {document.getElementById("W6L1S").href = "";} catch { };	// slides
+try {document.getElementById("W6L1YT").href = "https://youtu.be/KYafc6saa4I";} catch { };	// youtube
+try {document.getElementById("W6L1MH").href = "https://media.ed.ac.uk/media/t/1_61zpbak2";} catch { };	// mediahopper
 
 // week 6 lecture 2
 try {document.getElementById("W6L2YT").href = "https://youtu.be/99Hkmfb2i80";} catch { };	// youtube

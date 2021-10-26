@@ -84,6 +84,7 @@ Please do not contact Mine regarding any questions regarding the course or perso
   <li>Jinlu Liu <a id="JinluMail"><i class="far fa-envelope"></i></a></li>
   <li>Karolina Benkova <a id="KarolinaMail"><i class="far fa-envelope"></i></a></li>
   <li>Kevin Tsang <a id="KevinMail"><i class="far fa-envelope"></i></a></li>
+  <li>Kit Searle <a id="KitMail"><i class="far fa-envelope"></i></a></li>
   <li>Mary LLewellyn <a id="MaryMail"><i class="far fa-envelope"></i></a></li>
   <li>Monserrat Guedes Ayala <a id="MonserratMail"><i class="far fa-envelope"></i></a></li>
   <li>Nicole Augustin <a id="NicoleMail"><i class="far fa-envelope"></i></a></li>

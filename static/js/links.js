@@ -447,6 +447,7 @@ try {document.getElementById("NicoleMail").href = "mailto:nicole.augustin@ed.ac.
 try {document.getElementById("PaulaMail").href = "mailto:paula.fermin@ed.ac.uk";} catch { };
 try {document.getElementById("RikiMail").href = "mailto:r.h.herliansyah@sms.ed.ac.uk";} catch { };
 try {document.getElementById("YikMail").href = "mailto:s1828050@ed.ac.uk";} catch { };
+try {document.getElementById("KitMail").href = "mailto:ksearle@ed.ac.uk";} catch { };
 
 // Other ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {

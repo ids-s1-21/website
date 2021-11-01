@@ -219,6 +219,45 @@ try {document.getElementById("W6L7YT").href = "https://youtu.be/x3UMny1fQhc";} c
 try {document.getElementById("W6L7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+06+-+07+-+Iteration/1_70vyo0z9";} catch { };	// mediahopper
 try {document.getElementById("W6L7S").href = "https://ids-s1-21.github.io/slides/week-06/w6-d07-iteration/w6-d07-iteration.html#1";} catch { };	// slides
 
+// week 7 lecture 1
+try {document.getElementById("W7L1YT").href = "";} catch { };	// youtube
+try {document.getElementById("W7L1MH").href = "";} catch { };	// mediahopper
+try {document.getElementById("W7L1S").href = "";} catch { };	// slides
+
+// week 7 lecture 2
+try {document.getElementById("W7L2YT").href = "https://youtu.be/C_-rTKfswUI";} catch { };	// youtube
+try {document.getElementById("W7L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+07+-+02+-+Misrepresentation/1_xd5nfj5q";} catch { };	// mediahopper
+try {document.getElementById("W7L2S").href = "https://ids-s1-21.github.io/slides/week-07/w7-d02-misrepresentation/w7-d02-misrepresentation.html#1";} catch { };	// slides
+
+// week 7 lecture 3
+try {document.getElementById("W7L3YT").href = "https://youtu.be/c4fvdoNbcSw";} catch { };	// youtube
+try {document.getElementById("W7L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+07+-+03+-+Data+privacy/1_oaf4h6o8";} catch { };	// mediahopper
+try {document.getElementById("W7L3S").href = "https://ids-s1-21.github.io/slides/week-07/w7-d03-privacy/w7-d03-privacy.html#1";} catch { };	// slides
+
+// week 7 lecture 4
+try {document.getElementById("W7L4YT").href = "https://youtu.be/E2eD72pwtps";} catch { };	// youtube
+try {document.getElementById("W7L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+07+-+04+-+Algorithmic+bias/1_8548lq3e";} catch { };	// mediahopper
+try {document.getElementById("W7L4S").href = "https://ids-s1-21.github.io/slides/week-07/w7-d04-algorithmic-bias/w7-d04-algorithmic-bias.html#1";} catch { };	// slides
+
+// week 7 guest lecture 1
+try {document.getElementById("W7GL1YT").href = "https://youtu.be/Low28hx4wyk";} catch { };	// youtube
+
+// week 7 guest lecture 2
+try {document.getElementById("W7GL2YT").href = "https://youtu.be/FXdYSQ6nu-M";} catch { };	// youtube
+
+// week 7 guest lecture 3
+try {document.getElementById("W7GL3YT").href = "https://youtu.be/UG_X_7g63rY";} catch { };	// youtube
+
+// week 7 guest lecture 4
+try {document.getElementById("W7GL4YT").href = "https://youtu.be/TQHs8SA1qpk";} catch { };	// youtube
+
+// week 7 guest lecture 5
+try {document.getElementById("W7GL5YT").href = "https://youtu.be/tNi_U1Bb1S0";} catch { };	// youtube
+
+// week 7 guest lecture 6
+try {document.getElementById("W7GL6YT").href = "https://youtu.be/5zxDwA99soA";} catch { };	// youtube
+
+
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
@@ -360,6 +399,10 @@ try {document.getElementById("selector").href = "https://rvest.tidyverse.org/art
 try {document.getElementById("R4DS19").href = "https://r4ds.had.co.nz/functions.html";} catch { };
 try {document.getElementById("R4DS21").href = "https://r4ds.had.co.nz/iteration.html";} catch { };
 
+try {document.getElementById("MDSR8").href = "https://mdsr-book.github.io/mdsr2e/ch-ethics.html";} catch { };
+try {document.getElementById("EthChal").href = "https://journals.sagepub.com/doi/pdf/10.1177/1747016116650720";} catch { };
+try {document.getElementById("AUWB").href = "https://aaronsadventures.blogspot.com/2019/01/discussion-of-unfairness-in-machine.html";} catch { };
+
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
 try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} catch { };
@@ -382,6 +425,13 @@ try {document.getElementById("CA5YT").href = "https://youtu.be/UXq1J9fS3eU";} ca
 try {document.getElementById("CA5MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+05+-+Code+along/1_balgxm7o";} catch { };
 try {document.getElementById("CA5Rmd").href = "https://github.com/ids-s1-21/code-along-05/blob/main/pumpkins.Rmd";} catch { };
 try {document.getElementById("CA5Md").href = "https://github.com/ids-s1-21/code-along-05/blob/main/pumpkins.md";} catch { };
+try {document.getElementById("CA6YT").href = "https://youtu.be/k7ZU8Np0kIA";} catch { };
+try {document.getElementById("CA6MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+06+-+Code+along/1_48okwnc7";} catch { };
+try {document.getElementById("CA6Rmd").href = "https://github.com/ids-s1-21/code-along-06/blob/main/wikipedia.Rmd";} catch { };
+try {document.getElementById("CA6Md").href = "https://github.com/ids-s1-21/code-along-06/blob/main/wikipedia.md";} catch { };
+try {document.getElementById("CA7YT").href = "https://youtu.be/ZQke97ewn8Q";} catch { };
+try {document.getElementById("CA7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+07+-+05+-+Code+along/1_kofaciz7";} catch { };
+
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };

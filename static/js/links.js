@@ -220,9 +220,8 @@ try {document.getElementById("W6L7MH").href = "https://media.ed.ac.uk/media/IDS+
 try {document.getElementById("W6L7S").href = "https://ids-s1-21.github.io/slides/week-06/w6-d07-iteration/w6-d07-iteration.html#1";} catch { };	// slides
 
 // week 7 lecture 1
-try {document.getElementById("W7L1YT").href = "";} catch { };	// youtube
-try {document.getElementById("W7L1MH").href = "";} catch { };	// mediahopper
-try {document.getElementById("W7L1S").href = "";} catch { };	// slides
+try {document.getElementById("W7L1YT").href = "https://youtu.be/sfgv2rnrYSY";} catch { };	// youtube
+try {document.getElementById("W7L1MH").href = "https://media.ed.ac.uk/media/t/1_lyu7gica";} catch { };	// mediahopper
 
 // week 7 lecture 2
 try {document.getElementById("W7L2YT").href = "https://youtu.be/C_-rTKfswUI";} catch { };	// youtube

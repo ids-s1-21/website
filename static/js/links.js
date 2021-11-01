@@ -281,7 +281,7 @@ try {document.getElementById("OQ2").href = "https://uoe-maths.shinyapps.io/02-da
 try {document.getElementById("OQ3").href = "https://uoe-maths.shinyapps.io/03-wrangleviz/";} catch { };		// quiz 3 - Data wrangling and visualisation
 try {document.getElementById("OQ4").href = "https://uoe-maths.shinyapps.io/04-coding/";} catch { };			// quiz 4 - Coding style
 try {document.getElementById("OQ5").href = "https://uoe-maths.shinyapps.io/05-scrape-iterate/";} catch { };	// quiz 5 - Scrape + Iterate
-try {document.getElementById("OQ6").href = "https://example.com";} catch { };		// quiz 6 - Review
+try {document.getElementById("OQ6").href = "https://uoe-maths.shinyapps.io/06-review/";} catch { };		    // quiz 6 - Review
 try {document.getElementById("OQ7").href = "https://example.com";} catch { };		// quiz 7 - 
 try {document.getElementById("OQ8").href = "https://example.com";} catch { };		// quiz 8 - Multiple Regression
 try {document.getElementById("OQ9").href = "https://example.com";} catch { };		// quiz 9 - Modeling Overview
@@ -431,7 +431,6 @@ try {document.getElementById("CA6Rmd").href = "https://github.com/ids-s1-21/code
 try {document.getElementById("CA6Md").href = "https://github.com/ids-s1-21/code-along-06/blob/main/wikipedia.md";} catch { };
 try {document.getElementById("CA7YT").href = "https://youtu.be/ZQke97ewn8Q";} catch { };
 try {document.getElementById("CA7MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+07+-+05+-+Code+along/1_kofaciz7";} catch { };
-
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };

@@ -61,6 +61,10 @@ If you're not sure whether your personal circumstance should be filed under an e
 
 Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted via email to David Elliott (<a id="MailDavid">david.elliott@ed.ac.uk</a>). These will be honoured if points were tallied incorrectly, or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
 
+{{% notice warning %}}
+Regrading does not guarentee higher marks. Indeed the course team may identify errors in the marking where points were incorrectly given, resulting in a lower score.
+{{% /notice %}}
+
 ### Diversity & inclusion
 
 It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.

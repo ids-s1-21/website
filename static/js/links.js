@@ -256,6 +256,37 @@ try {document.getElementById("W7GL5YT").href = "https://youtu.be/tNi_U1Bb1S0";} 
 // week 7 guest lecture 6
 try {document.getElementById("W7GL6YT").href = "https://youtu.be/5zxDwA99soA";} catch { };	// youtube
 
+// week 8 lecture 1
+try {document.getElementById("W8L1YT").href = "";} catch { };	// youtube
+try {document.getElementById("W8L1MH").href = "";} catch { };	// mediahopper
+
+// week 8 lecture 2
+try {document.getElementById("W8L2YT").href = "https://youtu.be/MWkkvDopBKc";} catch { };	// youtube
+try {document.getElementById("W8L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+02+-+The+language+of+models/1_musctpuc";} catch { };	// mediahopper
+try {document.getElementById("W8L2S").href = "https://ids-s1-21.github.io/slides/week-08/w8-d02-language-of-models/w8-d02-language-of-models.html#1";} catch { };	// slides
+
+// week 8 lecture 3
+try {document.getElementById("W8L3YT").href = "https://youtu.be/69U92Q3pwnA";} catch { };	// youtube
+try {document.getElementById("W8L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+03+-+Fitting+and+interpreting+models/1_olqo29ao";} catch { };	// mediahopper
+try {document.getElementById("W8L3S").href = "https://ids-s1-21.github.io/slides/week-08/w8-d03-fitting-interpreting-models/w8-d03-fitting-interpreting-models.html#1";} catch { };	// slides
+
+// week 8 lecture 4
+try {document.getElementById("W8L4YT").href = "https://youtu.be/j4MZ6ZdHnHg";} catch { };	// youtube
+try {document.getElementById("W8L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+04+-+Modelling+nonlinear+relationships/1_viszyhqn";} catch { };	// mediahopper
+try {document.getElementById("W8L4S").href = "https://ids-s1-21.github.io/slides/week-08/w8-d04-modeling-nonlinear-relationships/w8-d04-modeling-nonlinear-relationships.html#1";} catch { };	// slides
+
+// week 8 lecture 5
+try {document.getElementById("W8L5YT").href = "https://youtu.be/mjkNabD4oi4";} catch { };	// youtube
+try {document.getElementById("W8L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+05+-+Models+with+multiple+predictors/1_r1y5eghu";} catch { };	// mediahopper
+try {document.getElementById("W8L5S").href = "https://ids-s1-21.github.io/slides/week-08/w8-d05-model-multiple-predictors/w8-d05-model-multiple-predictors.html#1";} catch { };	// slides
+
+// week 8 lecture 6
+try {document.getElementById("W8L6YT").href = "https://youtu.be/nJAYRnLPb10";} catch { };	// youtube
+try {document.getElementById("W8L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+06+-+More+models+with+multiple+predictors/1_0pimjtro";} catch { };	// mediahopper
+try {document.getElementById("W8L6S").href = "https://ids-s1-21.github.io/slides/week-08/w8-d06-more-model-multiple-predictors/w8-d06-more-model-multiple-predictors.html#1";} catch { };	// slides
+
+// week 8 guest lecture 1
+try {document.getElementById("W8GL1YT").href = "https://youtu.be/vGUNqq3jVLg";} catch { };	// youtube
 
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
@@ -402,6 +433,9 @@ try {document.getElementById("MDSR8").href = "https://mdsr-book.github.io/mdsr2e
 try {document.getElementById("EthChal").href = "https://journals.sagepub.com/doi/pdf/10.1177/1747016116650720";} catch { };
 try {document.getElementById("AUWB").href = "https://aaronsadventures.blogspot.com/2019/01/discussion-of-unfairness-in-machine.html";} catch { };
 
+try {document.getElementById("IMS7").href = "https://openintro-ims.netlify.app/model-slr.html";} catch { };		// IMS
+try {document.getElementById("IMS8").href = "https://openintro-ims.netlify.app/model-mlr.html";} catch { };		// IMS
+
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
 try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} catch { };
@@ -441,6 +475,7 @@ try {document.getElementById("RT6").href = "https://minecr.shinyapps.io/dsbox-04
 try {document.getElementById("RT7").href = "https://minecr.shinyapps.io/dsbox-05-moneyinpolitics/";} catch { };
 try {document.getElementById("RT8").href = "https://rstudio.cloud/learn/primers/6";} catch { };
 try {document.getElementById("RT9").href = "https://rstudio.cloud/learn/primers/5";} catch { };
+try {document.getElementById("RT10").href = "https://minecr.shinyapps.io/dsbox-06-dcbikeshare/";} catch { };
 
 // Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
 // TidyTuesday

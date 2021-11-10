@@ -3,7 +3,7 @@ title: Final Projects
 weight: 4
 ---
 
-You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” problem using the tools and techniques covered in this class. Each team’s work will also be shared with and evaluated by at least one other team at an earlier stage in order to provide feedback in the form of code review. You must complete the final project in order to pass this course. 
+You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” problem using the tools and techniques covered in this class. Each team’s work will also be shared with and evaluated by at least one other team at an earlier stage in order to provide feedback in the form of code review.
 
 {{% notice tip %}}
 Stick to optional interim deadlines.

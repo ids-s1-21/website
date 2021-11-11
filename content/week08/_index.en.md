@@ -31,7 +31,7 @@ Linear models for predicting numerical data from single and multiple variables.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
 | 01  | Keeping up with IDS: Week 8 | <a id="W8L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 🎤  | 	Writing Advice from Matt Stone & Trey Parker | <a id="WG8L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | - | - |
+| 🎤  | 	Writing Advice from Matt Stone & Trey Parker | <a id="W8GL1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | - | - |
 | 02  | 	The language of models | <a id="W8L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W8L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
 | 03  | 	Fitting and interpreting models  | <a id="W8L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W8L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
 | 04  | 	Modelling nonlinear relationships    | <a id="W8L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W8L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
@@ -62,12 +62,12 @@ Linear models for predicting numerical data from single and multiple variables.
 
 ## Code-along
 
-<p style="text-align: left"> Recordings of the code-along will be added after Thursdays session.</p>
+<p style="text-align: left"> Recordings and files from Thursday's code-along.</p>
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
-| Recording | |
-| Session artifacts ||
+| Recording | <a id="CA8YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA8MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a> 
+| Session artifacts | <a id="CA8Rmd">.Rmd</a> <a id="CA8Md">.md</a>|
 
 ## Interactive R tutorials
 

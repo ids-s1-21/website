@@ -7,7 +7,7 @@ weight: 9
 tags: ["week 9", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
 description: "Week 9 (15 Nov 2021 - 21 Nov 2021): Logistic regression for predicting categorical data and model building."
 
-hidden: true
+hidden: false
 ---
 
 # Classification and Model Building

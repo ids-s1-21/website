@@ -288,6 +288,26 @@ try {document.getElementById("W8L6S").href = "https://ids-s1-21.github.io/slides
 // week 8 guest lecture 1
 try {document.getElementById("W8GL1YT").href = "https://youtu.be/vGUNqq3jVLg";} catch { };	// youtube
 
+// week 8 lecture 1
+try {document.getElementById("W9L1YT").href = "";} catch { };	// youtube
+try {document.getElementById("W9L1MH").href = "";} catch { };	// mediahopper
+
+// week 8 lecture 2
+try {document.getElementById("W9L2YT").href = "https://youtu.be/AidXFYSYfJg";} catch { };	// youtube
+try {document.getElementById("W9L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+09+-+02+-+Logistic+regression/1_sfftcg3u";} catch { };	// mediahopper
+try {document.getElementById("W9L2S").href = "https://ids-s1-21.github.io/slides/week-09/w9-d02-logistic-reg/w9-d02-logistic-reg.html#1";} catch { };	// slides
+
+// week 8 lecture 3
+try {document.getElementById("W9L3YT").href = "https://youtu.be/Qd4lu_Lmwi0";} catch { };	// youtube
+try {document.getElementById("W9L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+09+-+03+-+Prediction+and+overfitting/1_e6jlwqhw";} catch { };	// mediahopper
+try {document.getElementById("W9L3S").href = "https://ids-s1-21.github.io/slides/week-09/w9-d03-prediction-overfitting/w9-d03-prediction-overfitting.html#1";} catch { };	// slides
+
+// week 8 lecture 4
+try {document.getElementById("W9L4YT").href = "https://youtu.be/wZt9ab4jBZ4";} catch { };	// youtube
+try {document.getElementById("W9L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+09+-+04+-+Feature+engineering/1_jjba2iyl";} catch { };	// mediahopper
+try {document.getElementById("W9L4S").href = "https://ids-s1-21.github.io/slides/week-09/w9-d04-feature-engineering/w9-d04-feature-engineering.html#1";} catch { };	// slides
+
+
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
@@ -386,6 +406,7 @@ try {document.getElementById("projectR_1").href = "https://github.com/ids-s1-21?
 // Peer Feedback ------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById('PE01').href = "https://forms.office.com/r/mbBhLLe6Q4";} catch { };
 try {document.getElementById('PE02').href = "https://forms.office.com/r/8JkWHxWFdF";} catch { };
+try {document.getElementById('PE03').href = "https://forms.office.com/r/9mgtQmW23w";} catch { };
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
@@ -435,6 +456,10 @@ try {document.getElementById("AUWB").href = "https://aaronsadventures.blogspot.c
 
 try {document.getElementById("IMS7").href = "https://openintro-ims.netlify.app/model-slr.html";} catch { };		// IMS
 try {document.getElementById("IMS8").href = "https://openintro-ims.netlify.app/model-mlr.html";} catch { };		// IMS
+
+try {document.getElementById("IMS9").href = "https://openintro-ims.netlify.app/model-logistic.html";} catch { };		// IMS
+try {document.getElementById("TMBaM").href = "https://www.tidymodels.org/start/models/";} catch { };		// TidyModels
+try {document.getElementById("TMP").href = "https://www.tidymodels.org/start/recipes/";} catch { };		// TidyModels
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };

@@ -44,12 +44,20 @@ All work is due on the stated due date. Due dates are there to help guide your p
 - **Late work policy:** Some assignments cannot be turned in late and some assignments can be turned in past the deadline with a late penalty:
   - Quizzes: No late work accepted
   - Labs: No late work accepted
-  - Homework assignments: Late work accepted up to 4 days past the deadline (i.e. Monday after the deadline, 16:00 UK time), with 5% penalty for each day
-  - Project proposal: Late work accepted up to 4 days past the deadline (i.e. Monday after the deadline, 16:00 UK time), with 5% penalty for each day
+  - Homework assignments: Late work accepted up to 4 days past the deadline (i.e. Monday after the deadline, 16:00 UK time), with 5% penalty for each 24 hours late.
+  - Project proposal: Late work accepted up to 4 days past the deadline (i.e. Monday after the deadline, 16:00 UK time), with 5% penalty for each 24 hours late.
   - Project re-proposal: No late work accepted (this is an optional assignment)
-  - Project: No late work accepted for the presentation, late work accepted for the write-up up to 7 days after the deadline, with 5% penalty for each dat
+  - Project: No late work accepted for the presentation, late work accepted for the write-up up to 7 days after the deadline, with 5% penalty for each 24 hours late.
 
-Please review the official University and School policies <a id="extensions">here</a>. If you intend to submit work late for the project, you must **notify the course organizer** before the original deadline as well as as soon as the completed work is submitted on GitHub.
+Please review the official University and School policies <a id="extensions">here</a>. If you intend to submit work late for the project, you must **notify the course organizer** before the original deadline.
+
+{{% notice note %}}
+For example, the following penelties will apply for late HW:
+<br/> 5%: 4pm Thursday - 4pm Friday
+<br/> 10%: 4pm Friday - 4pm Saturday
+<br/> 15%: 4pm Saturday - 4pm Sunday
+<br/> 20%: 4pm Sunday- 4pm Monday
+{{% /notice %}}
 
 - **Extensions:** The University has an extension policy whereby you can request an extension for any assignments where late work is accepted. If your extension request is approved, you can turn in the assignment late and not incur the late penalty. As outlined above you can request an extension for homework assignments, the project proposal, and the project write up. Extensions are not granted for quizzes, labs, project re-proposal, and project presentation under any circumstances. To request an extension you must visit the <a id="extensionsExplained">Extensions and Special Circumstances website</a> and *Apply for an extension* there. A decision will be made within 2 days and the team will notify the student of their decision. Note that decisions are made by an external committee, not the course teaching staff, so requests for extensions must go through this form and not through course organisers and tutors.
 

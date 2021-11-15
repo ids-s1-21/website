@@ -289,8 +289,8 @@ try {document.getElementById("W8L6S").href = "https://ids-s1-21.github.io/slides
 try {document.getElementById("W8GL1YT").href = "https://youtu.be/vGUNqq3jVLg";} catch { };	// youtube
 
 // week 8 lecture 1
-try {document.getElementById("W9L1YT").href = "";} catch { };	// youtube
-try {document.getElementById("W9L1MH").href = "";} catch { };	// mediahopper
+try {document.getElementById("W9L1YT").href = "https://youtu.be/zf6FkCUOfOs";} catch { };	// youtube
+try {document.getElementById("W9L1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+09+-+01+-+Keeping+up+with+IDS/1_8jwr3aub";} catch { };	// mediahopper
 
 // week 8 lecture 2
 try {document.getElementById("W9L2YT").href = "https://youtu.be/AidXFYSYfJg";} catch { };	// youtube

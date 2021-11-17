@@ -75,4 +75,4 @@ Linear models for predicting numerical data from single and multiple variables.
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| <a id="RT10">Bike Rentals in D.C.</a> | Related to HW 04 |
+| <a id="RT10">Bike Rentals in D.C.</a> | Extra Practice |

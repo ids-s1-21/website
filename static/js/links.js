@@ -288,25 +288,51 @@ try {document.getElementById("W8L6S").href = "https://ids-s1-21.github.io/slides
 // week 8 guest lecture 1
 try {document.getElementById("W8GL1YT").href = "https://youtu.be/vGUNqq3jVLg";} catch { };	// youtube
 
-// week 8 lecture 1
+// week 9 lecture 1
 try {document.getElementById("W9L1YT").href = "https://youtu.be/zf6FkCUOfOs";} catch { };	// youtube
 try {document.getElementById("W9L1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+09+-+01+-+Keeping+up+with+IDS/1_8jwr3aub";} catch { };	// mediahopper
 
-// week 8 lecture 2
+// week 9 lecture 2
 try {document.getElementById("W9L2YT").href = "https://youtu.be/AidXFYSYfJg";} catch { };	// youtube
 try {document.getElementById("W9L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+09+-+02+-+Logistic+regression/1_sfftcg3u";} catch { };	// mediahopper
 try {document.getElementById("W9L2S").href = "https://ids-s1-21.github.io/slides/week-09/w9-d02-logistic-reg/w9-d02-logistic-reg.html#1";} catch { };	// slides
 
-// week 8 lecture 3
+// week 9 lecture 3
 try {document.getElementById("W9L3YT").href = "https://youtu.be/Qd4lu_Lmwi0";} catch { };	// youtube
 try {document.getElementById("W9L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+09+-+03+-+Prediction+and+overfitting/1_e6jlwqhw";} catch { };	// mediahopper
 try {document.getElementById("W9L3S").href = "https://ids-s1-21.github.io/slides/week-09/w9-d03-prediction-overfitting/w9-d03-prediction-overfitting.html#1";} catch { };	// slides
 
-// week 8 lecture 4
+// week 9 lecture 4
 try {document.getElementById("W9L4YT").href = "https://youtu.be/wZt9ab4jBZ4";} catch { };	// youtube
 try {document.getElementById("W9L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+09+-+04+-+Feature+engineering/1_jjba2iyl";} catch { };	// mediahopper
 try {document.getElementById("W9L4S").href = "https://ids-s1-21.github.io/slides/week-09/w9-d04-feature-engineering/w9-d04-feature-engineering.html#1";} catch { };	// slides
 
+// week 10 lecture 1
+try {document.getElementById("W10L1YT").href = "";} catch { };	// youtube
+try {document.getElementById("W10L1MH").href = "";} catch { };	// mediahopper
+
+// week 10 lecture 2
+try {document.getElementById("W10L2YT").href = "https://youtu.be/L1KfIISmUT4";} catch { };	// youtube
+try {document.getElementById("W10L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+10+-+02+-+Cross+validation/1_9d1v5r6l";} catch { };	// mediahopper
+try {document.getElementById("W10L2S").href = "https://ids-s1-21.github.io/slides/week-10/w10-d02-cross-validation/w10-d02-cross-validation.html#1";} catch { };	// slides
+
+// week 10 lecture 3
+try {document.getElementById("W10L3YT").href = "https://youtu.be/qsUYstdN4LQ";} catch { };	// youtube
+try {document.getElementById("W10L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+10+-+03+-+AE+-+The+Office%2C+Part+1/1_ru9aczu5";} catch { };	// mediahopper
+
+// week 10 lecture 4
+try {document.getElementById("W10L4YT").href = "https://youtu.be/WstIr94Fdjc";} catch { };	// youtube
+try {document.getElementById("W10L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+10+-+04+-+AE+-+The+Office%2C+Part+2/1_dwfr8cvr";} catch { };	// mediahopper
+
+// week 10 lecture 5
+try {document.getElementById("W10L5YT").href = "https://youtu.be/LYpKrtZmQtI";} catch { };	// youtube
+try {document.getElementById("W10L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+10+-+05+-+Quantifying+uncertainty/1_hlzwmvtf";} catch { };	// mediahopper
+try {document.getElementById("W10L5S").href = "https://ids-s1-21.github.io/slides/week-10/w10-d05-quantify-uncertainty/w10-d05-quantify-uncertainty.html#1";} catch { };	// slides
+
+// week 10 lecture 6
+try {document.getElementById("W10L6YT").href = "https://youtu.be/bdqpI3iVOso";} catch { };	// youtube
+try {document.getElementById("W10L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+10+-+06+-+Bootstrapping/1_5rizp6s9";} catch { };	// mediahopper
+try {document.getElementById("W10L6S").href = "https://ids-s1-21.github.io/slides/week-10/w10-d06-bootstrap/w10-d06-bootstrap.html#1";} catch { };	// slides
 
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
@@ -461,6 +487,9 @@ try {document.getElementById("IMS9").href = "https://openintro-ims.netlify.app/m
 try {document.getElementById("TMBaM").href = "https://www.tidymodels.org/start/models/";} catch { };		// TidyModels
 try {document.getElementById("TMP").href = "https://www.tidymodels.org/start/recipes/";} catch { };		// TidyModels
 
+try {document.getElementById("TMER").href = "https://www.tidymodels.org/start/resampling/";} catch { };		// TidyModels
+try {document.getElementById("IMS12").href = "https://openintro-ims.netlify.app/foundations-bootstrapping.html";} catch { };  // IMS
+
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
 try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} catch { };
@@ -493,6 +522,10 @@ try {document.getElementById("CA8YT").href = "https://youtu.be/a7Iu8lvWvRU";} ca
 try {document.getElementById("CA8MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+08+-+Code+along/1_xuksuu4p";} catch { };
 try {document.getElementById("CA8Rmd").href = "https://github.com/ids-s1-21/code-along-08/blob/main/pubs.Rmd";} catch { };
 try {document.getElementById("CA8Md").href = "https://github.com/ids-s1-21/code-along-08/blob/main/pubs.md";} catch { };
+try {document.getElementById("CA9YT").href = "https://youtu.be/MYlD8SDXx1U";} catch { };
+try {document.getElementById("CA9MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+09+-+Code+along/1_dh87j3zy";} catch { };
+try {document.getElementById("CA9Rmd").href = "https://github.com/ids-s1-21/code-along-09/blob/main/pubs.Rmd";} catch { };
+try {document.getElementById("CA9Md").href = "https://github.com/ids-s1-21/code-along-09/blob/main/pubs.md";} catch { };
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };
@@ -505,6 +538,8 @@ try {document.getElementById("RT7").href = "https://minecr.shinyapps.io/dsbox-05
 try {document.getElementById("RT8").href = "https://rstudio.cloud/learn/primers/6";} catch { };
 try {document.getElementById("RT9").href = "https://rstudio.cloud/learn/primers/5";} catch { };
 try {document.getElementById("RT10").href = "https://minecr.shinyapps.io/dsbox-06-dcbikeshare/";} catch { };
+try {document.getElementById("RT11").href = "https://minecr.shinyapps.io/dsbox-07-exploregss/";} catch { };
+try {document.getElementById("RT12").href = "https://minecr.shinyapps.io/dsbox-08-bootstrapgss/";} catch { };
 
 // Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
 // TidyTuesday

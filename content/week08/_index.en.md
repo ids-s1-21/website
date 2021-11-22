@@ -71,7 +71,7 @@ Linear models for predicting numerical data from single and multiple variables.
 
 ## Interactive R tutorials
 
-<p style="text-align: left"> The following interactive R tutorial is designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.</p>
+<p style="text-align: left"> The following interactive R tutorial is designed to give you more practice with R. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.</p>
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|

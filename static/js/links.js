@@ -308,8 +308,8 @@ try {document.getElementById("W9L4MH").href = "https://media.ed.ac.uk/media/IDS+
 try {document.getElementById("W9L4S").href = "https://ids-s1-21.github.io/slides/week-09/w9-d04-feature-engineering/w9-d04-feature-engineering.html#1";} catch { };	// slides
 
 // week 10 lecture 1
-try {document.getElementById("W10L1YT").href = "";} catch { };	// youtube
-try {document.getElementById("W10L1MH").href = "";} catch { };	// mediahopper
+try {document.getElementById("W10L1YT").href = "https://youtu.be/Rh-imO8YGy4";} catch { };	// youtube
+try {document.getElementById("W10L1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+10+-+01+-+Keeping+up+with+IDS/1_1l142zjp";} catch { };	// mediahopper
 
 // week 10 lecture 2
 try {document.getElementById("W10L2YT").href = "https://youtu.be/L1KfIISmUT4";} catch { };	// youtube

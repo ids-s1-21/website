@@ -51,7 +51,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 | Lab08: Make progress on projects | <li><a id="LAB8I">Instructions</a></li> | (Not Assessed)  |
 | OQ09: Modeling overview | <li><a id="OQ9">Quiz</a></li> | Wed, 1 Dec, 23:59 UK |
 | Project | <li><a id="project">Instructions</a></li><li><a id="projectR">Repository</a></li> | Fri, 3 Dec, 09:00 UK | 
-| PE04: Peer evaluation 04 | <li><a id="PE04">Survey</a></li> | Sat, 4 Dec, 23:59 UK |
+| Peer Evaluation (Project) | (Emailed to University Email Address via TEAMMATES) | Sat, 4 Dec, 23:59 UK |
 
 ## Readings
 

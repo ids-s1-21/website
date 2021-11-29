@@ -334,6 +334,35 @@ try {document.getElementById("W10L6YT").href = "https://youtu.be/bdqpI3iVOso";} 
 try {document.getElementById("W10L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+10+-+06+-+Bootstrapping/1_5rizp6s9";} catch { };	// mediahopper
 try {document.getElementById("W10L6S").href = "https://ids-s1-21.github.io/slides/week-10/w10-d06-bootstrap/w10-d06-bootstrap.html#1";} catch { };	// slides
 
+// week 11 lecture 1
+try {document.getElementById("W11L1YT").href = "";} catch { };	// youtube
+try {document.getElementById("W11L1MH").href = "";} catch { };	// mediahopper
+
+// week 10 lecture 2
+try {document.getElementById("W11L2YT").href = "https://youtu.be/_YqEHZccujc";} catch { };	// youtube
+try {document.getElementById("W11L2MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+11+-+02+-+Text+analysis/1_fde8volk";} catch { };	// mediahopper
+try {document.getElementById("W11L2S").href = "https://ids-s1-21.github.io/slides/week-11/w11-d02-text-analysis/w11-d02-text-analysis.html#1";} catch { };	// slides
+
+// week 10 lecture 3
+try {document.getElementById("W11L3YT").href = "https://youtu.be/Q79feeFbsxM";} catch { };	// youtube
+try {document.getElementById("W11L3MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+11+-+03+-+Comparing+texts/1_345gr2x6";} catch { };	// mediahopper
+try {document.getElementById("W11L3S").href = "https://ids-s1-21.github.io/slides/week-11/w11-d03-comparing-texts/w11-d03-comparing-texts.html#1";} catch { };	// slides
+
+// week 10 lecture 4
+try {document.getElementById("W11L4YT").href = "https://youtu.be/gXBEOFWrxsk";} catch { };	// youtube
+try {document.getElementById("W11L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+11+-+04+-+Interactive+web+apps/1_x5w3dqal";} catch { };	// mediahopper
+try {document.getElementById("W11L4S").href = "https://ids-s1-21.github.io/slides/week-11/w11-d04-interactive-web-app/w11-d04-interactive-web-app.html#1";} catch { };	// slides
+
+// week 10 lecture 5
+try {document.getElementById("W11L5YT").href = "https://youtu.be/IP5skNjwo7A";} catch { };	// youtube
+try {document.getElementById("W11L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+11+-+05+-+Machine+learning/1_iftzg29s";} catch { };	// mediahopper
+try {document.getElementById("W11L5S").href = "https://ids-s1-21.github.io/slides/week-11/w11-d05-machine-learning/w11-d05-machine-learning.html#1";} catch { };	// slides
+
+// week 10 lecture 6
+try {document.getElementById("W11L6YT").href = "";} catch { };	// youtube
+try {document.getElementById("W11L6MH").href = "";} catch { };	// mediahopper
+try {document.getElementById("W11L6S").href = "";} catch { };	// slides
+
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
@@ -490,6 +519,13 @@ try {document.getElementById("TMP").href = "https://www.tidymodels.org/start/rec
 try {document.getElementById("TMER").href = "https://www.tidymodels.org/start/resampling/";} catch { };		// TidyModels
 try {document.getElementById("IMS12").href = "https://openintro-ims.netlify.app/foundations-bootstrapping.html";} catch { };  // IMS
 
+try {document.getElementById("TMwR1").href = "https://www.tidytextmining.com/tidytext.html";} catch { };
+try {document.getElementById("TMwR2").href = "https://www.tidytextmining.com/sentiment.html";} catch { };
+try {document.getElementById("TMwR3").href = "https://www.tidytextmining.com/tfidf.html";} catch { }; 
+try {document.getElementById("MS1").href = "https://mastering-shiny.org/basic-app.html";} catch { };
+try {document.getElementById("SMLTAR7").href = "https://smltar.com/mlclassification.html";} catch { };
+
+
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
 try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} catch { };
@@ -526,6 +562,13 @@ try {document.getElementById("CA9YT").href = "https://youtu.be/MYlD8SDXx1U";} ca
 try {document.getElementById("CA9MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+09+-+Code+along/1_dh87j3zy";} catch { };
 try {document.getElementById("CA9Rmd").href = "https://github.com/ids-s1-21/code-along-09/blob/main/pubs.Rmd";} catch { };
 try {document.getElementById("CA9Md").href = "https://github.com/ids-s1-21/code-along-09/blob/main/pubs.md";} catch { };
+try {document.getElementById("CA10YT").href = "https://youtu.be/r-vMCESDOTo";} catch { };
+try {document.getElementById("CA10MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+10+-+Code+along/1_qfvq55oh";} catch { };
+try {document.getElementById("CA10Rmd").href = "https://github.com/ids-s1-21/code-along-10/blob/main/pubs.Rmd";} catch { };
+try {document.getElementById("CA10Md").href = "https://github.com/ids-s1-21/code-along-10/blob/main/pubs.md";} catch { };
+try {document.getElementById("CA11YT").href = "https://youtu.be/pzsHSMoqQvw";} catch { };
+try {document.getElementById("CA11MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+10+-+Code+along/1_ti9g30zp";} catch { };
+try {document.getElementById("CA11pdf").href = "https://github.com/mine-cetinkaya-rundel/design-deck/blob/master/design-slide-deck-nature.pdf";} catch { };
 
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };
@@ -627,10 +670,10 @@ try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/mi
 try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
 try {document.getElementById('GHSDP').href = "https://education.github.com/students";} catch { };
 try {document.getElementById('licence').href = "https://github.com/ids-s1-21/website/blob/main/LICENSE.md";} catch { };
+try {document.getElementById('FMS').href = "https://github.com/mine-cetinkaya-rundel/fm-speeches-covid19";} catch { };
 
 try {document.getElementById('feedbackW3').href = "https://forms.office.com/r/mSAw5ic3Vt";} catch { }; // week 3 course evaluation
 try {document.getElementById('feedbackW5').href = "https://forms.office.com/r/6hB8MmAwjp";} catch { }; // week 5/6 course evaluation
-
 
 // Complete -------------------------------------------------------------------------------------------------------------------------------------------------
 console.log('Links Added');

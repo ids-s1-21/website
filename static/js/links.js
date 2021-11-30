@@ -335,8 +335,8 @@ try {document.getElementById("W10L6MH").href = "https://media.ed.ac.uk/media/IDS
 try {document.getElementById("W10L6S").href = "https://ids-s1-21.github.io/slides/week-10/w10-d06-bootstrap/w10-d06-bootstrap.html#1";} catch { };	// slides
 
 // week 11 lecture 1
-try {document.getElementById("W11L1YT").href = "";} catch { };	// youtube
-try {document.getElementById("W11L1MH").href = "";} catch { };	// mediahopper
+try {document.getElementById("W11L1YT").href = "https://youtu.be/sCjLPOOcRwk";} catch { };	// youtube
+try {document.getElementById("W11L1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+11+-+01+-+Keeping+up+with+IDS/1_8jmds118";} catch { };	// mediahopper
 
 // week 10 lecture 2
 try {document.getElementById("W11L2YT").href = "https://youtu.be/_YqEHZccujc";} catch { };	// youtube

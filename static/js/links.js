@@ -359,9 +359,8 @@ try {document.getElementById("W11L5MH").href = "https://media.ed.ac.uk/media/IDS
 try {document.getElementById("W11L5S").href = "https://ids-s1-21.github.io/slides/week-11/w11-d05-machine-learning/w11-d05-machine-learning.html#1";} catch { };	// slides
 
 // week 10 lecture 6
-try {document.getElementById("W11L6YT").href = "";} catch { };	// youtube
-try {document.getElementById("W11L6MH").href = "";} catch { };	// mediahopper
-try {document.getElementById("W11L6S").href = "";} catch { };	// slides
+try {document.getElementById("W11L6YT").href = "https://youtu.be/DBgJ3Dncbcg";} catch { };	// youtube
+try {document.getElementById("W11L6MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+11+-+06+-+Wrapping+up+IDS%21/1_ss0f3t4v";} catch { };	// mediahopper
 
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };

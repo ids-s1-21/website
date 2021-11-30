@@ -36,7 +36,7 @@ Additional topics beyond IDS.
 | 03  | Comparing texts	 | <a id="W11L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W11L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 04  | Interactive web apps | <a id="W11L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W11L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
 | 05  | Machine learning | <a id="W11L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> |  <a id="W11L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
-| 06  | Wrapping up IDS | <a id="Error3"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="Error4"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
+| 06  | Wrapping up IDS | <a id="W11L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 
 ## Assignments
 

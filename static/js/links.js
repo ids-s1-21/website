@@ -472,10 +472,10 @@ try {document.getElementById("OpenSci").href = "https://ropensci.github.io/repro
 try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };
 try {document.getElementById("nhsr").href = "https://nhsrcommunity.com/blog/how-r-changed-me-as-an-analyst/";} catch { };
 try {document.getElementById("RGit").href = "https://happygitwithr.com/";} catch { };
-try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf";} catch { };
-try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf";} catch { };
-try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf";} catch { };
-try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf";} catch { };
+try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/cheatsheets/blob/main/rstudio-ide.pdf";} catch { };
+try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/cheatsheets/blob/main/rmarkdown-2.0.pdf";} catch { };
+try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf";} catch { };
+try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf";} catch { };
 
 try {document.getElementById("R4DS3").href = "https://r4ds.had.co.nz/data-visualisation.html";} catch { };		// R4DS: Chapter 3
 try {document.getElementById("DV3").href = "https://socviz.co/makeplot.html";} catch { };		// Data Visualisation: Chapter 3
@@ -666,10 +666,14 @@ try {document.getElementById('specialCircumstancesExplained').href = "https://te
 try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; //Institute for Academic Development
 try {document.getElementById('Piazza').href = "https://piazza.com/ed.ac.uk/fall2021/math08077/home";} catch { }; //Institute for Academic Development
 try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
+try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { }; //Institute for Academic Development
 try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
 try {document.getElementById('GHSDP').href = "https://education.github.com/students";} catch { };
 try {document.getElementById('licence').href = "https://github.com/ids-s1-21/website/blob/main/LICENSE.md";} catch { };
 try {document.getElementById('FMS').href = "https://github.com/mine-cetinkaya-rundel/fm-speeches-covid19";} catch { };
+
+try {document.getElementById('advR').href = "https://adv-r.hadley.nz/";} catch { };
+try {document.getElementById('TMwR').href = "https://www.tmwr.org/";} catch { };
 
 try {document.getElementById('feedbackW3').href = "https://forms.office.com/r/mSAw5ic3Vt";} catch { }; // week 3 course evaluation
 try {document.getElementById('feedbackW5').href = "https://forms.office.com/r/6hB8MmAwjp";} catch { }; // week 5/6 course evaluation

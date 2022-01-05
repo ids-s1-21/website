@@ -152,3 +152,28 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 - There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it *or* pre-record and submit your presentation by 9am in the morning of the presentations.  (In case of illness, requirement to self-isolate or similar, special circumstances can be applied for from the university: see the <a id="Policies">Policies" page</a>.
 
 - The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline. If you intend to submit work late for the project, you must notify the course organizer before the original deadline, and also as soon as the completed work is submitted on GitHub.
+
+### Making your project public
+At the end of the course you will have the opportunity to make your project repositories public to show off your work. Instructions on how to do this are below:
+
+1. Decide as a team if the entire team is ok with some or all members to fork the team repo and feature it on their profiles, keeping in mind that the commit history will show contributions from everyone.
+
+2. Have one member of the team email the course organiser with everyone else in the cc requesting that project made public. I will then change the projects visibility.
+
+{{% notice note %}}
+The next bit is optional but recommended as it will mean it appears on your own GitHub profile and you can make any changes you like without affecting the original.
+{{% /notice %}}
+
+3. Once public, you can press the *fork* button to make a copy of the repository. This will bring its commit history (but not the issues, i.e. not the feedback with your proposal score on it) along with it. 
+
+<img src="/images/assessments/fork1.PNG"/>
+
+4. You can then assign the fork to your GitHub profile.
+
+<img src="/images/assessments/fork2.PNG"/>
+
+<img src="/images/assessments/fork3.PNG"/>
+
+5. If you wish you can then pin it in your GitHub profile and/or continue to make changes to it as you like.
+
+<img src="/images/assessments/fork4.PNG"/>

@@ -156,6 +156,10 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 ### Making your project public
 At the end of the course you will have the opportunity to make your project repositories public to show off your work. Instructions on how to do this are below:
 
+{{% notice tip %}}
+You may want to close any remaining issues.
+{{% /notice %}}
+
 1. Decide as a team if the entire team is ok with some or all members to fork the team repo and feature it on their profiles, keeping in mind that the commit history will show contributions from everyone.
 
 2. Have one member of the team email the course organiser with everyone else in the cc requesting that project made public. I will then change the projects visibility.
